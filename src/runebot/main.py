@@ -59,7 +59,8 @@ def normalize_rune_name(rune_text: str) -> str:
     
     # Ensure at least "X Rune"
     if len(parts) >= 2 and parts[-1].lower() == "rune":
-        return f"{parts[-2:1][0]}" #what is going on here
+        print(parts)
+        return f"{parts[-2]}" #what is going on here
     return clean[0]  # fallback
 
 
@@ -67,12 +68,14 @@ def normalize_rune_name(rune_text: str) -> str:
 with mss.mss() as sct:
     rune_grade_ss = sct.grab(rune_grade)
     rune_grade_img = Image.frombytes('RGB', rune_grade_ss.size, rune_grade_ss.rgb)
+    rune_grade_img.save("rune_grade_img.png")
     rune_grade_text = pytesseract.image_to_string(rune_grade_img)
     rune_grade_lines = [re.sub(r"\s+", " ", line.strip()) for line in rune_grade_text.split("\n") if line.strip()]
     # print(rune_grade_lines[0])
 
     title_ss = sct.grab(title_bbox)
     title_ss_img = Image.frombytes('RGB', title_ss.size, title_ss.rgb)
+    title_ss_img.save("title_ss_img.png")
     title_ss_text = pytesseract.image_to_string(title_ss_img)
     title_ss_lines = [re.sub(r"\s+", " ", line.strip()) for line in title_ss_text.split("\n") if line.strip()]
     match = re.match(r"(.+?)\s*\((\d+)\)", title_ss_lines[0])
@@ -86,6 +89,7 @@ with mss.mss() as sct:
 
     main_stat_ss = sct.grab(mainstat_bbox)
     main_stat_img = Image.frombytes('RGB', main_stat_ss.size, main_stat_ss.rgb)
+    main_stat_img.save("main_stat_img.png")
     main_stat_text = pytesseract.image_to_string(main_stat_img)
     main_stat_lines = [re.sub(r"\s+", " ", line.strip()) for line in main_stat_text.split("\n") if line.strip()]
     main_stats = []
@@ -110,6 +114,7 @@ with mss.mss() as sct:
 
     sub_stats_ss = sct.grab(substats_bbox)
     sub_stats_img = Image.frombytes('RGB', sub_stats_ss.size, sub_stats_ss.rgb)
+    sub_stats_img.save("sub_stats_img.png")
     sub_stats_text = pytesseract.image_to_string(sub_stats_img)
     sub_stats_lines = [re.sub(r"\s+", " ", line.strip()) for line in sub_stats_text.split("\n") if line.strip()]
     sub_stats = {}

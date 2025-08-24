@@ -1,5 +1,5 @@
 [project]
-name = "swsabox"
+name = "runebot"
 version = "0.1.0"
 description = ""
 authors = [
@@ -18,7 +18,7 @@ dependencies = [
 ]
 
 [tool.poetry]
-packages = [{include = "swsabox", from = "src"}]
+packages = [{include = "runebot", from = "src"}]
 
 
 [build-system]
