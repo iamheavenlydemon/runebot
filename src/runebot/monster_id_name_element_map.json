@@ -1,0 +1,11082 @@
+{
+  "12302": {
+    "name": "Forest Keeper",
+    "element": "Fire"
+  },
+  "12702": {
+    "name": "Ghost",
+    "element": "Fire"
+  },
+  "13002": {
+    "name": "Horned Frog",
+    "element": "Fire"
+  },
+  "12902": {
+    "name": "Mimic",
+    "element": "Fire"
+  },
+  "12402": {
+    "name": "Mushroom",
+    "element": "Fire"
+  },
+  "13102": {
+    "name": "Sandman",
+    "element": "Fire"
+  },
+  "14202": {
+    "name": "Angelmon",
+    "element": "Fire"
+  },
+  "14212": {
+    "name": "Red Angelmon",
+    "element": "Fire"
+  },
+  "18202": {
+    "name": "King Angelmon",
+    "element": "Fire"
+  },
+  "18212": {
+    "name": "Red King Angelmon",
+    "element": "Fire"
+  },
+  "12802": {
+    "name": "Low Elemental",
+    "element": "Fire"
+  },
+  "12812": {
+    "name": "Lamor",
+    "element": "Fire"
+  },
+  "12502": {
+    "name": "Maned Boar",
+    "element": "Fire"
+  },
+  "12602": {
+    "name": "Monster Flower",
+    "element": "Fire"
+  },
+  "16402": {
+    "name": "Skull Soldier",
+    "element": "Fire"
+  },
+  "13602": {
+    "name": "Surprise Box",
+    "element": "Fire"
+  },
+  "10802": {
+    "name": "Elemental",
+    "element": "Fire"
+  },
+  "10812": {
+    "name": "Bremis",
+    "element": "Fire"
+  },
+  "10902": {
+    "name": "Garuda",
+    "element": "Fire"
+  },
+  "10912": {
+    "name": "Cahule",
+    "element": "Fire"
+  },
+  "12102": {
+    "name": "Harpu",
+    "element": "Fire"
+  },
+  "12112": {
+    "name": "Colleen",
+    "element": "Fire"
+  },
+  "10602": {
+    "name": "Hellhound",
+    "element": "Fire"
+  },
+  "10612": {
+    "name": "Sieq",
+    "element": "Fire"
+  },
+  "13202": {
+    "name": "Howl",
+    "element": "Fire"
+  },
+  "13212": {
+    "name": "Lala",
+    "element": "Fire"
+  },
+  "10202": {
+    "name": "Imp",
+    "element": "Fire"
+  },
+  "10212": {
+    "name": "Cogma",
+    "element": "Fire"
+  },
+  "10302": {
+    "name": "Pixie",
+    "element": "Fire"
+  },
+  "10312": {
+    "name": "Tatu",
+    "element": "Fire"
+  },
+  "10702": {
+    "name": "Warbear",
+    "element": "Fire"
+  },
+  "10712": {
+    "name": "Ursha",
+    "element": "Fire"
+  },
+  "10402": {
+    "name": "Yeti",
+    "element": "Fire"
+  },
+  "10412": {
+    "name": "Tantra",
+    "element": "Fire"
+  },
+  "12301": {
+    "name": "Forest Keeper",
+    "element": "Water"
+  },
+  "12701": {
+    "name": "Ghost",
+    "element": "Water"
+  },
+  "13001": {
+    "name": "Horned Frog",
+    "element": "Water"
+  },
+  "12901": {
+    "name": "Mimic",
+    "element": "Water"
+  },
+  "12401": {
+    "name": "Mushroom",
+    "element": "Water"
+  },
+  "13101": {
+    "name": "Sandman",
+    "element": "Water"
+  },
+  "12201": {
+    "name": "Slime",
+    "element": "Water"
+  },
+  "14201": {
+    "name": "Angelmon",
+    "element": "Water"
+  },
+  "18201": {
+    "name": "King Angelmon",
+    "element": "Water"
+  },
+  "12801": {
+    "name": "Low Elemental",
+    "element": "Water"
+  },
+  "12501": {
+    "name": "Maned Boar",
+    "element": "Water"
+  },
+  "12601": {
+    "name": "Monster Flower",
+    "element": "Water"
+  },
+  "16401": {
+    "name": "Skull Soldier",
+    "element": "Water"
+  },
+  "13601": {
+    "name": "Surprise Box",
+    "element": "Water"
+  },
+  "14211": {
+    "name": "Blue Angelmon",
+    "element": "Water"
+  },
+  "18211": {
+    "name": "Blue King Angelmon",
+    "element": "Water"
+  },
+  "12811": {
+    "name": "Tigresse",
+    "element": "Water"
+  },
+  "10801": {
+    "name": "Elemental",
+    "element": "Water"
+  },
+  "10811": {
+    "name": "Daharenos",
+    "element": "Water"
+  },
+  "10901": {
+    "name": "Garuda",
+    "element": "Water"
+  },
+  "10911": {
+    "name": "Konamiya",
+    "element": "Water"
+  },
+  "12101": {
+    "name": "Harpu",
+    "element": "Water"
+  },
+  "12111": {
+    "name": "Sisroo",
+    "element": "Water"
+  },
+  "10601": {
+    "name": "Hellhound",
+    "element": "Water"
+  },
+  "10611": {
+    "name": "Tarq",
+    "element": "Water"
+  },
+  "13201": {
+    "name": "Howl",
+    "element": "Water"
+  },
+  "13211": {
+    "name": "Lulu",
+    "element": "Water"
+  },
+  "10201": {
+    "name": "Imp",
+    "element": "Water"
+  },
+  "10211": {
+    "name": "Fynn",
+    "element": "Water"
+  },
+  "10301": {
+    "name": "Pixie",
+    "element": "Water"
+  },
+  "10311": {
+    "name": "Kacey",
+    "element": "Water"
+  },
+  "11101": {
+    "name": "Salamander",
+    "element": "Water"
+  },
+  "11111": {
+    "name": "Kaimann",
+    "element": "Water"
+  },
+  "15201": {
+    "name": "Vagabond",
+    "element": "Water"
+  },
+  "15211": {
+    "name": "Allen",
+    "element": "Water"
+  },
+  "14801": {
+    "name": "Viking",
+    "element": "Water"
+  },
+  "10401": {
+    "name": "Yeti",
+    "element": "Water"
+  },
+  "10411": {
+    "name": "Kunda",
+    "element": "Water"
+  },
+  "12303": {
+    "name": "Forest Keeper",
+    "element": "Wind"
+  },
+  "12703": {
+    "name": "Ghost",
+    "element": "Wind"
+  },
+  "13003": {
+    "name": "Horned Frog",
+    "element": "Wind"
+  },
+  "12903": {
+    "name": "Mimic",
+    "element": "Wind"
+  },
+  "12403": {
+    "name": "Mushroom",
+    "element": "Wind"
+  },
+  "14203": {
+    "name": "Angelmon",
+    "element": "Wind"
+  },
+  "14213": {
+    "name": "Gold Angelmon",
+    "element": "Wind"
+  },
+  "18203": {
+    "name": "King Angelmon",
+    "element": "Wind"
+  },
+  "18213": {
+    "name": "Gold King Angelmon",
+    "element": "Wind"
+  },
+  "12803": {
+    "name": "Low Elemental",
+    "element": "Wind"
+  },
+  "12813": {
+    "name": "Samour",
+    "element": "Wind"
+  },
+  "12503": {
+    "name": "Maned Boar",
+    "element": "Wind"
+  },
+  "12603": {
+    "name": "Monster Flower",
+    "element": "Wind"
+  },
+  "16403": {
+    "name": "Skull Soldier",
+    "element": "Wind"
+  },
+  "13603": {
+    "name": "Surprise Box",
+    "element": "Wind"
+  },
+  "10803": {
+    "name": "Elemental",
+    "element": "Wind"
+  },
+  "10813": {
+    "name": "Taharus",
+    "element": "Wind"
+  },
+  "10103": {
+    "name": "Fairy",
+    "element": "Wind"
+  },
+  "10113": {
+    "name": "Aeilene",
+    "element": "Wind"
+  },
+  "10903": {
+    "name": "Garuda",
+    "element": "Wind"
+  },
+  "10913": {
+    "name": "Lindermen",
+    "element": "Wind"
+  },
+  "12202": {
+    "name": "Slime",
+    "element": "Fire"
+  },
+  "12103": {
+    "name": "Harpu",
+    "element": "Wind"
+  },
+  "12113": {
+    "name": "Seal",
+    "element": "Wind"
+  },
+  "10603": {
+    "name": "Hellhound",
+    "element": "Wind"
+  },
+  "10613": {
+    "name": "Gamir",
+    "element": "Wind"
+  },
+  "13203": {
+    "name": "Howl",
+    "element": "Wind"
+  },
+  "13213": {
+    "name": "Chichi",
+    "element": "Wind"
+  },
+  "10203": {
+    "name": "Imp",
+    "element": "Wind"
+  },
+  "10213": {
+    "name": "Ralph",
+    "element": "Wind"
+  },
+  "10303": {
+    "name": "Pixie",
+    "element": "Wind"
+  },
+  "10313": {
+    "name": "Shannon",
+    "element": "Wind"
+  },
+  "11103": {
+    "name": "Salamander",
+    "element": "Wind"
+  },
+  "11113": {
+    "name": "Lukan",
+    "element": "Wind"
+  },
+  "15203": {
+    "name": "Vagabond",
+    "element": "Wind"
+  },
+  "15213": {
+    "name": "Roid",
+    "element": "Wind"
+  },
+  "10703": {
+    "name": "Warbear",
+    "element": "Wind"
+  },
+  "10713": {
+    "name": "Ramagos",
+    "element": "Wind"
+  },
+  "10403": {
+    "name": "Yeti",
+    "element": "Wind"
+  },
+  "10413": {
+    "name": "Rakaja",
+    "element": "Wind"
+  },
+  "15105": {
+    "name": "Devilmon",
+    "element": "Dark"
+  },
+  "12705": {
+    "name": "Ghost",
+    "element": "Dark"
+  },
+  "13005": {
+    "name": "Horned Frog",
+    "element": "Dark"
+  },
+  "12905": {
+    "name": "Mimic",
+    "element": "Dark"
+  },
+  "13105": {
+    "name": "Sandman",
+    "element": "Dark"
+  },
+  "14205": {
+    "name": "Angelmon",
+    "element": "Dark"
+  },
+  "14215": {
+    "name": "Dark Angelmon",
+    "element": "Dark"
+  },
+  "18205": {
+    "name": "King Angelmon",
+    "element": "Dark"
+  },
+  "18215": {
+    "name": "Dark King Angelmon",
+    "element": "Dark"
+  },
+  "12805": {
+    "name": "Low Elemental",
+    "element": "Dark"
+  },
+  "12815": {
+    "name": "Havana",
+    "element": "Dark"
+  },
+  "12605": {
+    "name": "Monster Flower",
+    "element": "Dark"
+  },
+  "13605": {
+    "name": "Surprise Box",
+    "element": "Dark"
+  },
+  "10105": {
+    "name": "Fairy",
+    "element": "Dark"
+  },
+  "10115": {
+    "name": "Sorin",
+    "element": "Dark"
+  },
+  "10905": {
+    "name": "Garuda",
+    "element": "Dark"
+  },
+  "10915": {
+    "name": "Rizak",
+    "element": "Dark"
+  },
+  "13205": {
+    "name": "Howl",
+    "element": "Dark"
+  },
+  "13215": {
+    "name": "Chacha",
+    "element": "Dark"
+  },
+  "10205": {
+    "name": "Imp",
+    "element": "Dark"
+  },
+  "10215": {
+    "name": "Garok",
+    "element": "Dark"
+  },
+  "10305": {
+    "name": "Pixie",
+    "element": "Dark"
+  },
+  "10315": {
+    "name": "Camaryn",
+    "element": "Dark"
+  },
+  "11105": {
+    "name": "Salamander",
+    "element": "Dark"
+  },
+  "11115": {
+    "name": "Decamaron",
+    "element": "Dark"
+  },
+  "10705": {
+    "name": "Warbear",
+    "element": "Dark"
+  },
+  "10715": {
+    "name": "Gorgo",
+    "element": "Dark"
+  },
+  "14204": {
+    "name": "Angelmon",
+    "element": "Light"
+  },
+  "14214": {
+    "name": "White Angelmon",
+    "element": "Light"
+  },
+  "18204": {
+    "name": "King Angelmon",
+    "element": "Light"
+  },
+  "18214": {
+    "name": "White King Angelmon",
+    "element": "Light"
+  },
+  "13604": {
+    "name": "Surprise Box",
+    "element": "Light"
+  },
+  "10604": {
+    "name": "Hellhound",
+    "element": "Light"
+  },
+  "10614": {
+    "name": "Shamar",
+    "element": "Light"
+  },
+  "13204": {
+    "name": "Howl",
+    "element": "Light"
+  },
+  "13214": {
+    "name": "Shushu",
+    "element": "Light"
+  },
+  "10204": {
+    "name": "Imp",
+    "element": "Light"
+  },
+  "10214": {
+    "name": "Taru",
+    "element": "Light"
+  },
+  "10304": {
+    "name": "Pixie",
+    "element": "Light"
+  },
+  "10314": {
+    "name": "Cheryl",
+    "element": "Light"
+  },
+  "11104": {
+    "name": "Salamander",
+    "element": "Light"
+  },
+  "11114": {
+    "name": "Sharman",
+    "element": "Light"
+  },
+  "14804": {
+    "name": "Viking",
+    "element": "Light"
+  },
+  "14814": {
+    "name": "Jansson",
+    "element": "Light"
+  },
+  "10404": {
+    "name": "Yeti",
+    "element": "Light"
+  },
+  "10414": {
+    "name": "Arkajan",
+    "element": "Light"
+  },
+  "12814": {
+    "name": "Varis",
+    "element": "Light"
+  },
+  "14902": {
+    "name": "Amazon",
+    "element": "Fire"
+  },
+  "19002": {
+    "name": "Battle Mammoth",
+    "element": "Fire"
+  },
+  "13702": {
+    "name": "Bearman",
+    "element": "Fire"
+  },
+  "18502": {
+    "name": "Beast Hunter",
+    "element": "Fire"
+  },
+  "15602": {
+    "name": "Bounty Hunter",
+    "element": "Fire"
+  },
+  "17202": {
+    "name": "Drunken Master",
+    "element": "Fire"
+  },
+  "14912": {
+    "name": "Ceres",
+    "element": "Fire"
+  },
+  "19012": {
+    "name": "Granite",
+    "element": "Fire"
+  },
+  "13712": {
+    "name": "Kungen",
+    "element": "Fire"
+  },
+  "18512": {
+    "name": "Nangrim",
+    "element": "Fire"
+  },
+  "15612": {
+    "name": "Randy",
+    "element": "Fire"
+  },
+  "19302": {
+    "name": "Cow Girl",
+    "element": "Fire"
+  },
+  "19312": {
+    "name": "Anne",
+    "element": "Fire"
+  },
+  "17212": {
+    "name": "Xiao Chun",
+    "element": "Fire"
+  },
+  "10102": {
+    "name": "Fairy",
+    "element": "Fire"
+  },
+  "10112": {
+    "name": "Iselia",
+    "element": "Fire"
+  },
+  "11402": {
+    "name": "Golem",
+    "element": "Fire"
+  },
+  "11412": {
+    "name": "Kugo",
+    "element": "Fire"
+  },
+  "11502": {
+    "name": "Griffon",
+    "element": "Fire"
+  },
+  "11512": {
+    "name": "Spectra",
+    "element": "Fire"
+  },
+  "16002": {
+    "name": "Grim Reaper",
+    "element": "Fire"
+  },
+  "16012": {
+    "name": "Sath",
+    "element": "Fire"
+  },
+  "10502": {
+    "name": "Harpy",
+    "element": "Fire"
+  },
+  "10512": {
+    "name": "Lucasha",
+    "element": "Fire"
+  },
+  "12002": {
+    "name": "High Elemental",
+    "element": "Fire"
+  },
+  "12012": {
+    "name": "Kahli",
+    "element": "Fire"
+  },
+  "15802": {
+    "name": "Imp Champion",
+    "element": "Fire"
+  },
+  "15812": {
+    "name": "Fairo",
+    "element": "Fire"
+  },
+  "11702": {
+    "name": "Inferno",
+    "element": "Fire"
+  },
+  "11712": {
+    "name": "Tagaros",
+    "element": "Fire"
+  },
+  "11002": {
+    "name": "Inugami",
+    "element": "Fire"
+  },
+  "11012": {
+    "name": "Raoq",
+    "element": "Fire"
+  },
+  "16502": {
+    "name": "Living Armor",
+    "element": "Fire"
+  },
+  "16512": {
+    "name": "Iron",
+    "element": "Fire"
+  },
+  "17802": {
+    "name": "Lizardman",
+    "element": "Fire"
+  },
+  "17812": {
+    "name": "Igmanodon",
+    "element": "Fire"
+  },
+  "15402": {
+    "name": "Magical Archer",
+    "element": "Fire"
+  },
+  "15412": {
+    "name": "Amanda",
+    "element": "Fire"
+  },
+  "15002": {
+    "name": "Martial Cat",
+    "element": "Fire"
+  },
+  "15012": {
+    "name": "Mei",
+    "element": "Fire"
+  },
+  "17702": {
+    "name": "Minotauros",
+    "element": "Fire"
+  },
+  "17712": {
+    "name": "Burentau",
+    "element": "Fire"
+  },
+  "15902": {
+    "name": "Mystic Witch",
+    "element": "Fire"
+  },
+  "15912": {
+    "name": "Rebecca",
+    "element": "Fire"
+  },
+  "18702": {
+    "name": "Penguin Knight",
+    "element": "Fire"
+  },
+  "18712": {
+    "name": "Naki",
+    "element": "Fire"
+  },
+  "11102": {
+    "name": "Salamander",
+    "element": "Fire"
+  },
+  "11112": {
+    "name": "Krakdon",
+    "element": "Fire"
+  },
+  "11302": {
+    "name": "Serpent",
+    "element": "Fire"
+  },
+  "11312": {
+    "name": "Fao",
+    "element": "Fire"
+  },
+  "18402": {
+    "name": "Taoist",
+    "element": "Fire"
+  },
+  "18412": {
+    "name": "Gunpyeong",
+    "element": "Fire"
+  },
+  "15202": {
+    "name": "Vagabond",
+    "element": "Fire"
+  },
+  "15212": {
+    "name": "Kai'en",
+    "element": "Fire"
+  },
+  "14802": {
+    "name": "Viking",
+    "element": "Fire"
+  },
+  "14812": {
+    "name": "Geoffrey",
+    "element": "Fire"
+  },
+  "14002": {
+    "name": "Werewolf",
+    "element": "Fire"
+  },
+  "14012": {
+    "name": "Garoche",
+    "element": "Fire"
+  },
+  "18802": {
+    "name": "Barbaric King",
+    "element": "Fire"
+  },
+  "18812": {
+    "name": "Surtr",
+    "element": "Fire"
+  },
+  "18002": {
+    "name": "Brownie Magician",
+    "element": "Fire"
+  },
+  "18012": {
+    "name": "Draco",
+    "element": "Fire"
+  },
+  "16202": {
+    "name": "Death Knight",
+    "element": "Fire"
+  },
+  "16212": {
+    "name": "Arnold",
+    "element": "Fire"
+  },
+  "15302": {
+    "name": "Epikion Priest",
+    "element": "Fire"
+  },
+  "15312": {
+    "name": "Chloe",
+    "element": "Fire"
+  },
+  "13402": {
+    "name": "Joker",
+    "element": "Fire"
+  },
+  "13412": {
+    "name": "Jojo",
+    "element": "Fire"
+  },
+  "18102": {
+    "name": "Kobold Bomber",
+    "element": "Fire"
+  },
+  "18112": {
+    "name": "Zibrolta",
+    "element": "Fire"
+  },
+  "17302": {
+    "name": "Kung Fu Girl",
+    "element": "Fire"
+  },
+  "17312": {
+    "name": "Hong Hua",
+    "element": "Fire"
+  },
+  "16302": {
+    "name": "Lich",
+    "element": "Fire"
+  },
+  "16312": {
+    "name": "Antares",
+    "element": "Fire"
+  },
+  "11202": {
+    "name": "Nine-tailed Fox",
+    "element": "Fire"
+  },
+  "11212": {
+    "name": "Shihwa",
+    "element": "Fire"
+  },
+  "13502": {
+    "name": "Ninja",
+    "element": "Fire"
+  },
+  "13512": {
+    "name": "Garo",
+    "element": "Fire"
+  },
+  "14102": {
+    "name": "Phantom Thief",
+    "element": "Fire"
+  },
+  "14112": {
+    "name": "Jean",
+    "element": "Fire"
+  },
+  "13902": {
+    "name": "Pierrette",
+    "element": "Fire"
+  },
+  "13912": {
+    "name": "Clara",
+    "element": "Fire"
+  },
+  "15502": {
+    "name": "Rakshasa",
+    "element": "Fire"
+  },
+  "15512": {
+    "name": "Hwa",
+    "element": "Fire"
+  },
+  "16902": {
+    "name": "Samurai",
+    "element": "Fire"
+  },
+  "16912": {
+    "name": "Jun",
+    "element": "Fire"
+  },
+  "18302": {
+    "name": "Sky Dancer",
+    "element": "Fire"
+  },
+  "18312": {
+    "name": "Hwahee",
+    "element": "Fire"
+  },
+  "13302": {
+    "name": "Succubus",
+    "element": "Fire"
+  },
+  "13312": {
+    "name": "Akia",
+    "element": "Fire"
+  },
+  "11802": {
+    "name": "Sylph",
+    "element": "Fire"
+  },
+  "11812": {
+    "name": "Baretta",
+    "element": "Fire"
+  },
+  "11902": {
+    "name": "Sylphid",
+    "element": "Fire"
+  },
+  "11912": {
+    "name": "Fria",
+    "element": "Fire"
+  },
+  "11602": {
+    "name": "Undine",
+    "element": "Fire"
+  },
+  "11612": {
+    "name": "Atenai",
+    "element": "Fire"
+  },
+  "14702": {
+    "name": "Vampire",
+    "element": "Fire"
+  },
+  "14712": {
+    "name": "Verdehile",
+    "element": "Fire"
+  },
+  "17002": {
+    "name": "Archangel",
+    "element": "Fire"
+  },
+  "17012": {
+    "name": "Velajuel",
+    "element": "Fire"
+  },
+  "17402": {
+    "name": "Beast Monk",
+    "element": "Fire"
+  },
+  "17412": {
+    "name": "Kumar",
+    "element": "Fire"
+  },
+  "14602": {
+    "name": "Chimera",
+    "element": "Fire"
+  },
+  "14612": {
+    "name": "Rakan",
+    "element": "Fire"
+  },
+  "14402": {
+    "name": "Dragon",
+    "element": "Fire"
+  },
+  "14412": {
+    "name": "Zaiross",
+    "element": "Fire"
+  },
+  "16602": {
+    "name": "Dragon Knight",
+    "element": "Fire"
+  },
+  "16612": {
+    "name": "Laika",
+    "element": "Fire"
+  },
+  "17902": {
+    "name": "Hell Lady",
+    "element": "Fire"
+  },
+  "17912": {
+    "name": "Raki",
+    "element": "Fire"
+  },
+  "19202": {
+    "name": "Ifrit",
+    "element": "Fire"
+  },
+  "19212": {
+    "name": "Tesarion",
+    "element": "Fire"
+  },
+  "16802": {
+    "name": "Monkey King",
+    "element": "Fire"
+  },
+  "16812": {
+    "name": "Mei Hou Wang",
+    "element": "Fire"
+  },
+  "16102": {
+    "name": "Occult Girl",
+    "element": "Fire"
+  },
+  "16112": {
+    "name": "Rica",
+    "element": "Fire"
+  },
+  "15702": {
+    "name": "Oracle",
+    "element": "Fire"
+  },
+  "15712": {
+    "name": "Juno",
+    "element": "Fire"
+  },
+  "14502": {
+    "name": "Phoenix",
+    "element": "Fire"
+  },
+  "14512": {
+    "name": "Perna",
+    "element": "Fire"
+  },
+  "18602": {
+    "name": "Sage",
+    "element": "Fire"
+  },
+  "18612": {
+    "name": "Chiwu",
+    "element": "Fire"
+  },
+  "18902": {
+    "name": "Polar Queen",
+    "element": "Fire"
+  },
+  "18912": {
+    "name": "Brandia",
+    "element": "Fire"
+  },
+  "13802": {
+    "name": "Valkyrja",
+    "element": "Fire"
+  },
+  "13812": {
+    "name": "Vanessa",
+    "element": "Fire"
+  },
+  "14901": {
+    "name": "Amazon",
+    "element": "Water"
+  },
+  "14911": {
+    "name": "Ellin",
+    "element": "Water"
+  },
+  "19001": {
+    "name": "Battle Mammoth",
+    "element": "Water"
+  },
+  "19011": {
+    "name": "Talc",
+    "element": "Water"
+  },
+  "13701": {
+    "name": "Bearman",
+    "element": "Water"
+  },
+  "13711": {
+    "name": "Gruda",
+    "element": "Water"
+  },
+  "18501": {
+    "name": "Beast Hunter",
+    "element": "Water"
+  },
+  "18511": {
+    "name": "Gangchun",
+    "element": "Water"
+  },
+  "15601": {
+    "name": "Bounty Hunter",
+    "element": "Water"
+  },
+  "15611": {
+    "name": "Wayne",
+    "element": "Water"
+  },
+  "19301": {
+    "name": "Cow Girl",
+    "element": "Water"
+  },
+  "19311": {
+    "name": "Sera",
+    "element": "Water"
+  },
+  "17201": {
+    "name": "Drunken Master",
+    "element": "Water"
+  },
+  "17211": {
+    "name": "Mao",
+    "element": "Water"
+  },
+  "15301": {
+    "name": "Epikion Priest",
+    "element": "Water"
+  },
+  "15311": {
+    "name": "Rina",
+    "element": "Water"
+  },
+  "10101": {
+    "name": "Fairy",
+    "element": "Water"
+  },
+  "10111": {
+    "name": "Elucia",
+    "element": "Water"
+  },
+  "11401": {
+    "name": "Golem",
+    "element": "Water"
+  },
+  "11411": {
+    "name": "Kuhn",
+    "element": "Water"
+  },
+  "11501": {
+    "name": "Griffon",
+    "element": "Water"
+  },
+  "11511": {
+    "name": "Kahn",
+    "element": "Water"
+  },
+  "16001": {
+    "name": "Grim Reaper",
+    "element": "Water"
+  },
+  "16011": {
+    "name": "Hemos",
+    "element": "Water"
+  },
+  "10501": {
+    "name": "Harpy",
+    "element": "Water"
+  },
+  "10511": {
+    "name": "Ramira",
+    "element": "Water"
+  },
+  "12001": {
+    "name": "High Elemental",
+    "element": "Water"
+  },
+  "12011": {
+    "name": "Ellena",
+    "element": "Water"
+  },
+  "15801": {
+    "name": "Imp Champion",
+    "element": "Water"
+  },
+  "15811": {
+    "name": "Yaku",
+    "element": "Water"
+  },
+  "11701": {
+    "name": "Inferno",
+    "element": "Water"
+  },
+  "11711": {
+    "name": "Purian",
+    "element": "Water"
+  },
+  "11001": {
+    "name": "Inugami",
+    "element": "Water"
+  },
+  "11011": {
+    "name": "Icaru",
+    "element": "Water"
+  },
+  "16501": {
+    "name": "Living Armor",
+    "element": "Water"
+  },
+  "16511": {
+    "name": "Nickel",
+    "element": "Water"
+  },
+  "17801": {
+    "name": "Lizardman",
+    "element": "Water"
+  },
+  "17811": {
+    "name": "Kernodon",
+    "element": "Water"
+  },
+  "15401": {
+    "name": "Magical Archer",
+    "element": "Water"
+  },
+  "15411": {
+    "name": "Sharron",
+    "element": "Water"
+  },
+  "15001": {
+    "name": "Martial Cat",
+    "element": "Water"
+  },
+  "15011": {
+    "name": "Mina",
+    "element": "Water"
+  },
+  "17701": {
+    "name": "Minotauros",
+    "element": "Water"
+  },
+  "17711": {
+    "name": "Urtau",
+    "element": "Water"
+  },
+  "15901": {
+    "name": "Mystic Witch",
+    "element": "Water"
+  },
+  "15911": {
+    "name": "Megan",
+    "element": "Water"
+  },
+  "18701": {
+    "name": "Penguin Knight",
+    "element": "Water"
+  },
+  "18711": {
+    "name": "Toma",
+    "element": "Water"
+  },
+  "11301": {
+    "name": "Serpent",
+    "element": "Water"
+  },
+  "11311": {
+    "name": "Shailoq",
+    "element": "Water"
+  },
+  "10701": {
+    "name": "Warbear",
+    "element": "Water"
+  },
+  "10711": {
+    "name": "Dagora",
+    "element": "Water"
+  },
+  "14001": {
+    "name": "Werewolf",
+    "element": "Water"
+  },
+  "14011": {
+    "name": "Vigor",
+    "element": "Water"
+  },
+  "14903": {
+    "name": "Amazon",
+    "element": "Wind"
+  },
+  "14913": {
+    "name": "Hina",
+    "element": "Wind"
+  },
+  "19003": {
+    "name": "Battle Mammoth",
+    "element": "Wind"
+  },
+  "19013": {
+    "name": "Olivine",
+    "element": "Wind"
+  },
+  "13703": {
+    "name": "Bearman",
+    "element": "Wind"
+  },
+  "13713": {
+    "name": "Dagorr",
+    "element": "Wind"
+  },
+  "18503": {
+    "name": "Beast Hunter",
+    "element": "Wind"
+  },
+  "18513": {
+    "name": "Suri",
+    "element": "Wind"
+  },
+  "15603": {
+    "name": "Bounty Hunter",
+    "element": "Wind"
+  },
+  "15613": {
+    "name": "Roger",
+    "element": "Wind"
+  },
+  "19303": {
+    "name": "Cow Girl",
+    "element": "Wind"
+  },
+  "19313": {
+    "name": "Hannah",
+    "element": "Wind"
+  },
+  "17203": {
+    "name": "Drunken Master",
+    "element": "Wind"
+  },
+  "17213": {
+    "name": "Huan",
+    "element": "Wind"
+  },
+  "15303": {
+    "name": "Epikion Priest",
+    "element": "Wind"
+  },
+  "15313": {
+    "name": "Michelle",
+    "element": "Wind"
+  },
+  "11403": {
+    "name": "Golem",
+    "element": "Wind"
+  },
+  "11413": {
+    "name": "Ragion",
+    "element": "Wind"
+  },
+  "11503": {
+    "name": "Griffon",
+    "element": "Wind"
+  },
+  "11513": {
+    "name": "Bernard",
+    "element": "Wind"
+  },
+  "16003": {
+    "name": "Grim Reaper",
+    "element": "Wind"
+  },
+  "16013": {
+    "name": "Hiva",
+    "element": "Wind"
+  },
+  "10503": {
+    "name": "Harpy",
+    "element": "Wind"
+  },
+  "10513": {
+    "name": "Prilea",
+    "element": "Wind"
+  },
+  "12003": {
+    "name": "High Elemental",
+    "element": "Wind"
+  },
+  "12013": {
+    "name": "Moria",
+    "element": "Wind"
+  },
+  "15803": {
+    "name": "Imp Champion",
+    "element": "Wind"
+  },
+  "15813": {
+    "name": "Pigma",
+    "element": "Wind"
+  },
+  "11703": {
+    "name": "Inferno",
+    "element": "Wind"
+  },
+  "11713": {
+    "name": "Anduril",
+    "element": "Wind"
+  },
+  "11003": {
+    "name": "Inugami",
+    "element": "Wind"
+  },
+  "11013": {
+    "name": "Ramahan",
+    "element": "Wind"
+  },
+  "16503": {
+    "name": "Living Armor",
+    "element": "Wind"
+  },
+  "16513": {
+    "name": "Copper",
+    "element": "Wind"
+  },
+  "17803": {
+    "name": "Lizardman",
+    "element": "Wind"
+  },
+  "17813": {
+    "name": "Velfinodon",
+    "element": "Wind"
+  },
+  "15403": {
+    "name": "Magical Archer",
+    "element": "Wind"
+  },
+  "15413": {
+    "name": "Ardella",
+    "element": "Wind"
+  },
+  "15003": {
+    "name": "Martial Cat",
+    "element": "Wind"
+  },
+  "15013": {
+    "name": "Naomi",
+    "element": "Wind"
+  },
+  "17703": {
+    "name": "Minotauros",
+    "element": "Wind"
+  },
+  "17713": {
+    "name": "Eintau",
+    "element": "Wind"
+  },
+  "15903": {
+    "name": "Mystic Witch",
+    "element": "Wind"
+  },
+  "15913": {
+    "name": "Silia",
+    "element": "Wind"
+  },
+  "18703": {
+    "name": "Penguin Knight",
+    "element": "Wind"
+  },
+  "18713": {
+    "name": "Mav",
+    "element": "Wind"
+  },
+  "11303": {
+    "name": "Serpent",
+    "element": "Wind"
+  },
+  "11313": {
+    "name": "Ermeda",
+    "element": "Wind"
+  },
+  "14003": {
+    "name": "Werewolf",
+    "element": "Wind"
+  },
+  "14013": {
+    "name": "Shakan",
+    "element": "Wind"
+  },
+  "14904": {
+    "name": "Amazon",
+    "element": "Light"
+  },
+  "14914": {
+    "name": "Lyn",
+    "element": "Light"
+  },
+  "19004": {
+    "name": "Battle Mammoth",
+    "element": "Light"
+  },
+  "19014": {
+    "name": "Marble",
+    "element": "Light"
+  },
+  "13704": {
+    "name": "Bearman",
+    "element": "Light"
+  },
+  "13714": {
+    "name": "Ahman",
+    "element": "Light"
+  },
+  "18504": {
+    "name": "Beast Hunter",
+    "element": "Light"
+  },
+  "18514": {
+    "name": "Baekdu",
+    "element": "Light"
+  },
+  "15604": {
+    "name": "Bounty Hunter",
+    "element": "Light"
+  },
+  "15614": {
+    "name": "Walkers",
+    "element": "Light"
+  },
+  "19304": {
+    "name": "Cow Girl",
+    "element": "Light"
+  },
+  "19314": {
+    "name": "Loren",
+    "element": "Light"
+  },
+  "17204": {
+    "name": "Drunken Master",
+    "element": "Light"
+  },
+  "17214": {
+    "name": "Tien Qin",
+    "element": "Light"
+  },
+  "10804": {
+    "name": "Elemental",
+    "element": "Light"
+  },
+  "10814": {
+    "name": "Priz",
+    "element": "Light"
+  },
+  "10104": {
+    "name": "Fairy",
+    "element": "Light"
+  },
+  "10114": {
+    "name": "Neal",
+    "element": "Light"
+  },
+  "19104": {
+    "name": "Fairy Queen",
+    "element": "Light"
+  },
+  "19114": {
+    "name": "Fran",
+    "element": "Light"
+  },
+  "10904": {
+    "name": "Garuda",
+    "element": "Light"
+  },
+  "10914": {
+    "name": "Teon",
+    "element": "Light"
+  },
+  "11404": {
+    "name": "Golem",
+    "element": "Light"
+  },
+  "11414": {
+    "name": "Groggo",
+    "element": "Light"
+  },
+  "11504": {
+    "name": "Griffon",
+    "element": "Light"
+  },
+  "11514": {
+    "name": "Shamann",
+    "element": "Light"
+  },
+  "16004": {
+    "name": "Grim Reaper",
+    "element": "Light"
+  },
+  "16014": {
+    "name": "Prom",
+    "element": "Light"
+  },
+  "12104": {
+    "name": "Harpu",
+    "element": "Light"
+  },
+  "12114": {
+    "name": "Sia",
+    "element": "Light"
+  },
+  "10504": {
+    "name": "Harpy",
+    "element": "Light"
+  },
+  "10514": {
+    "name": "Kabilla",
+    "element": "Light"
+  },
+  "12004": {
+    "name": "High Elemental",
+    "element": "Light"
+  },
+  "12014": {
+    "name": "Shren",
+    "element": "Light"
+  },
+  "15804": {
+    "name": "Imp Champion",
+    "element": "Light"
+  },
+  "15814": {
+    "name": "Shaffron",
+    "element": "Light"
+  },
+  "11704": {
+    "name": "Inferno",
+    "element": "Light"
+  },
+  "11714": {
+    "name": "Eludain",
+    "element": "Light"
+  },
+  "11004": {
+    "name": "Inugami",
+    "element": "Light"
+  },
+  "11014": {
+    "name": "Belladeon",
+    "element": "Light"
+  },
+  "16504": {
+    "name": "Living Armor",
+    "element": "Light"
+  },
+  "16514": {
+    "name": "Silver",
+    "element": "Light"
+  },
+  "17804": {
+    "name": "Lizardman",
+    "element": "Light"
+  },
+  "17814": {
+    "name": "Glinodon",
+    "element": "Light"
+  },
+  "15004": {
+    "name": "Martial Cat",
+    "element": "Light"
+  },
+  "15014": {
+    "name": "Xiao Ling",
+    "element": "Light"
+  },
+  "17704": {
+    "name": "Minotauros",
+    "element": "Light"
+  },
+  "17714": {
+    "name": "Grotau",
+    "element": "Light"
+  },
+  "15904": {
+    "name": "Mystic Witch",
+    "element": "Light"
+  },
+  "15914": {
+    "name": "Linda",
+    "element": "Light"
+  },
+  "18704": {
+    "name": "Penguin Knight",
+    "element": "Light"
+  },
+  "18714": {
+    "name": "Dona",
+    "element": "Light"
+  },
+  "11304": {
+    "name": "Serpent",
+    "element": "Light"
+  },
+  "11314": {
+    "name": "Elpuria",
+    "element": "Light"
+  },
+  "15204": {
+    "name": "Vagabond",
+    "element": "Light"
+  },
+  "15214": {
+    "name": "Darion",
+    "element": "Light"
+  },
+  "10704": {
+    "name": "Warbear",
+    "element": "Light"
+  },
+  "10714": {
+    "name": "Lusha",
+    "element": "Light"
+  },
+  "14004": {
+    "name": "Werewolf",
+    "element": "Light"
+  },
+  "14014": {
+    "name": "Eshir",
+    "element": "Light"
+  },
+  "14905": {
+    "name": "Amazon",
+    "element": "Dark"
+  },
+  "14915": {
+    "name": "Mara",
+    "element": "Dark"
+  },
+  "19005": {
+    "name": "Battle Mammoth",
+    "element": "Dark"
+  },
+  "19015": {
+    "name": "Basalt",
+    "element": "Dark"
+  },
+  "13705": {
+    "name": "Bearman",
+    "element": "Dark"
+  },
+  "13715": {
+    "name": "Haken",
+    "element": "Dark"
+  },
+  "18505": {
+    "name": "Beast Hunter",
+    "element": "Dark"
+  },
+  "18515": {
+    "name": "Hanra",
+    "element": "Dark"
+  },
+  "15605": {
+    "name": "Bounty Hunter",
+    "element": "Dark"
+  },
+  "15615": {
+    "name": "Jamie",
+    "element": "Dark"
+  },
+  "19305": {
+    "name": "Cow Girl",
+    "element": "Dark"
+  },
+  "19315": {
+    "name": "Cassie",
+    "element": "Dark"
+  },
+  "17205": {
+    "name": "Drunken Master",
+    "element": "Dark"
+  },
+  "17215": {
+    "name": "Wei Shin",
+    "element": "Dark"
+  },
+  "10805": {
+    "name": "Elemental",
+    "element": "Dark"
+  },
+  "10815": {
+    "name": "Camules",
+    "element": "Dark"
+  },
+  "15305": {
+    "name": "Epikion Priest",
+    "element": "Dark"
+  },
+  "15315": {
+    "name": "Rasheed",
+    "element": "Dark"
+  },
+  "11405": {
+    "name": "Golem",
+    "element": "Dark"
+  },
+  "11415": {
+    "name": "Maggi",
+    "element": "Dark"
+  },
+  "11505": {
+    "name": "Griffon",
+    "element": "Dark"
+  },
+  "11515": {
+    "name": "Varus",
+    "element": "Dark"
+  },
+  "16005": {
+    "name": "Grim Reaper",
+    "element": "Dark"
+  },
+  "16015": {
+    "name": "Thrain",
+    "element": "Dark"
+  },
+  "12105": {
+    "name": "Harpu",
+    "element": "Dark"
+  },
+  "12115": {
+    "name": "Seren",
+    "element": "Dark"
+  },
+  "10505": {
+    "name": "Harpy",
+    "element": "Dark"
+  },
+  "10515": {
+    "name": "Hellea",
+    "element": "Dark"
+  },
+  "10605": {
+    "name": "Hellhound",
+    "element": "Dark"
+  },
+  "10615": {
+    "name": "Shumar",
+    "element": "Dark"
+  },
+  "12005": {
+    "name": "High Elemental",
+    "element": "Dark"
+  },
+  "12015": {
+    "name": "Jumaline",
+    "element": "Dark"
+  },
+  "15805": {
+    "name": "Imp Champion",
+    "element": "Dark"
+  },
+  "15815": {
+    "name": "Loque",
+    "element": "Dark"
+  },
+  "11705": {
+    "name": "Inferno",
+    "element": "Dark"
+  },
+  "11715": {
+    "name": "Drogan",
+    "element": "Dark"
+  },
+  "11005": {
+    "name": "Inugami",
+    "element": "Dark"
+  },
+  "11015": {
+    "name": "Kro",
+    "element": "Dark"
+  },
+  "16505": {
+    "name": "Living Armor",
+    "element": "Dark"
+  },
+  "16515": {
+    "name": "Zinc",
+    "element": "Dark"
+  },
+  "17805": {
+    "name": "Lizardman",
+    "element": "Dark"
+  },
+  "17815": {
+    "name": "Devinodon",
+    "element": "Dark"
+  },
+  "15005": {
+    "name": "Martial Cat",
+    "element": "Dark"
+  },
+  "15015": {
+    "name": "Miho",
+    "element": "Dark"
+  },
+  "17705": {
+    "name": "Minotauros",
+    "element": "Dark"
+  },
+  "17715": {
+    "name": "Kamatau",
+    "element": "Dark"
+  },
+  "15905": {
+    "name": "Mystic Witch",
+    "element": "Dark"
+  },
+  "15915": {
+    "name": "Gina",
+    "element": "Dark"
+  },
+  "18705": {
+    "name": "Penguin Knight",
+    "element": "Dark"
+  },
+  "18803": {
+    "name": "Barbaric King",
+    "element": "Wind"
+  },
+  "11305": {
+    "name": "Serpent",
+    "element": "Dark"
+  },
+  "11315": {
+    "name": "Mantura",
+    "element": "Dark"
+  },
+  "18405": {
+    "name": "Taoist",
+    "element": "Dark"
+  },
+  "18415": {
+    "name": "Woonhak",
+    "element": "Dark"
+  },
+  "15205": {
+    "name": "Vagabond",
+    "element": "Dark"
+  },
+  "15215": {
+    "name": "Jubelle",
+    "element": "Dark"
+  },
+  "14805": {
+    "name": "Viking",
+    "element": "Dark"
+  },
+  "14815": {
+    "name": "Janssen",
+    "element": "Dark"
+  },
+  "14005": {
+    "name": "Werewolf",
+    "element": "Dark"
+  },
+  "14015": {
+    "name": "Jultan",
+    "element": "Dark"
+  },
+  "10405": {
+    "name": "Yeti",
+    "element": "Dark"
+  },
+  "18813": {
+    "name": "Hraesvelg",
+    "element": "Wind"
+  },
+  "18003": {
+    "name": "Brownie Magician",
+    "element": "Wind"
+  },
+  "18013": {
+    "name": "Aquila",
+    "element": "Wind"
+  },
+  "16203": {
+    "name": "Death Knight",
+    "element": "Wind"
+  },
+  "16213": {
+    "name": "Briand",
+    "element": "Wind"
+  },
+  "13403": {
+    "name": "Joker",
+    "element": "Wind"
+  },
+  "13413": {
+    "name": "Lushen",
+    "element": "Wind"
+  },
+  "18103": {
+    "name": "Kobold Bomber",
+    "element": "Wind"
+  },
+  "18113": {
+    "name": "Taurus",
+    "element": "Wind"
+  },
+  "17303": {
+    "name": "Kung Fu Girl",
+    "element": "Wind"
+  },
+  "17313": {
+    "name": "Ling Ling",
+    "element": "Wind"
+  },
+  "16303": {
+    "name": "Lich",
+    "element": "Wind"
+  },
+  "16313": {
+    "name": "Fuco",
+    "element": "Wind"
+  },
+  "11203": {
+    "name": "Nine-tailed Fox",
+    "element": "Wind"
+  },
+  "11213": {
+    "name": "Arang",
+    "element": "Wind"
+  },
+  "13503": {
+    "name": "Ninja",
+    "element": "Wind"
+  },
+  "13513": {
+    "name": "Orochi",
+    "element": "Wind"
+  },
+  "14103": {
+    "name": "Phantom Thief",
+    "element": "Wind"
+  },
+  "14113": {
+    "name": "Julien",
+    "element": "Wind"
+  },
+  "13903": {
+    "name": "Pierrette",
+    "element": "Wind"
+  },
+  "13913": {
+    "name": "Sophia",
+    "element": "Wind"
+  },
+  "15503": {
+    "name": "Rakshasa",
+    "element": "Wind"
+  },
+  "15513": {
+    "name": "Yen",
+    "element": "Wind"
+  },
+  "16903": {
+    "name": "Samurai",
+    "element": "Wind"
+  },
+  "16913": {
+    "name": "Kaito",
+    "element": "Wind"
+  },
+  "18303": {
+    "name": "Sky Dancer",
+    "element": "Wind"
+  },
+  "18313": {
+    "name": "Chasun",
+    "element": "Wind"
+  },
+  "13303": {
+    "name": "Succubus",
+    "element": "Wind"
+  },
+  "11803": {
+    "name": "Sylph",
+    "element": "Wind"
+  },
+  "11813": {
+    "name": "Shimitae",
+    "element": "Wind"
+  },
+  "11903": {
+    "name": "Sylphid",
+    "element": "Wind"
+  },
+  "11913": {
+    "name": "Acasis",
+    "element": "Wind"
+  },
+  "18403": {
+    "name": "Taoist",
+    "element": "Wind"
+  },
+  "18413": {
+    "name": "Woochi",
+    "element": "Wind"
+  },
+  "11603": {
+    "name": "Undine",
+    "element": "Wind"
+  },
+  "11613": {
+    "name": "Delphoi",
+    "element": "Wind"
+  },
+  "14703": {
+    "name": "Vampire",
+    "element": "Wind"
+  },
+  "14713": {
+    "name": "Argen",
+    "element": "Wind"
+  },
+  "17003": {
+    "name": "Archangel",
+    "element": "Wind"
+  },
+  "17013": {
+    "name": "Eladriel",
+    "element": "Wind"
+  },
+  "17403": {
+    "name": "Beast Monk",
+    "element": "Wind"
+  },
+  "17413": {
+    "name": "Ritesh",
+    "element": "Wind"
+  },
+  "14603": {
+    "name": "Chimera",
+    "element": "Wind"
+  },
+  "14613": {
+    "name": "Lagmaron",
+    "element": "Wind"
+  },
+  "14403": {
+    "name": "Dragon",
+    "element": "Wind"
+  },
+  "14413": {
+    "name": "Jamire",
+    "element": "Wind"
+  },
+  "16603": {
+    "name": "Dragon Knight",
+    "element": "Wind"
+  },
+  "16613": {
+    "name": "Leo",
+    "element": "Wind"
+  },
+  "17903": {
+    "name": "Hell Lady",
+    "element": "Wind"
+  },
+  "17913": {
+    "name": "Ethna",
+    "element": "Wind"
+  },
+  "19203": {
+    "name": "Ifrit",
+    "element": "Wind"
+  },
+  "19213": {
+    "name": "Akhamamir",
+    "element": "Wind"
+  },
+  "16803": {
+    "name": "Monkey King",
+    "element": "Wind"
+  },
+  "16813": {
+    "name": "Xing Zhe",
+    "element": "Wind"
+  },
+  "16103": {
+    "name": "Occult Girl",
+    "element": "Wind"
+  },
+  "16113": {
+    "name": "Charlotte",
+    "element": "Wind"
+  },
+  "15703": {
+    "name": "Oracle",
+    "element": "Wind"
+  },
+  "15713": {
+    "name": "Seara",
+    "element": "Wind"
+  },
+  "14503": {
+    "name": "Phoenix",
+    "element": "Wind"
+  },
+  "14513": {
+    "name": "Teshar",
+    "element": "Wind"
+  },
+  "18603": {
+    "name": "Sage",
+    "element": "Wind"
+  },
+  "18613": {
+    "name": "Pungbaek",
+    "element": "Wind"
+  },
+  "18903": {
+    "name": "Polar Queen",
+    "element": "Wind"
+  },
+  "18913": {
+    "name": "Tiana",
+    "element": "Wind"
+  },
+  "13803": {
+    "name": "Valkyrja",
+    "element": "Wind"
+  },
+  "13813": {
+    "name": "Katarina",
+    "element": "Wind"
+  },
+  "18801": {
+    "name": "Barbaric King",
+    "element": "Water"
+  },
+  "18811": {
+    "name": "Aegir",
+    "element": "Water"
+  },
+  "18001": {
+    "name": "Brownie Magician",
+    "element": "Water"
+  },
+  "18011": {
+    "name": "Orion",
+    "element": "Water"
+  },
+  "16201": {
+    "name": "Death Knight",
+    "element": "Water"
+  },
+  "16211": {
+    "name": "Fedora",
+    "element": "Water"
+  },
+  "13401": {
+    "name": "Joker",
+    "element": "Water"
+  },
+  "13411": {
+    "name": "Sian",
+    "element": "Water"
+  },
+  "18101": {
+    "name": "Kobold Bomber",
+    "element": "Water"
+  },
+  "18111": {
+    "name": "Malaka",
+    "element": "Water"
+  },
+  "17301": {
+    "name": "Kung Fu Girl",
+    "element": "Water"
+  },
+  "17311": {
+    "name": "Xiao Lin",
+    "element": "Water"
+  },
+  "16301": {
+    "name": "Lich",
+    "element": "Water"
+  },
+  "16311": {
+    "name": "Rigel",
+    "element": "Water"
+  },
+  "11201": {
+    "name": "Nine-tailed Fox",
+    "element": "Water"
+  },
+  "11211": {
+    "name": "Soha",
+    "element": "Water"
+  },
+  "13501": {
+    "name": "Ninja",
+    "element": "Water"
+  },
+  "13511": {
+    "name": "Susano",
+    "element": "Water"
+  },
+  "14101": {
+    "name": "Phantom Thief",
+    "element": "Water"
+  },
+  "14111": {
+    "name": "Luer",
+    "element": "Water"
+  },
+  "13901": {
+    "name": "Pierrette",
+    "element": "Water"
+  },
+  "13911": {
+    "name": "Julie",
+    "element": "Water"
+  },
+  "15501": {
+    "name": "Rakshasa",
+    "element": "Water"
+  },
+  "15511": {
+    "name": "Su",
+    "element": "Water"
+  },
+  "16901": {
+    "name": "Samurai",
+    "element": "Water"
+  },
+  "16911": {
+    "name": "Kaz",
+    "element": "Water"
+  },
+  "18301": {
+    "name": "Sky Dancer",
+    "element": "Water"
+  },
+  "18311": {
+    "name": "Mihyang",
+    "element": "Water"
+  },
+  "13301": {
+    "name": "Succubus",
+    "element": "Water"
+  },
+  "13311": {
+    "name": "Izaria",
+    "element": "Water"
+  },
+  "11801": {
+    "name": "Sylph",
+    "element": "Water"
+  },
+  "11811": {
+    "name": "Tyron",
+    "element": "Water"
+  },
+  "11901": {
+    "name": "Sylphid",
+    "element": "Water"
+  },
+  "11911": {
+    "name": "Lumirecia",
+    "element": "Water"
+  },
+  "18401": {
+    "name": "Taoist",
+    "element": "Water"
+  },
+  "18411": {
+    "name": "Gildong",
+    "element": "Water"
+  },
+  "11601": {
+    "name": "Undine",
+    "element": "Water"
+  },
+  "11611": {
+    "name": "Mikene",
+    "element": "Water"
+  },
+  "14701": {
+    "name": "Vampire",
+    "element": "Water"
+  },
+  "14711": {
+    "name": "Liesel",
+    "element": "Water"
+  },
+  "17001": {
+    "name": "Archangel",
+    "element": "Water"
+  },
+  "17011": {
+    "name": "Ariel",
+    "element": "Water"
+  },
+  "17401": {
+    "name": "Beast Monk",
+    "element": "Water"
+  },
+  "17411": {
+    "name": "Chandra",
+    "element": "Water"
+  },
+  "14601": {
+    "name": "Chimera",
+    "element": "Water"
+  },
+  "14611": {
+    "name": "Taor",
+    "element": "Water"
+  },
+  "14401": {
+    "name": "Dragon",
+    "element": "Water"
+  },
+  "14411": {
+    "name": "Verad",
+    "element": "Water"
+  },
+  "16601": {
+    "name": "Dragon Knight",
+    "element": "Water"
+  },
+  "16611": {
+    "name": "Chow",
+    "element": "Water"
+  },
+  "17901": {
+    "name": "Hell Lady",
+    "element": "Water"
+  },
+  "17911": {
+    "name": "Beth",
+    "element": "Water"
+  },
+  "19201": {
+    "name": "Ifrit",
+    "element": "Water"
+  },
+  "19211": {
+    "name": "Theomars",
+    "element": "Water"
+  },
+  "16801": {
+    "name": "Monkey King",
+    "element": "Water"
+  },
+  "16811": {
+    "name": "Shi Hou",
+    "element": "Water"
+  },
+  "16101": {
+    "name": "Occult Girl",
+    "element": "Water"
+  },
+  "16111": {
+    "name": "Anavel",
+    "element": "Water"
+  },
+  "15701": {
+    "name": "Oracle",
+    "element": "Water"
+  },
+  "15711": {
+    "name": "Praha",
+    "element": "Water"
+  },
+  "14501": {
+    "name": "Phoenix",
+    "element": "Water"
+  },
+  "14511": {
+    "name": "Sigmarus",
+    "element": "Water"
+  },
+  "18601": {
+    "name": "Sage",
+    "element": "Water"
+  },
+  "18611": {
+    "name": "Woosa",
+    "element": "Water"
+  },
+  "18901": {
+    "name": "Polar Queen",
+    "element": "Water"
+  },
+  "18911": {
+    "name": "Alicia",
+    "element": "Water"
+  },
+  "13801": {
+    "name": "Valkyrja",
+    "element": "Water"
+  },
+  "13811": {
+    "name": "Camilla",
+    "element": "Water"
+  },
+  "18804": {
+    "name": "Barbaric King",
+    "element": "Light"
+  },
+  "18814": {
+    "name": "Mimirr",
+    "element": "Light"
+  },
+  "18004": {
+    "name": "Brownie Magician",
+    "element": "Light"
+  },
+  "18014": {
+    "name": "Gemini",
+    "element": "Light"
+  },
+  "16204": {
+    "name": "Death Knight",
+    "element": "Light"
+  },
+  "16214": {
+    "name": "Conrad",
+    "element": "Light"
+  },
+  "15304": {
+    "name": "Epikion Priest",
+    "element": "Light"
+  },
+  "15314": {
+    "name": "Iona",
+    "element": "Light"
+  },
+  "13404": {
+    "name": "Joker",
+    "element": "Light"
+  },
+  "13414": {
+    "name": "Figaro",
+    "element": "Light"
+  },
+  "18104": {
+    "name": "Kobold Bomber",
+    "element": "Light"
+  },
+  "18114": {
+    "name": "Dover",
+    "element": "Light"
+  },
+  "17304": {
+    "name": "Kung Fu Girl",
+    "element": "Light"
+  },
+  "17314": {
+    "name": "Liu Mei",
+    "element": "Light"
+  },
+  "16304": {
+    "name": "Lich",
+    "element": "Light"
+  },
+  "16314": {
+    "name": "Halphas",
+    "element": "Light"
+  },
+  "15404": {
+    "name": "Magical Archer",
+    "element": "Light"
+  },
+  "15414": {
+    "name": "Chris",
+    "element": "Light"
+  },
+  "11204": {
+    "name": "Nine-tailed Fox",
+    "element": "Light"
+  },
+  "11214": {
+    "name": "Chamie",
+    "element": "Light"
+  },
+  "13504": {
+    "name": "Ninja",
+    "element": "Light"
+  },
+  "13514": {
+    "name": "Gin",
+    "element": "Light"
+  },
+  "14104": {
+    "name": "Phantom Thief",
+    "element": "Light"
+  },
+  "14114": {
+    "name": "Louis",
+    "element": "Light"
+  },
+  "13904": {
+    "name": "Pierrette",
+    "element": "Light"
+  },
+  "13914": {
+    "name": "Eva",
+    "element": "Light"
+  },
+  "15504": {
+    "name": "Rakshasa",
+    "element": "Light"
+  },
+  "15514": {
+    "name": "Pang",
+    "element": "Light"
+  },
+  "16904": {
+    "name": "Samurai",
+    "element": "Light"
+  },
+  "16914": {
+    "name": "Tosi",
+    "element": "Light"
+  },
+  "13304": {
+    "name": "Succubus",
+    "element": "Light"
+  },
+  "13314": {
+    "name": "Aria",
+    "element": "Light"
+  },
+  "11804": {
+    "name": "Sylph",
+    "element": "Light"
+  },
+  "11814": {
+    "name": "Eredas",
+    "element": "Light"
+  },
+  "11904": {
+    "name": "Sylphid",
+    "element": "Light"
+  },
+  "11914": {
+    "name": "Mihael",
+    "element": "Light"
+  },
+  "18404": {
+    "name": "Taoist",
+    "element": "Light"
+  },
+  "18414": {
+    "name": "Hwadam",
+    "element": "Light"
+  },
+  "11604": {
+    "name": "Undine",
+    "element": "Light"
+  },
+  "11614": {
+    "name": "Icasha",
+    "element": "Light"
+  },
+  "17004": {
+    "name": "Archangel",
+    "element": "Light"
+  },
+  "17014": {
+    "name": "Artamiel",
+    "element": "Light"
+  },
+  "17404": {
+    "name": "Beast Monk",
+    "element": "Light"
+  },
+  "17414": {
+    "name": "Shazam",
+    "element": "Light"
+  },
+  "14604": {
+    "name": "Chimera",
+    "element": "Light"
+  },
+  "14614": {
+    "name": "Shan",
+    "element": "Light"
+  },
+  "14404": {
+    "name": "Dragon",
+    "element": "Light"
+  },
+  "14414": {
+    "name": "Zerath",
+    "element": "Light"
+  },
+  "16604": {
+    "name": "Dragon Knight",
+    "element": "Light"
+  },
+  "16614": {
+    "name": "Jager",
+    "element": "Light"
+  },
+  "17904": {
+    "name": "Hell Lady",
+    "element": "Light"
+  },
+  "17914": {
+    "name": "Asima",
+    "element": "Light"
+  },
+  "19204": {
+    "name": "Ifrit",
+    "element": "Light"
+  },
+  "19214": {
+    "name": "Elsharion",
+    "element": "Light"
+  },
+  "16804": {
+    "name": "Monkey King",
+    "element": "Light"
+  },
+  "16814": {
+    "name": "Qitian Dasheng",
+    "element": "Light"
+  },
+  "16104": {
+    "name": "Occult Girl",
+    "element": "Light"
+  },
+  "16114": {
+    "name": "Lora",
+    "element": "Light"
+  },
+  "15704": {
+    "name": "Oracle",
+    "element": "Light"
+  },
+  "15714": {
+    "name": "Laima",
+    "element": "Light"
+  },
+  "14504": {
+    "name": "Phoenix",
+    "element": "Light"
+  },
+  "14514": {
+    "name": "Eludia",
+    "element": "Light"
+  },
+  "18604": {
+    "name": "Sage",
+    "element": "Light"
+  },
+  "18614": {
+    "name": "Nigong",
+    "element": "Light"
+  },
+  "18904": {
+    "name": "Polar Queen",
+    "element": "Light"
+  },
+  "18914": {
+    "name": "Elenoa",
+    "element": "Light"
+  },
+  "18304": {
+    "name": "Sky Dancer",
+    "element": "Light"
+  },
+  "18314": {
+    "name": "Yeonhong",
+    "element": "Light"
+  },
+  "13804": {
+    "name": "Valkyrja",
+    "element": "Light"
+  },
+  "13814": {
+    "name": "Akroma",
+    "element": "Light"
+  },
+  "14704": {
+    "name": "Vampire",
+    "element": "Light"
+  },
+  "14714": {
+    "name": "Julianne",
+    "element": "Light"
+  },
+  "18805": {
+    "name": "Barbaric King",
+    "element": "Dark"
+  },
+  "18815": {
+    "name": "Hrungnir",
+    "element": "Dark"
+  },
+  "18005": {
+    "name": "Brownie Magician",
+    "element": "Dark"
+  },
+  "18015": {
+    "name": "Korona",
+    "element": "Dark"
+  },
+  "16205": {
+    "name": "Death Knight",
+    "element": "Dark"
+  },
+  "16215": {
+    "name": "Dias",
+    "element": "Dark"
+  },
+  "13405": {
+    "name": "Joker",
+    "element": "Dark"
+  },
+  "13415": {
+    "name": "Liebli",
+    "element": "Dark"
+  },
+  "18105": {
+    "name": "Kobold Bomber",
+    "element": "Dark"
+  },
+  "18115": {
+    "name": "Bering",
+    "element": "Dark"
+  },
+  "17305": {
+    "name": "Kung Fu Girl",
+    "element": "Dark"
+  },
+  "17315": {
+    "name": "Fei",
+    "element": "Dark"
+  },
+  "16305": {
+    "name": "Lich",
+    "element": "Dark"
+  },
+  "16315": {
+    "name": "Grego",
+    "element": "Dark"
+  },
+  "15405": {
+    "name": "Magical Archer",
+    "element": "Dark"
+  },
+  "15415": {
+    "name": "Bethony",
+    "element": "Dark"
+  },
+  "11205": {
+    "name": "Nine-tailed Fox",
+    "element": "Dark"
+  },
+  "11215": {
+    "name": "Kamiya",
+    "element": "Dark"
+  },
+  "14105": {
+    "name": "Phantom Thief",
+    "element": "Dark"
+  },
+  "14115": {
+    "name": "Guillaume",
+    "element": "Dark"
+  },
+  "13905": {
+    "name": "Pierrette",
+    "element": "Dark"
+  },
+  "13915": {
+    "name": "Luna",
+    "element": "Dark"
+  },
+  "15505": {
+    "name": "Rakshasa",
+    "element": "Dark"
+  },
+  "15515": {
+    "name": "Ran",
+    "element": "Dark"
+  },
+  "16905": {
+    "name": "Samurai",
+    "element": "Dark"
+  },
+  "16915": {
+    "name": "Sige",
+    "element": "Dark"
+  },
+  "18305": {
+    "name": "Sky Dancer",
+    "element": "Dark"
+  },
+  "18315": {
+    "name": "Wolyung",
+    "element": "Dark"
+  },
+  "13305": {
+    "name": "Succubus",
+    "element": "Dark"
+  },
+  "13315": {
+    "name": "Isael",
+    "element": "Dark"
+  },
+  "11805": {
+    "name": "Sylph",
+    "element": "Dark"
+  },
+  "11815": {
+    "name": "Aschubel",
+    "element": "Dark"
+  },
+  "11905": {
+    "name": "Sylphid",
+    "element": "Dark"
+  },
+  "11915": {
+    "name": "Icares",
+    "element": "Dark"
+  },
+  "11605": {
+    "name": "Undine",
+    "element": "Dark"
+  },
+  "11615": {
+    "name": "Tilasha",
+    "element": "Dark"
+  },
+  "17005": {
+    "name": "Archangel",
+    "element": "Dark"
+  },
+  "17405": {
+    "name": "Beast Monk",
+    "element": "Dark"
+  },
+  "17415": {
+    "name": "Rahul",
+    "element": "Dark"
+  },
+  "14605": {
+    "name": "Chimera",
+    "element": "Dark"
+  },
+  "14615": {
+    "name": "Zeratu",
+    "element": "Dark"
+  },
+  "14405": {
+    "name": "Dragon",
+    "element": "Dark"
+  },
+  "14415": {
+    "name": "Grogen",
+    "element": "Dark"
+  },
+  "16605": {
+    "name": "Dragon Knight",
+    "element": "Dark"
+  },
+  "16615": {
+    "name": "Ragdoll",
+    "element": "Dark"
+  },
+  "17905": {
+    "name": "Hell Lady",
+    "element": "Dark"
+  },
+  "17915": {
+    "name": "Craka",
+    "element": "Dark"
+  },
+  "19205": {
+    "name": "Ifrit",
+    "element": "Dark"
+  },
+  "19215": {
+    "name": "Veromos",
+    "element": "Dark"
+  },
+  "16805": {
+    "name": "Monkey King",
+    "element": "Dark"
+  },
+  "16815": {
+    "name": "Son Zhang Lao",
+    "element": "Dark"
+  },
+  "13505": {
+    "name": "Ninja",
+    "element": "Dark"
+  },
+  "13515": {
+    "name": "Han",
+    "element": "Dark"
+  },
+  "16105": {
+    "name": "Occult Girl",
+    "element": "Dark"
+  },
+  "16115": {
+    "name": "Nicki",
+    "element": "Dark"
+  },
+  "15705": {
+    "name": "Oracle",
+    "element": "Dark"
+  },
+  "15715": {
+    "name": "Giana",
+    "element": "Dark"
+  },
+  "14505": {
+    "name": "Phoenix",
+    "element": "Dark"
+  },
+  "14515": {
+    "name": "Jaara",
+    "element": "Dark"
+  },
+  "18605": {
+    "name": "Sage",
+    "element": "Dark"
+  },
+  "18615": {
+    "name": "Woonsa",
+    "element": "Dark"
+  },
+  "18905": {
+    "name": "Polar Queen",
+    "element": "Dark"
+  },
+  "18915": {
+    "name": "Lydia",
+    "element": "Dark"
+  },
+  "13805": {
+    "name": "Valkyrja",
+    "element": "Dark"
+  },
+  "13815": {
+    "name": "Trinity",
+    "element": "Dark"
+  },
+  "14705": {
+    "name": "Vampire",
+    "element": "Dark"
+  },
+  "14715": {
+    "name": "Cadiz",
+    "element": "Dark"
+  },
+  "17602": {
+    "name": "Battle Scorpion",
+    "element": "Fire"
+  },
+  "17601": {
+    "name": "Battle Scorpion",
+    "element": "Water"
+  },
+  "17603": {
+    "name": "Battle Scorpion",
+    "element": "Wind"
+  },
+  "17502": {
+    "name": "Mischievous Bat",
+    "element": "Fire"
+  },
+  "17503": {
+    "name": "Mischievous Bat",
+    "element": "Wind"
+  },
+  "17501": {
+    "name": "Mischievous Bat",
+    "element": "Water"
+  },
+  "14314": {
+    "name": "Rainbowmon",
+    "element": "Light"
+  },
+  "13103": {
+    "name": "Sandman",
+    "element": "Wind"
+  },
+  "12203": {
+    "name": "Slime",
+    "element": "Wind"
+  },
+  "14803": {
+    "name": "Viking",
+    "element": "Wind"
+  },
+  "14813": {
+    "name": "Walter",
+    "element": "Wind"
+  },
+  "17015": {
+    "name": "Fermion",
+    "element": "Dark"
+  },
+  "18715": {
+    "name": "Kuna",
+    "element": "Dark"
+  },
+  "13313": {
+    "name": "Selena",
+    "element": "Wind"
+  },
+  "14811": {
+    "name": "Huga",
+    "element": "Water"
+  },
+  "10415": {
+    "name": "Kumae",
+    "element": "Dark"
+  },
+  "19502": {
+    "name": "Charger Shark",
+    "element": "Fire"
+  },
+  "19512": {
+    "name": "Ignicus",
+    "element": "Fire"
+  },
+  "19501": {
+    "name": "Charger Shark",
+    "element": "Water"
+  },
+  "19511": {
+    "name": "Aqcus",
+    "element": "Water"
+  },
+  "19503": {
+    "name": "Charger Shark",
+    "element": "Wind"
+  },
+  "19513": {
+    "name": "Zephicus",
+    "element": "Wind"
+  },
+  "19505": {
+    "name": "Charger Shark",
+    "element": "Dark"
+  },
+  "19515": {
+    "name": "Calicus",
+    "element": "Dark"
+  },
+  "19504": {
+    "name": "Charger Shark",
+    "element": "Light"
+  },
+  "19514": {
+    "name": "Rumicus",
+    "element": "Light"
+  },
+  "19402": {
+    "name": "Pirate Captain",
+    "element": "Fire"
+  },
+  "19412": {
+    "name": "Carrack",
+    "element": "Fire"
+  },
+  "19401": {
+    "name": "Pirate Captain",
+    "element": "Water"
+  },
+  "19403": {
+    "name": "Pirate Captain",
+    "element": "Wind"
+  },
+  "19404": {
+    "name": "Pirate Captain",
+    "element": "Light"
+  },
+  "19405": {
+    "name": "Pirate Captain",
+    "element": "Dark"
+  },
+  "19411": {
+    "name": "Galleon",
+    "element": "Water"
+  },
+  "19413": {
+    "name": "Barque",
+    "element": "Wind"
+  },
+  "19414": {
+    "name": "Brig",
+    "element": "Light"
+  },
+  "19415": {
+    "name": "Frigate",
+    "element": "Dark"
+  },
+  "19602": {
+    "name": "Mermaid",
+    "element": "Fire"
+  },
+  "19601": {
+    "name": "Mermaid",
+    "element": "Water"
+  },
+  "19603": {
+    "name": "Mermaid",
+    "element": "Wind"
+  },
+  "19604": {
+    "name": "Mermaid",
+    "element": "Light"
+  },
+  "19605": {
+    "name": "Mermaid",
+    "element": "Dark"
+  },
+  "19612": {
+    "name": "Platy",
+    "element": "Fire"
+  },
+  "19611": {
+    "name": "Tetra",
+    "element": "Water"
+  },
+  "19613": {
+    "name": "Cichlid",
+    "element": "Wind"
+  },
+  "19614": {
+    "name": "Molly",
+    "element": "Light"
+  },
+  "19615": {
+    "name": "Betta",
+    "element": "Dark"
+  },
+  "19702": {
+    "name": "Sea Emperor",
+    "element": "Fire"
+  },
+  "19701": {
+    "name": "Sea Emperor",
+    "element": "Water"
+  },
+  "19703": {
+    "name": "Sea Emperor",
+    "element": "Wind"
+  },
+  "19704": {
+    "name": "Sea Emperor",
+    "element": "Light"
+  },
+  "19705": {
+    "name": "Sea Emperor",
+    "element": "Dark"
+  },
+  "19712": {
+    "name": "Okeanos",
+    "element": "Fire"
+  },
+  "19711": {
+    "name": "Poseidon",
+    "element": "Water"
+  },
+  "19713": {
+    "name": "Triton",
+    "element": "Wind"
+  },
+  "19714": {
+    "name": "Pontos",
+    "element": "Light"
+  },
+  "19715": {
+    "name": "Manannan",
+    "element": "Dark"
+  },
+  "19802": {
+    "name": "Magic Knight",
+    "element": "Fire"
+  },
+  "19812": {
+    "name": "Astar",
+    "element": "Fire"
+  },
+  "19801": {
+    "name": "Magic Knight",
+    "element": "Water"
+  },
+  "19811": {
+    "name": "Lapis",
+    "element": "Water"
+  },
+  "19803": {
+    "name": "Magic Knight",
+    "element": "Wind"
+  },
+  "19813": {
+    "name": "Lupinus",
+    "element": "Wind"
+  },
+  "19804": {
+    "name": "Magic Knight",
+    "element": "Light"
+  },
+  "19814": {
+    "name": "Iris",
+    "element": "Light"
+  },
+  "19805": {
+    "name": "Magic Knight",
+    "element": "Dark"
+  },
+  "19815": {
+    "name": "Lanett",
+    "element": "Dark"
+  },
+  "16704": {
+    "name": "Elite Magical Archer",
+    "element": "Light"
+  },
+  "16714": {
+    "name": "Fami",
+    "element": "Light"
+  },
+  "19902": {
+    "name": "Assassin",
+    "element": "Fire"
+  },
+  "19912": {
+    "name": "Lexy",
+    "element": "Fire"
+  },
+  "19911": {
+    "name": "Stella",
+    "element": "Water"
+  },
+  "19901": {
+    "name": "Assassin",
+    "element": "Water"
+  },
+  "19913": {
+    "name": "Tanya",
+    "element": "Wind"
+  },
+  "19903": {
+    "name": "Assassin",
+    "element": "Wind"
+  },
+  "19914": {
+    "name": "Natalie",
+    "element": "Light"
+  },
+  "19904": {
+    "name": "Assassin",
+    "element": "Light"
+  },
+  "19915": {
+    "name": "Isabelle",
+    "element": "Dark"
+  },
+  "19905": {
+    "name": "Assassin",
+    "element": "Dark"
+  },
+  "20112": {
+    "name": "Lisa",
+    "element": "Fire"
+  },
+  "20102": {
+    "name": "Neostone Agent",
+    "element": "Fire"
+  },
+  "20111": {
+    "name": "Emma",
+    "element": "Water"
+  },
+  "20101": {
+    "name": "Neostone Agent",
+    "element": "Water"
+  },
+  "20113": {
+    "name": "Olivia",
+    "element": "Wind"
+  },
+  "20103": {
+    "name": "Neostone Agent",
+    "element": "Wind"
+  },
+  "20114": {
+    "name": "Illianna",
+    "element": "Light"
+  },
+  "20104": {
+    "name": "Neostone Agent",
+    "element": "Light"
+  },
+  "20115": {
+    "name": "Sylvia",
+    "element": "Dark"
+  },
+  "20105": {
+    "name": "Neostone Agent",
+    "element": "Dark"
+  },
+  "20212": {
+    "name": "Sin",
+    "element": "Fire"
+  },
+  "20202": {
+    "name": "Martial Artist",
+    "element": "Fire"
+  },
+  "20211": {
+    "name": "Luan",
+    "element": "Water"
+  },
+  "20201": {
+    "name": "Martial Artist",
+    "element": "Water"
+  },
+  "20213": {
+    "name": "Lo",
+    "element": "Wind"
+  },
+  "20203": {
+    "name": "Martial Artist",
+    "element": "Wind"
+  },
+  "20214": {
+    "name": "Hiro",
+    "element": "Light"
+  },
+  "20204": {
+    "name": "Martial Artist",
+    "element": "Light"
+  },
+  "20215": {
+    "name": "Jackie",
+    "element": "Dark"
+  },
+  "20205": {
+    "name": "Martial Artist",
+    "element": "Dark"
+  },
+  "20012": {
+    "name": "Trevor",
+    "element": "Fire"
+  },
+  "20002": {
+    "name": "Neostone Fighter",
+    "element": "Fire"
+  },
+  "20011": {
+    "name": "Ryan",
+    "element": "Water"
+  },
+  "20001": {
+    "name": "Neostone Fighter",
+    "element": "Water"
+  },
+  "20013": {
+    "name": "Logan",
+    "element": "Wind"
+  },
+  "20003": {
+    "name": "Neostone Fighter",
+    "element": "Wind"
+  },
+  "20014": {
+    "name": "Lucas",
+    "element": "Light"
+  },
+  "20004": {
+    "name": "Neostone Fighter",
+    "element": "Light"
+  },
+  "20015": {
+    "name": "Karl",
+    "element": "Dark"
+  },
+  "20005": {
+    "name": "Neostone Fighter",
+    "element": "Dark"
+  },
+  "20302": {
+    "name": "Mummy",
+    "element": "Fire"
+  },
+  "20301": {
+    "name": "Mummy",
+    "element": "Water"
+  },
+  "20303": {
+    "name": "Mummy",
+    "element": "Wind"
+  },
+  "20304": {
+    "name": "Mummy",
+    "element": "Light"
+  },
+  "20312": {
+    "name": "Sonora",
+    "element": "Fire"
+  },
+  "20305": {
+    "name": "Mummy",
+    "element": "Dark"
+  },
+  "20311": {
+    "name": "Nubia",
+    "element": "Water"
+  },
+  "20313": {
+    "name": "Namib",
+    "element": "Wind"
+  },
+  "20314": {
+    "name": "Sahara",
+    "element": "Light"
+  },
+  "20315": {
+    "name": "Karakum",
+    "element": "Dark"
+  },
+  "20402": {
+    "name": "Anubis",
+    "element": "Fire"
+  },
+  "20403": {
+    "name": "Anubis",
+    "element": "Wind"
+  },
+  "20401": {
+    "name": "Anubis",
+    "element": "Water"
+  },
+  "20404": {
+    "name": "Anubis",
+    "element": "Light"
+  },
+  "20405": {
+    "name": "Anubis",
+    "element": "Dark"
+  },
+  "20415": {
+    "name": "Thebae",
+    "element": "Dark"
+  },
+  "20414": {
+    "name": "Amarna",
+    "element": "Light"
+  },
+  "20413": {
+    "name": "Iunu",
+    "element": "Wind"
+  },
+  "20411": {
+    "name": "Avaris",
+    "element": "Water"
+  },
+  "20412": {
+    "name": "Khmun",
+    "element": "Fire"
+  },
+  "20602": {
+    "name": "Horus",
+    "element": "Fire"
+  },
+  "20601": {
+    "name": "Horus",
+    "element": "Water"
+  },
+  "20603": {
+    "name": "Horus",
+    "element": "Wind"
+  },
+  "20604": {
+    "name": "Horus",
+    "element": "Light"
+  },
+  "20605": {
+    "name": "Horus",
+    "element": "Dark"
+  },
+  "20615": {
+    "name": "Amduat",
+    "element": "Dark"
+  },
+  "20614": {
+    "name": "Wedjat",
+    "element": "Light"
+  },
+  "20613": {
+    "name": "Imesety",
+    "element": "Wind"
+  },
+  "20611": {
+    "name": "Qebehsenuef",
+    "element": "Water"
+  },
+  "20612": {
+    "name": "Duamutef",
+    "element": "Fire"
+  },
+  "20502": {
+    "name": "Desert Queen",
+    "element": "Fire"
+  },
+  "20501": {
+    "name": "Desert Queen",
+    "element": "Water"
+  },
+  "20503": {
+    "name": "Desert Queen",
+    "element": "Wind"
+  },
+  "20504": {
+    "name": "Desert Queen",
+    "element": "Light"
+  },
+  "20505": {
+    "name": "Desert Queen",
+    "element": "Dark"
+  },
+  "20515": {
+    "name": "Nephthys",
+    "element": "Dark"
+  },
+  "20514": {
+    "name": "Isis",
+    "element": "Light"
+  },
+  "20513": {
+    "name": "Hathor",
+    "element": "Wind"
+  },
+  "20511": {
+    "name": "Bastet",
+    "element": "Water"
+  },
+  "20512": {
+    "name": "Sekhmet",
+    "element": "Fire"
+  },
+  "20802": {
+    "name": "Frankenstein",
+    "element": "Fire"
+  },
+  "20812": {
+    "name": "Bulldozer",
+    "element": "Fire"
+  },
+  "20801": {
+    "name": "Frankenstein",
+    "element": "Water"
+  },
+  "20811": {
+    "name": "Tractor",
+    "element": "Water"
+  },
+  "20803": {
+    "name": "Frankenstein",
+    "element": "Wind"
+  },
+  "20813": {
+    "name": "Crane",
+    "element": "Wind"
+  },
+  "20804": {
+    "name": "Frankenstein",
+    "element": "Light"
+  },
+  "20814": {
+    "name": "Driller",
+    "element": "Light"
+  },
+  "20805": {
+    "name": "Frankenstein",
+    "element": "Dark"
+  },
+  "20815": {
+    "name": "Crawler",
+    "element": "Dark"
+  },
+  "20702": {
+    "name": "Jack-o'-lantern",
+    "element": "Fire"
+  },
+  "20712": {
+    "name": "Smokey",
+    "element": "Fire"
+  },
+  "20701": {
+    "name": "Jack-o'-lantern",
+    "element": "Water"
+  },
+  "20711": {
+    "name": "Chilling",
+    "element": "Water"
+  },
+  "20703": {
+    "name": "Jack-o'-lantern",
+    "element": "Wind"
+  },
+  "20713": {
+    "name": "Windy",
+    "element": "Wind"
+  },
+  "20704": {
+    "name": "Jack-o'-lantern",
+    "element": "Light"
+  },
+  "20714": {
+    "name": "Misty",
+    "element": "Light"
+  },
+  "20705": {
+    "name": "Jack-o'-lantern",
+    "element": "Dark"
+  },
+  "20715": {
+    "name": "Dusky",
+    "element": "Dark"
+  },
+  "20904": {
+    "name": "Elven Ranger",
+    "element": "Light"
+  },
+  "20901": {
+    "name": "Elven Ranger",
+    "element": "Water"
+  },
+  "20903": {
+    "name": "Elven Ranger",
+    "element": "Wind"
+  },
+  "20902": {
+    "name": "Elven Ranger",
+    "element": "Fire"
+  },
+  "20905": {
+    "name": "Elven Ranger",
+    "element": "Dark"
+  },
+  "20912": {
+    "name": "Adrian",
+    "element": "Fire"
+  },
+  "20911": {
+    "name": "Eluin",
+    "element": "Water"
+  },
+  "20913": {
+    "name": "Erwin",
+    "element": "Wind"
+  },
+  "20914": {
+    "name": "Lucien",
+    "element": "Light"
+  },
+  "20915": {
+    "name": "Isillen",
+    "element": "Dark"
+  },
+  "21001": {
+    "name": "Harg",
+    "element": "Water"
+  },
+  "21002": {
+    "name": "Harg",
+    "element": "Fire"
+  },
+  "21003": {
+    "name": "Harg",
+    "element": "Wind"
+  },
+  "21004": {
+    "name": "Harg",
+    "element": "Light"
+  },
+  "21005": {
+    "name": "Harg",
+    "element": "Dark"
+  },
+  "21015": {
+    "name": "Kroa",
+    "element": "Dark"
+  },
+  "21014": {
+    "name": "Dova",
+    "element": "Light"
+  },
+  "21013": {
+    "name": "Raviti",
+    "element": "Wind"
+  },
+  "21011": {
+    "name": "Remy",
+    "element": "Water"
+  },
+  "21012": {
+    "name": "Racuni",
+    "element": "Fire"
+  },
+  "21102": {
+    "name": "Fairy King",
+    "element": "Fire"
+  },
+  "21101": {
+    "name": "Fairy King",
+    "element": "Water"
+  },
+  "21103": {
+    "name": "Fairy King",
+    "element": "Wind"
+  },
+  "21104": {
+    "name": "Fairy King",
+    "element": "Light"
+  },
+  "21105": {
+    "name": "Fairy King",
+    "element": "Dark"
+  },
+  "21115": {
+    "name": "Nyx",
+    "element": "Dark"
+  },
+  "21114": {
+    "name": "Oberon",
+    "element": "Light"
+  },
+  "21113": {
+    "name": "Ganymede",
+    "element": "Wind"
+  },
+  "21111": {
+    "name": "Psamathe",
+    "element": "Water"
+  },
+  "21112": {
+    "name": "Daphnis",
+    "element": "Fire"
+  },
+  "21202": {
+    "name": "Panda Warrior",
+    "element": "Fire"
+  },
+  "21212": {
+    "name": "Xiong Fei",
+    "element": "Fire"
+  },
+  "21201": {
+    "name": "Panda Warrior",
+    "element": "Water"
+  },
+  "21211": {
+    "name": "Mo Long",
+    "element": "Water"
+  },
+  "21213": {
+    "name": "Feng Yan",
+    "element": "Wind"
+  },
+  "21203": {
+    "name": "Panda Warrior",
+    "element": "Wind"
+  },
+  "21204": {
+    "name": "Panda Warrior",
+    "element": "Light"
+  },
+  "21214": {
+    "name": "Tian Lang",
+    "element": "Light"
+  },
+  "21205": {
+    "name": "Panda Warrior",
+    "element": "Dark"
+  },
+  "21215": {
+    "name": "Mi Ying",
+    "element": "Dark"
+  },
+  "1000101": {
+    "name": "Homunculus(Attack)",
+    "element": "Water"
+  },
+  "1000102": {
+    "name": "Homunculus(Attack)",
+    "element": "Fire"
+  },
+  "1000103": {
+    "name": "Homunculus(Attack)",
+    "element": "Wind"
+  },
+  "1000112": {
+    "name": "Homunculus(Attack)",
+    "element": "Fire"
+  },
+  "1000111": {
+    "name": "Homunculus(Attack)",
+    "element": "Water"
+  },
+  "1000113": {
+    "name": "Homunculus(Attack)",
+    "element": "Wind"
+  },
+  "21302": {
+    "name": "Dice Magician",
+    "element": "Fire"
+  },
+  "21301": {
+    "name": "Dice Magician",
+    "element": "Water"
+  },
+  "21303": {
+    "name": "Dice Magician",
+    "element": "Wind"
+  },
+  "21304": {
+    "name": "Dice Magician",
+    "element": "Light"
+  },
+  "21305": {
+    "name": "Dice Magician",
+    "element": "Dark"
+  },
+  "21312": {
+    "name": "Ludo",
+    "element": "Fire"
+  },
+  "21311": {
+    "name": "Reno",
+    "element": "Water"
+  },
+  "21313": {
+    "name": "Morris",
+    "element": "Wind"
+  },
+  "21314": {
+    "name": "Tablo",
+    "element": "Light"
+  },
+  "21315": {
+    "name": "Monte",
+    "element": "Dark"
+  },
+  "21401": {
+    "name": "Harp Magician",
+    "element": "Water"
+  },
+  "21402": {
+    "name": "Harp Magician",
+    "element": "Fire"
+  },
+  "21403": {
+    "name": "Harp Magician",
+    "element": "Wind"
+  },
+  "21404": {
+    "name": "Harp Magician",
+    "element": "Light"
+  },
+  "21405": {
+    "name": "Harp Magician",
+    "element": "Dark"
+  },
+  "21411": {
+    "name": "Sonnet",
+    "element": "Water"
+  },
+  "21412": {
+    "name": "Harmonia",
+    "element": "Fire"
+  },
+  "21413": {
+    "name": "Triana",
+    "element": "Wind"
+  },
+  "21414": {
+    "name": "Celia",
+    "element": "Light"
+  },
+  "21415": {
+    "name": "Vivachel",
+    "element": "Dark"
+  },
+  "21501": {
+    "name": "Unicorn",
+    "element": "Water"
+  },
+  "21502": {
+    "name": "Unicorn",
+    "element": "Fire"
+  },
+  "21503": {
+    "name": "Unicorn",
+    "element": "Wind"
+  },
+  "21504": {
+    "name": "Unicorn",
+    "element": "Light"
+  },
+  "21505": {
+    "name": "Unicorn",
+    "element": "Dark"
+  },
+  "21515": {
+    "name": "Alexandra",
+    "element": "Dark"
+  },
+  "21512": {
+    "name": "Helena",
+    "element": "Fire"
+  },
+  "21514": {
+    "name": "Eleanor",
+    "element": "Light"
+  },
+  "21511": {
+    "name": "Amelia",
+    "element": "Water"
+  },
+  "21513": {
+    "name": "Diana",
+    "element": "Wind"
+  },
+  "21612": {
+    "name": "Helena",
+    "element": "Fire"
+  },
+  "21611": {
+    "name": "Amelia",
+    "element": "Water"
+  },
+  "21613": {
+    "name": "Diana",
+    "element": "Wind"
+  },
+  "21614": {
+    "name": "Eleanor",
+    "element": "Light"
+  },
+  "21615": {
+    "name": "Alexandra",
+    "element": "Dark"
+  },
+  "1000204": {
+    "name": "Homunculus(Support)",
+    "element": "Light"
+  },
+  "1000205": {
+    "name": "Homunculus(Support)",
+    "element": "Dark"
+  },
+  "1000214": {
+    "name": "Homunculus(Support)",
+    "element": "Light"
+  },
+  "1000215": {
+    "name": "Homunculus(Support)",
+    "element": "Dark"
+  },
+  "11223": {
+    "name": "Imperfect Nine-tailed Fox",
+    "element": "Wind"
+  },
+  "11621": {
+    "name": "Imperfect Undine",
+    "element": "Water"
+  },
+  "11822": {
+    "name": "Imperfect Sylph",
+    "element": "Fire"
+  },
+  "13322": {
+    "name": "Imperfect Succubus",
+    "element": "Fire"
+  },
+  "13422": {
+    "name": "Imperfect Joker",
+    "element": "Fire"
+  },
+  "13521": {
+    "name": "Imperfect Ninja",
+    "element": "Water"
+  },
+  "14723": {
+    "name": "Imperfect Vampire",
+    "element": "Wind"
+  },
+  "17101": {
+    "name": "Ifrit",
+    "element": "Water"
+  },
+  "17102": {
+    "name": "Ifrit",
+    "element": "Fire"
+  },
+  "17103": {
+    "name": "Ifrit",
+    "element": "Wind"
+  },
+  "17104": {
+    "name": "Ifrit",
+    "element": "Light"
+  },
+  "17105": {
+    "name": "Ifrit",
+    "element": "Dark"
+  },
+  "17111": {
+    "name": "Theomars",
+    "element": "Water"
+  },
+  "17112": {
+    "name": "Tesarion",
+    "element": "Fire"
+  },
+  "17113": {
+    "name": "Akhamamir",
+    "element": "Wind"
+  },
+  "17114": {
+    "name": "Elsharion",
+    "element": "Light"
+  },
+  "17115": {
+    "name": "Veromos",
+    "element": "Dark"
+  },
+  "17323": {
+    "name": "Imperfect Kung Fu Girl",
+    "element": "Wind"
+  },
+  "20621": {
+    "name": "Imperfect Horus",
+    "element": "Water"
+  },
+  "40101": {
+    "name": "Inugami",
+    "element": "Water"
+  },
+  "40201": {
+    "name": "Phoenix",
+    "element": "Water"
+  },
+  "40302": {
+    "name": "Golem",
+    "element": "Fire"
+  },
+  "40403": {
+    "name": "Sylphid",
+    "element": "Wind"
+  },
+  "40501": {
+    "name": "Undine",
+    "element": "Water"
+  },
+  "40602": {
+    "name": "Inferno",
+    "element": "Fire"
+  },
+  "40703": {
+    "name": "Chimera",
+    "element": "Wind"
+  },
+  "40803": {
+    "name": "Salamander",
+    "element": "Wind"
+  },
+  "40903": {
+    "name": "Sylph",
+    "element": "Wind"
+  },
+  "41006": {
+    "name": "Otherworldly Dragon",
+    "element": "Pure"
+  },
+  "41101": {
+    "name": "Death Knight",
+    "element": "Water"
+  },
+  "41202": {
+    "name": "Lich",
+    "element": "Fire"
+  },
+  "41303": {
+    "name": "Keeper of Remains",
+    "element": "Wind"
+  },
+  "41401": {
+    "name": "Contaminated Dragon",
+    "element": "Water"
+  },
+  "42006": {
+    "name": "Ath'taros",
+    "element": "Pure"
+  },
+  "42106": {
+    "name": "Lyrith",
+    "element": "Pure"
+  },
+  "42206": {
+    "name": "Lyrith",
+    "element": "Pure"
+  },
+  "43001": {
+    "name": "Ice Beast",
+    "element": "Water"
+  },
+  "43002": {
+    "name": "Fire Beast",
+    "element": "Fire"
+  },
+  "43003": {
+    "name": "Wind Beast",
+    "element": "Wind"
+  },
+  "43004": {
+    "name": "Light Beast",
+    "element": "Light"
+  },
+  "43005": {
+    "name": "Dark Beast",
+    "element": "Dark"
+  },
+  "44007": {
+    "name": "Chaos Beast Khi'zar Kha'jul",
+    "element": "Pure"
+  },
+  "44008": {
+    "name": "Chaos Beast Khi'zar Kha'jul",
+    "element": "Pure"
+  },
+  "44009": {
+    "name": "Chaos Beast Khi'zar Kha'jul",
+    "element": "Pure"
+  },
+  "60101": {
+    "name": "Keeper of Water",
+    "element": "Water"
+  },
+  "60102": {
+    "name": "Keeper of Fire",
+    "element": "Fire"
+  },
+  "60103": {
+    "name": "Keeper of Wind",
+    "element": "Wind"
+  },
+  "60104": {
+    "name": "Keeper of Light",
+    "element": "Light"
+  },
+  "60105": {
+    "name": "Keeper of Darkness",
+    "element": "Dark"
+  },
+  "60201": {
+    "name": "Ancient Giant",
+    "element": "Water"
+  },
+  "60202": {
+    "name": "Ancient Giant",
+    "element": "Fire"
+  },
+  "60203": {
+    "name": "Ancient Giant",
+    "element": "Wind"
+  },
+  "60204": {
+    "name": "Ancient Giant",
+    "element": "Light"
+  },
+  "60205": {
+    "name": "Ancient Giant",
+    "element": "Dark"
+  },
+  "60301": {
+    "name": "Legendary Dragon",
+    "element": "Water"
+  },
+  "60302": {
+    "name": "Legendary Dragon",
+    "element": "Fire"
+  },
+  "60303": {
+    "name": "Legendary Dragon",
+    "element": "Wind"
+  },
+  "60304": {
+    "name": "Legendary Dragon",
+    "element": "Light"
+  },
+  "60305": {
+    "name": "Legendary Dragon",
+    "element": "Dark"
+  },
+  "60401": {
+    "name": "Angelmon",
+    "element": "Water"
+  },
+  "60501": {
+    "name": "Angelmon",
+    "element": "Water"
+  },
+  "60601": {
+    "name": "Angelmon",
+    "element": "Water"
+  },
+  "60701": {
+    "name": "Angelmon",
+    "element": "Water"
+  },
+  "60402": {
+    "name": "Angelmon",
+    "element": "Fire"
+  },
+  "60502": {
+    "name": "Angelmon",
+    "element": "Fire"
+  },
+  "60602": {
+    "name": "Angelmon",
+    "element": "Fire"
+  },
+  "60702": {
+    "name": "Angelmon",
+    "element": "Fire"
+  },
+  "60403": {
+    "name": "Angelmon",
+    "element": "Wind"
+  },
+  "60503": {
+    "name": "Angelmon",
+    "element": "Wind"
+  },
+  "60603": {
+    "name": "Angelmon",
+    "element": "Wind"
+  },
+  "60703": {
+    "name": "Angelmon",
+    "element": "Wind"
+  },
+  "60404": {
+    "name": "Angelmon",
+    "element": "Light"
+  },
+  "60504": {
+    "name": "Angelmon",
+    "element": "Light"
+  },
+  "60604": {
+    "name": "Angelmon",
+    "element": "Light"
+  },
+  "60704": {
+    "name": "Angelmon",
+    "element": "Light"
+  },
+  "60405": {
+    "name": "Angelmon",
+    "element": "Dark"
+  },
+  "60505": {
+    "name": "Angelmon",
+    "element": "Dark"
+  },
+  "60605": {
+    "name": "Angelmon",
+    "element": "Dark"
+  },
+  "60705": {
+    "name": "Angelmon",
+    "element": "Dark"
+  },
+  "60804": {
+    "name": "Rainbowmon",
+    "element": "Light"
+  },
+  "60904": {
+    "name": "Rainbowmon",
+    "element": "Light"
+  },
+  "61004": {
+    "name": "Rainbowmon",
+    "element": "Light"
+  },
+  "61104": {
+    "name": "Rainbowmon",
+    "element": "Light"
+  },
+  "60805": {
+    "name": "Devilmon",
+    "element": "Dark"
+  },
+  "60905": {
+    "name": "Devilmon",
+    "element": "Dark"
+  },
+  "61005": {
+    "name": "Devilmon",
+    "element": "Dark"
+  },
+  "61105": {
+    "name": "Devilmon",
+    "element": "Dark"
+  },
+  "62004": {
+    "name": "Keeper of Magic",
+    "element": "Light"
+  },
+  "62101": {
+    "name": "Ancient Lich King",
+    "element": "Water"
+  },
+  "62102": {
+    "name": "Ancient Lich King",
+    "element": "Fire"
+  },
+  "62103": {
+    "name": "Ancient Lich King",
+    "element": "Wind"
+  },
+  "62104": {
+    "name": "Ancient Lich King",
+    "element": "Light"
+  },
+  "62105": {
+    "name": "Ancient Lich King",
+    "element": "Dark"
+  },
+  "110306": {
+    "name": "Incarnation of Greed",
+    "element": "Pure"
+  },
+  "110406": {
+    "name": "Incarnation of Vendetta",
+    "element": "Pure"
+  },
+  "110506": {
+    "name": "Incarnation of Protection",
+    "element": "Pure"
+  },
+  "110606": {
+    "name": "Incarnation of Greed",
+    "element": "Pure"
+  },
+  "110706": {
+    "name": "Incarnation of Vendetta",
+    "element": "Pure"
+  },
+  "110806": {
+    "name": "Incarnation of Protection",
+    "element": "Pure"
+  },
+  "110902": {
+    "name": "Fire Minion",
+    "element": "Fire"
+  },
+  "310106": {
+    "name": "Lunaroc",
+    "element": "Pure"
+  },
+  "310206": {
+    "name": "Chromeshell",
+    "element": "Pure"
+  },
+  "310306": {
+    "name": "Nebion",
+    "element": "Pure"
+  },
+  "21714": {
+    "name": "Super Angelmon",
+    "element": "Light"
+  },
+  "21804": {
+    "name": "Paladin",
+    "element": "Light"
+  },
+  "16921": {
+    "name": "Imperfect Samurai",
+    "element": "Water"
+  },
+  "21422": {
+    "name": "Imperfect Harp Magician",
+    "element": "Fire"
+  },
+  "21801": {
+    "name": "Paladin",
+    "element": "Water"
+  },
+  "21802": {
+    "name": "Paladin",
+    "element": "Fire"
+  },
+  "21803": {
+    "name": "Paladin",
+    "element": "Wind"
+  },
+  "21805": {
+    "name": "Paladin",
+    "element": "Dark"
+  },
+  "21811": {
+    "name": "Josephine",
+    "element": "Water"
+  },
+  "21812": {
+    "name": "Ophilia",
+    "element": "Fire"
+  },
+  "21813": {
+    "name": "Louise",
+    "element": "Wind"
+  },
+  "21814": {
+    "name": "Jeanne",
+    "element": "Light"
+  },
+  "21815": {
+    "name": "Leona",
+    "element": "Dark"
+  },
+  "12804": {
+    "name": "Low Elemental",
+    "element": "Light"
+  },
+  "21901": {
+    "name": "Chakram Dancer",
+    "element": "Water"
+  },
+  "21902": {
+    "name": "Chakram Dancer",
+    "element": "Fire"
+  },
+  "21903": {
+    "name": "Chakram Dancer",
+    "element": "Wind"
+  },
+  "21904": {
+    "name": "Chakram Dancer",
+    "element": "Light"
+  },
+  "21905": {
+    "name": "Chakram Dancer",
+    "element": "Dark"
+  },
+  "21911": {
+    "name": "Talia",
+    "element": "Water"
+  },
+  "21912": {
+    "name": "Shaina",
+    "element": "Fire"
+  },
+  "21913": {
+    "name": "Melissa",
+    "element": "Wind"
+  },
+  "21914": {
+    "name": "Deva",
+    "element": "Light"
+  },
+  "21915": {
+    "name": "Belita",
+    "element": "Dark"
+  },
+  "22001": {
+    "name": "Boomerang Warrior",
+    "element": "Water"
+  },
+  "22002": {
+    "name": "Boomerang Warrior",
+    "element": "Fire"
+  },
+  "22003": {
+    "name": "Boomerang Warrior",
+    "element": "Wind"
+  },
+  "22004": {
+    "name": "Boomerang Warrior",
+    "element": "Light"
+  },
+  "22005": {
+    "name": "Boomerang Warrior",
+    "element": "Dark"
+  },
+  "22011": {
+    "name": "Sabrina",
+    "element": "Water"
+  },
+  "22012": {
+    "name": "Maruna",
+    "element": "Fire"
+  },
+  "22013": {
+    "name": "Zenobia",
+    "element": "Wind"
+  },
+  "22014": {
+    "name": "Bailey",
+    "element": "Light"
+  },
+  "22015": {
+    "name": "Martina",
+    "element": "Dark"
+  },
+  "22101": {
+    "name": "Dryad",
+    "element": "Water"
+  },
+  "22102": {
+    "name": "Dryad",
+    "element": "Fire"
+  },
+  "22103": {
+    "name": "Dryad",
+    "element": "Wind"
+  },
+  "22104": {
+    "name": "Dryad",
+    "element": "Light"
+  },
+  "22105": {
+    "name": "Dryad",
+    "element": "Dark"
+  },
+  "22111": {
+    "name": "Herne",
+    "element": "Water"
+  },
+  "22112": {
+    "name": "Nisha",
+    "element": "Fire"
+  },
+  "22113": {
+    "name": "Mellia",
+    "element": "Wind"
+  },
+  "22114": {
+    "name": "Felleria",
+    "element": "Light"
+  },
+  "22115": {
+    "name": "Hyanes",
+    "element": "Dark"
+  },
+  "22201": {
+    "name": "Druid",
+    "element": "Water"
+  },
+  "22202": {
+    "name": "Druid",
+    "element": "Fire"
+  },
+  "22203": {
+    "name": "Druid",
+    "element": "Wind"
+  },
+  "22204": {
+    "name": "Druid",
+    "element": "Light"
+  },
+  "22205": {
+    "name": "Druid",
+    "element": "Dark"
+  },
+  "22211": {
+    "name": "Abellio",
+    "element": "Water"
+  },
+  "22212": {
+    "name": "Bellenus",
+    "element": "Fire"
+  },
+  "22213": {
+    "name": "Taranys",
+    "element": "Wind"
+  },
+  "22214": {
+    "name": "Valantis",
+    "element": "Light"
+  },
+  "22215": {
+    "name": "Pater",
+    "element": "Dark"
+  },
+  "22311": {
+    "name": "Abellio",
+    "element": "Water"
+  },
+  "22312": {
+    "name": "Bellenus",
+    "element": "Fire"
+  },
+  "22313": {
+    "name": "Taranys",
+    "element": "Wind"
+  },
+  "22314": {
+    "name": "Valantis",
+    "element": "Light"
+  },
+  "22315": {
+    "name": "Pater",
+    "element": "Dark"
+  },
+  "46001": {
+    "name": "Tartarus",
+    "element": "Pure"
+  },
+  "46101": {
+    "name": "Leos",
+    "element": "Water"
+  },
+  "46102": {
+    "name": "Kotos",
+    "element": "Fire"
+  },
+  "46103": {
+    "name": "Guilles",
+    "element": "Wind"
+  },
+  "46301": {
+    "name": "Leos",
+    "element": "Water"
+  },
+  "46302": {
+    "name": "Kotos",
+    "element": "Fire"
+  },
+  "46303": {
+    "name": "Guilles",
+    "element": "Wind"
+  },
+  "46304": {
+    "name": "Leos",
+    "element": "Water"
+  },
+  "46305": {
+    "name": "Kotos",
+    "element": "Fire"
+  },
+  "46306": {
+    "name": "Guilles",
+    "element": "Wind"
+  },
+  "46307": {
+    "name": "Leos",
+    "element": "Water"
+  },
+  "46308": {
+    "name": "Kotos",
+    "element": "Fire"
+  },
+  "46309": {
+    "name": "Guilles",
+    "element": "Wind"
+  },
+  "14722": {
+    "name": "Imperfect Vampire",
+    "element": "Fire"
+  },
+  "19823": {
+    "name": "Imperfect Magic Knight",
+    "element": "Wind"
+  },
+  "22401": {
+    "name": "Giant Warrior",
+    "element": "Water"
+  },
+  "22402": {
+    "name": "Giant Warrior",
+    "element": "Fire"
+  },
+  "22403": {
+    "name": "Giant Warrior",
+    "element": "Wind"
+  },
+  "22404": {
+    "name": "Giant Warrior",
+    "element": "Light"
+  },
+  "22405": {
+    "name": "Giant Warrior",
+    "element": "Dark"
+  },
+  "22411": {
+    "name": "Bagir",
+    "element": "Water"
+  },
+  "22412": {
+    "name": "Vidurr",
+    "element": "Fire"
+  },
+  "22413": {
+    "name": "Skogul",
+    "element": "Wind"
+  },
+  "22414": {
+    "name": "Einheri",
+    "element": "Light"
+  },
+  "22415": {
+    "name": "Trasar",
+    "element": "Dark"
+  },
+  "22503": {
+    "name": "Giant Warrior",
+    "element": "Wind"
+  },
+  "22505": {
+    "name": "Giant Warrior",
+    "element": "Dark"
+  },
+  "22513": {
+    "name": "Skogul",
+    "element": "Wind"
+  },
+  "22515": {
+    "name": "Trasar",
+    "element": "Dark"
+  },
+  "22601": {
+    "name": "Lightning Emperor",
+    "element": "Water"
+  },
+  "22602": {
+    "name": "Lightning Emperor",
+    "element": "Fire"
+  },
+  "22603": {
+    "name": "Lightning Emperor",
+    "element": "Wind"
+  },
+  "22604": {
+    "name": "Lightning Emperor",
+    "element": "Light"
+  },
+  "22605": {
+    "name": "Lightning Emperor",
+    "element": "Dark"
+  },
+  "22611": {
+    "name": "Bolverk",
+    "element": "Water"
+  },
+  "22612": {
+    "name": "Baleygr",
+    "element": "Fire"
+  },
+  "22613": {
+    "name": "Odin",
+    "element": "Wind"
+  },
+  "22614": {
+    "name": "Geldnir",
+    "element": "Light"
+  },
+  "22615": {
+    "name": "Herteit",
+    "element": "Dark"
+  },
+  "22701": {
+    "name": "Sniper Mk.I",
+    "element": "Water"
+  },
+  "22702": {
+    "name": "Sniper Mk.I",
+    "element": "Fire"
+  },
+  "22703": {
+    "name": "Sniper Mk.I",
+    "element": "Wind"
+  },
+  "22704": {
+    "name": "Sniper Mk.I",
+    "element": "Light"
+  },
+  "22705": {
+    "name": "Sniper Mk.I",
+    "element": "Dark"
+  },
+  "22711": {
+    "name": "Covenant",
+    "element": "Water"
+  },
+  "22712": {
+    "name": "Carcano",
+    "element": "Fire"
+  },
+  "22713": {
+    "name": "Carbine",
+    "element": "Wind"
+  },
+  "22714": {
+    "name": "Magnum",
+    "element": "Light"
+  },
+  "22715": {
+    "name": "Dragunov",
+    "element": "Dark"
+  },
+  "22802": {
+    "name": "Sniper Mk.I",
+    "element": "Fire"
+  },
+  "22803": {
+    "name": "Sniper Mk.I",
+    "element": "Wind"
+  },
+  "22805": {
+    "name": "Sniper Mk.I",
+    "element": "Dark"
+  },
+  "22812": {
+    "name": "Carcano",
+    "element": "Fire"
+  },
+  "22813": {
+    "name": "Carbine",
+    "element": "Wind"
+  },
+  "22815": {
+    "name": "Dragunov",
+    "element": "Dark"
+  },
+  "22901": {
+    "name": "Cannon Girl",
+    "element": "Water"
+  },
+  "22902": {
+    "name": "Cannon Girl",
+    "element": "Fire"
+  },
+  "22903": {
+    "name": "Cannon Girl",
+    "element": "Wind"
+  },
+  "22904": {
+    "name": "Cannon Girl",
+    "element": "Light"
+  },
+  "22905": {
+    "name": "Cannon Girl",
+    "element": "Dark"
+  },
+  "22911": {
+    "name": "Abigail",
+    "element": "Water"
+  },
+  "22912": {
+    "name": "Scarlett",
+    "element": "Fire"
+  },
+  "22913": {
+    "name": "Christina",
+    "element": "Wind"
+  },
+  "22914": {
+    "name": "Emily",
+    "element": "Light"
+  },
+  "22915": {
+    "name": "Bella",
+    "element": "Dark"
+  },
+  "23005": {
+    "name": "Vampire Lord",
+    "element": "Dark"
+  },
+  "23015": {
+    "name": "Eirgar",
+    "element": "Dark"
+  },
+  "10131": {
+    "name": "Elucia",
+    "element": "Water"
+  },
+  "10132": {
+    "name": "Iselia",
+    "element": "Fire"
+  },
+  "10133": {
+    "name": "Aeilene",
+    "element": "Wind"
+  },
+  "10134": {
+    "name": "Neal",
+    "element": "Light"
+  },
+  "10135": {
+    "name": "Sorin",
+    "element": "Dark"
+  },
+  "10331": {
+    "name": "Kacey",
+    "element": "Water"
+  },
+  "10332": {
+    "name": "Tatu",
+    "element": "Fire"
+  },
+  "10333": {
+    "name": "Shannon",
+    "element": "Wind"
+  },
+  "10334": {
+    "name": "Cheryl",
+    "element": "Light"
+  },
+  "10335": {
+    "name": "Camaryn",
+    "element": "Dark"
+  },
+  "10731": {
+    "name": "Dagora",
+    "element": "Water"
+  },
+  "10732": {
+    "name": "Ursha",
+    "element": "Fire"
+  },
+  "10733": {
+    "name": "Ramagos",
+    "element": "Wind"
+  },
+  "10734": {
+    "name": "Lusha",
+    "element": "Light"
+  },
+  "10735": {
+    "name": "Gorgo",
+    "element": "Dark"
+  },
+  "11031": {
+    "name": "Icaru",
+    "element": "Water"
+  },
+  "11032": {
+    "name": "Raoq",
+    "element": "Fire"
+  },
+  "11033": {
+    "name": "Ramahan",
+    "element": "Wind"
+  },
+  "11034": {
+    "name": "Belladeon",
+    "element": "Light"
+  },
+  "11035": {
+    "name": "Kro",
+    "element": "Dark"
+  },
+  "47001": {
+    "name": "Ancient Guardian",
+    "element": "Water"
+  },
+  "47002": {
+    "name": "Ancient Guardian",
+    "element": "Wind"
+  },
+  "23101": {
+    "name": "Demon",
+    "element": "Water"
+  },
+  "23102": {
+    "name": "Demon",
+    "element": "Fire"
+  },
+  "23103": {
+    "name": "Demon",
+    "element": "Wind"
+  },
+  "23104": {
+    "name": "Demon",
+    "element": "Light"
+  },
+  "23105": {
+    "name": "Demon",
+    "element": "Dark"
+  },
+  "23111": {
+    "name": "Belial",
+    "element": "Water"
+  },
+  "23112": {
+    "name": "Bael",
+    "element": "Fire"
+  },
+  "23113": {
+    "name": "Mephisto",
+    "element": "Wind"
+  },
+  "23114": {
+    "name": "Lucifer",
+    "element": "Light"
+  },
+  "23115": {
+    "name": "Beelzebub",
+    "element": "Dark"
+  },
+  "23301": {
+    "name": "Gargoyle",
+    "element": "Water"
+  },
+  "23302": {
+    "name": "Gargoyle",
+    "element": "Fire"
+  },
+  "23303": {
+    "name": "Gargoyle",
+    "element": "Wind"
+  },
+  "23304": {
+    "name": "Gargoyle",
+    "element": "Light"
+  },
+  "23305": {
+    "name": "Gargoyle",
+    "element": "Dark"
+  },
+  "23311": {
+    "name": "Tanzaite",
+    "element": "Water"
+  },
+  "23312": {
+    "name": "Kunite",
+    "element": "Fire"
+  },
+  "23313": {
+    "name": "Malite",
+    "element": "Wind"
+  },
+  "23314": {
+    "name": "Phenaka",
+    "element": "Light"
+  },
+  "23315": {
+    "name": "Onyx",
+    "element": "Dark"
+  },
+  "14031": {
+    "name": "Vigor",
+    "element": "Water"
+  },
+  "14032": {
+    "name": "Garoche",
+    "element": "Fire"
+  },
+  "14033": {
+    "name": "Shakan",
+    "element": "Wind"
+  },
+  "14034": {
+    "name": "Eshir",
+    "element": "Light"
+  },
+  "14035": {
+    "name": "Jultan",
+    "element": "Dark"
+  },
+  "15031": {
+    "name": "Mina",
+    "element": "Water"
+  },
+  "15032": {
+    "name": "Mei",
+    "element": "Fire"
+  },
+  "15033": {
+    "name": "Naomi",
+    "element": "Wind"
+  },
+  "15034": {
+    "name": "Xiao Ling",
+    "element": "Light"
+  },
+  "15035": {
+    "name": "Miho",
+    "element": "Dark"
+  },
+  "47003": {
+    "name": "Ancient Guardian",
+    "element": "Fire"
+  },
+  "23501": {
+    "name": "Beast Rider",
+    "element": "Water"
+  },
+  "23502": {
+    "name": "Beast Rider",
+    "element": "Fire"
+  },
+  "23503": {
+    "name": "Beast Rider",
+    "element": "Wind"
+  },
+  "23504": {
+    "name": "Beast Rider",
+    "element": "Light"
+  },
+  "23505": {
+    "name": "Beast Rider",
+    "element": "Dark"
+  },
+  "23511": {
+    "name": "Barbara",
+    "element": "Water"
+  },
+  "23512": {
+    "name": "Masha",
+    "element": "Fire"
+  },
+  "23513": {
+    "name": "Savannah",
+    "element": "Wind"
+  },
+  "23514": {
+    "name": "Narsha",
+    "element": "Light"
+  },
+  "23515": {
+    "name": "Xiana",
+    "element": "Dark"
+  },
+  "23601": {
+    "name": "Beast Rider",
+    "element": "Water"
+  },
+  "23602": {
+    "name": "Beast Rider",
+    "element": "Fire"
+  },
+  "23603": {
+    "name": "Beast Rider",
+    "element": "Wind"
+  },
+  "23604": {
+    "name": "Beast Rider",
+    "element": "Light"
+  },
+  "23605": {
+    "name": "Beast Rider",
+    "element": "Dark"
+  },
+  "23611": {
+    "name": "Barbara",
+    "element": "Water"
+  },
+  "23612": {
+    "name": "Masha",
+    "element": "Fire"
+  },
+  "23613": {
+    "name": "Savannah",
+    "element": "Wind"
+  },
+  "23614": {
+    "name": "Narsha",
+    "element": "Light"
+  },
+  "23615": {
+    "name": "Xiana",
+    "element": "Dark"
+  },
+  "23201": {
+    "name": "데몬(물)",
+    "element": "Water"
+  },
+  "23205": {
+    "name": "데몬(어둠)",
+    "element": "Dark"
+  },
+  "23211": {
+    "name": "데몬(물)",
+    "element": "Water"
+  },
+  "23215": {
+    "name": "데몬(어둠)",
+    "element": "Dark"
+  },
+  "23401": {
+    "name": "가고일(물)",
+    "element": "Water"
+  },
+  "23402": {
+    "name": "가고일(불)",
+    "element": "Fire"
+  },
+  "23403": {
+    "name": "가고일(바람)",
+    "element": "Wind"
+  },
+  "23404": {
+    "name": "가고일(빛)",
+    "element": "Light"
+  },
+  "23405": {
+    "name": "가고일(어둠)",
+    "element": "Dark"
+  },
+  "23411": {
+    "name": "가고일(물)",
+    "element": "Water"
+  },
+  "23412": {
+    "name": "가고일(불)",
+    "element": "Fire"
+  },
+  "23413": {
+    "name": "가고일(바람)",
+    "element": "Wind"
+  },
+  "23414": {
+    "name": "가고일(빛)",
+    "element": "Light"
+  },
+  "23415": {
+    "name": "가고일(어둠)",
+    "element": "Dark"
+  },
+  "45001": {
+    "name": "형상아이템용 더미(물)",
+    "element": "Water"
+  },
+  "45002": {
+    "name": "형상아이템용 더미(불)",
+    "element": "Fire"
+  },
+  "45003": {
+    "name": "형상아이템용 더미(바람)",
+    "element": "Wind"
+  },
+  "45004": {
+    "name": "형상아이템용 더미(빛)",
+    "element": "Light"
+  },
+  "45005": {
+    "name": "형상아이템용 더미(어둠)",
+    "element": "Dark"
+  },
+  "46002": {
+    "name": "미궁 보스 머리",
+    "element": "Pure"
+  },
+  "46003": {
+    "name": "미궁 보스 왼쪽팔",
+    "element": "Pure"
+  },
+  "46004": {
+    "name": "미궁 보스 오른쪽팔",
+    "element": "Pure"
+  },
+  "46201": {
+    "name": "미궁 룬문양 (물)",
+    "element": "Water"
+  },
+  "46202": {
+    "name": "미궁 룬문양 (불)",
+    "element": "Fire"
+  },
+  "46203": {
+    "name": "미궁 룬문양 (바람)",
+    "element": "Wind"
+  },
+  "47101": {
+    "name": "Fairy 2A",
+    "element": "Water"
+  },
+  "47102": {
+    "name": "Fairy 2A",
+    "element": "Fire"
+  },
+  "47103": {
+    "name": "Fairy 2A",
+    "element": "Wind"
+  },
+  "47104": {
+    "name": "Fairy 2A",
+    "element": "Light"
+  },
+  "47105": {
+    "name": "Fairy 2A",
+    "element": "Dark"
+  },
+  "47201": {
+    "name": "Pixie 2A",
+    "element": "Water"
+  },
+  "47202": {
+    "name": "Pixie 2A",
+    "element": "Fire"
+  },
+  "47203": {
+    "name": "Pixie 2A",
+    "element": "Wind"
+  },
+  "47204": {
+    "name": "Pixie 2A",
+    "element": "Light"
+  },
+  "47205": {
+    "name": "Pixie 2A",
+    "element": "Dark"
+  },
+  "47301": {
+    "name": "Warbear 2A",
+    "element": "Water"
+  },
+  "47302": {
+    "name": "Warbear 2A",
+    "element": "Fire"
+  },
+  "47303": {
+    "name": "Warbear 2A",
+    "element": "Wind"
+  },
+  "47304": {
+    "name": "Warbear 2A",
+    "element": "Light"
+  },
+  "47305": {
+    "name": "Warbear 2A",
+    "element": "Dark"
+  },
+  "47401": {
+    "name": "Inugami 2A",
+    "element": "Water"
+  },
+  "47402": {
+    "name": "Inugami 2A",
+    "element": "Fire"
+  },
+  "47403": {
+    "name": "Inugami 2A",
+    "element": "Wind"
+  },
+  "47404": {
+    "name": "Inugami 2A",
+    "element": "Light"
+  },
+  "47405": {
+    "name": "Inugami 2A",
+    "element": "Dark"
+  },
+  "47501": {
+    "name": "Werewolf 2A",
+    "element": "Water"
+  },
+  "47502": {
+    "name": "Werewolf 2A",
+    "element": "Fire"
+  },
+  "47503": {
+    "name": "Werewolf 2A",
+    "element": "Wind"
+  },
+  "47504": {
+    "name": "Werewolf 2A",
+    "element": "Light"
+  },
+  "47505": {
+    "name": "Werewolf 2A",
+    "element": "Dark"
+  },
+  "47601": {
+    "name": "Martial Cat 2A",
+    "element": "Water"
+  },
+  "47602": {
+    "name": "Martial Cat 2A",
+    "element": "Fire"
+  },
+  "47603": {
+    "name": "Martial Cat 2A",
+    "element": "Wind"
+  },
+  "47604": {
+    "name": "Martial Cat 2A",
+    "element": "Light"
+  },
+  "47605": {
+    "name": "Martial Cat 2A",
+    "element": "Dark"
+  },
+  "62200": {
+    "name": "월드보스-고대골렘",
+    "element": "Water"
+  },
+  "100116": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100216": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100316": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100416": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100516": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100616": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100716": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100816": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100916": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101016": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101116": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101216": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101316": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101416": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101516": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101616": {
+    "name": "타워(물) - 전체 충격 수정",
+    "element": "Pure"
+  },
+  "101716": {
+    "name": "타워(물) - 공속 게이지",
+    "element": "Pure"
+  },
+  "100126": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100226": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100326": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100426": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100526": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100626": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100726": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100826": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100926": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101026": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101126": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101226": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101326": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101426": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101526": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101626": {
+    "name": "타워(불) - 전체 충격 수정",
+    "element": "Pure"
+  },
+  "101726": {
+    "name": "타워(불) - 공속 게이지",
+    "element": "Pure"
+  },
+  "100136": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100236": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100336": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100436": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100536": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100636": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100736": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100836": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100936": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101036": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101136": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101236": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101336": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101436": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101536": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101636": {
+    "name": "타워(바람) - 전체 충격 수정",
+    "element": "Pure"
+  },
+  "101736": {
+    "name": "타워(바람) - 공속 게이지",
+    "element": "Pure"
+  },
+  "100146": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100246": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100346": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100446": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100546": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100646": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100746": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100846": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100946": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101046": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101146": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101246": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101346": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101446": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101546": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101646": {
+    "name": "타워(빛) - 전체 충격 수정",
+    "element": "Pure"
+  },
+  "101746": {
+    "name": "타워(빛) - 공속 게이지",
+    "element": "Pure"
+  },
+  "100156": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100256": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100356": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100456": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100556": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100656": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100756": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100856": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "100956": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101056": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101156": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101256": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101356": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101456": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101556": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101656": {
+    "name": "타워(어둠) - 전체 충격 수정",
+    "element": "Pure"
+  },
+  "101756": {
+    "name": "타워(어둠) - 공속 게이지",
+    "element": "Pure"
+  },
+  "110106": {
+    "name": "시험의탑 타워(왼쪽)",
+    "element": "Pure"
+  },
+  "110206": {
+    "name": "시험의탑 타워(오른쪽)",
+    "element": "Pure"
+  },
+  "120101": {
+    "name": "Tower",
+    "element": "Water"
+  },
+  "120102": {
+    "name": "Tower",
+    "element": "Fire"
+  },
+  "120103": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "120104": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "120105": {
+    "name": "Tower",
+    "element": "Dark"
+  },
+  "120111": {
+    "name": "Tower",
+    "element": "Water"
+  },
+  "120112": {
+    "name": "Tower",
+    "element": "Fire"
+  },
+  "120113": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "120114": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "120115": {
+    "name": "Tower",
+    "element": "Dark"
+  },
+  "120201": {
+    "name": "Tower",
+    "element": "Water"
+  },
+  "120202": {
+    "name": "Tower",
+    "element": "Fire"
+  },
+  "120203": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "120204": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "120205": {
+    "name": "Tower",
+    "element": "Dark"
+  },
+  "120211": {
+    "name": "Tower",
+    "element": "Water"
+  },
+  "120212": {
+    "name": "Tower",
+    "element": "Fire"
+  },
+  "120213": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "120214": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "120215": {
+    "name": "Tower",
+    "element": "Dark"
+  },
+  "120301": {
+    "name": "Tower",
+    "element": "Water"
+  },
+  "120302": {
+    "name": "Tower",
+    "element": "Fire"
+  },
+  "120303": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "120304": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "120305": {
+    "name": "Tower",
+    "element": "Dark"
+  },
+  "120311": {
+    "name": "Tower",
+    "element": "Water"
+  },
+  "120312": {
+    "name": "Tower",
+    "element": "Fire"
+  },
+  "120313": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "120314": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "120315": {
+    "name": "Tower",
+    "element": "Dark"
+  },
+  "120401": {
+    "name": "Tower",
+    "element": "Water"
+  },
+  "120402": {
+    "name": "Tower",
+    "element": "Fire"
+  },
+  "120403": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "120404": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "120405": {
+    "name": "Tower",
+    "element": "Dark"
+  },
+  "120411": {
+    "name": "Tower",
+    "element": "Water"
+  },
+  "120412": {
+    "name": "Tower",
+    "element": "Fire"
+  },
+  "120413": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "120414": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "120415": {
+    "name": "Tower",
+    "element": "Dark"
+  },
+  "120501": {
+    "name": "Tower",
+    "element": "Water"
+  },
+  "120502": {
+    "name": "Tower",
+    "element": "Fire"
+  },
+  "120503": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "120504": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "120505": {
+    "name": "Tower",
+    "element": "Dark"
+  },
+  "120511": {
+    "name": "Tower",
+    "element": "Water"
+  },
+  "120512": {
+    "name": "Tower",
+    "element": "Fire"
+  },
+  "120513": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "120514": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "120515": {
+    "name": "Tower",
+    "element": "Dark"
+  },
+  "120601": {
+    "name": "Tower",
+    "element": "Water"
+  },
+  "120602": {
+    "name": "Tower",
+    "element": "Fire"
+  },
+  "120603": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "120604": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "120605": {
+    "name": "Tower",
+    "element": "Dark"
+  },
+  "120611": {
+    "name": "Tower",
+    "element": "Water"
+  },
+  "120612": {
+    "name": "Tower",
+    "element": "Fire"
+  },
+  "120613": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "120614": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "120615": {
+    "name": "Tower",
+    "element": "Dark"
+  },
+  "210106": {
+    "name": "Small Crystal",
+    "element": "Pure"
+  },
+  "210206": {
+    "name": "Small Crystal",
+    "element": "Pure"
+  },
+  "210306": {
+    "name": "Small Crystal",
+    "element": "Pure"
+  },
+  "210406": {
+    "name": "Small Crystal",
+    "element": "Pure"
+  },
+  "210506": {
+    "name": "Small Crystal",
+    "element": "Pure"
+  },
+  "210606": {
+    "name": "Medium Crystal",
+    "element": "Pure"
+  },
+  "210706": {
+    "name": "Medium Crystal",
+    "element": "Pure"
+  },
+  "210806": {
+    "name": "Medium Crystal",
+    "element": "Pure"
+  },
+  "210906": {
+    "name": "Medium Crystal",
+    "element": "Pure"
+  },
+  "211006": {
+    "name": "Medium Crystal",
+    "element": "Pure"
+  },
+  "220001": {
+    "name": "Small Crystal",
+    "element": "Water"
+  },
+  "220002": {
+    "name": "Small Crystal",
+    "element": "Fire"
+  },
+  "220003": {
+    "name": "Small Crystal",
+    "element": "Wind"
+  },
+  "220004": {
+    "name": "Small Crystal",
+    "element": "Light"
+  },
+  "220005": {
+    "name": "Small Crystal",
+    "element": "Dark"
+  },
+  "220011": {
+    "name": "Medium Crystal",
+    "element": "Water"
+  },
+  "220012": {
+    "name": "Medium Crystal",
+    "element": "Fire"
+  },
+  "220013": {
+    "name": "Medium Crystal",
+    "element": "Wind"
+  },
+  "220014": {
+    "name": "Medium Crystal",
+    "element": "Light"
+  },
+  "220015": {
+    "name": "Medium Crystal",
+    "element": "Dark"
+  },
+  "11531": {
+    "name": "Kahn",
+    "element": "Water"
+  },
+  "11532": {
+    "name": "Spectra",
+    "element": "Fire"
+  },
+  "11533": {
+    "name": "Bernard",
+    "element": "Wind"
+  },
+  "11534": {
+    "name": "Shamann",
+    "element": "Light"
+  },
+  "11535": {
+    "name": "Varus",
+    "element": "Dark"
+  },
+  "47701": {
+    "name": "Griffon 2A",
+    "element": "Water"
+  },
+  "47702": {
+    "name": "Griffon 2A",
+    "element": "Fire"
+  },
+  "47703": {
+    "name": "Griffon 2A",
+    "element": "Wind"
+  },
+  "47704": {
+    "name": "Griffon 2A",
+    "element": "Light"
+  },
+  "47705": {
+    "name": "Griffon 2A",
+    "element": "Dark"
+  },
+  "120701": {
+    "name": "Tower",
+    "element": "Water"
+  },
+  "120702": {
+    "name": "Tower",
+    "element": "Fire"
+  },
+  "120703": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "120704": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "120705": {
+    "name": "Tower",
+    "element": "Dark"
+  },
+  "120711": {
+    "name": "Tower",
+    "element": "Water"
+  },
+  "120712": {
+    "name": "Tower",
+    "element": "Fire"
+  },
+  "120713": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "120714": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "120715": {
+    "name": "Tower",
+    "element": "Dark"
+  },
+  "23701": {
+    "name": "Art Master",
+    "element": "Water"
+  },
+  "23702": {
+    "name": "Art Master",
+    "element": "Fire"
+  },
+  "23703": {
+    "name": "Art Master",
+    "element": "Wind"
+  },
+  "23704": {
+    "name": "Art Master",
+    "element": "Light"
+  },
+  "23705": {
+    "name": "Art Master",
+    "element": "Dark"
+  },
+  "23711": {
+    "name": "Haegang",
+    "element": "Water"
+  },
+  "23712": {
+    "name": "Jeogun",
+    "element": "Fire"
+  },
+  "23713": {
+    "name": "Cheongpung",
+    "element": "Wind"
+  },
+  "23714": {
+    "name": "Hanwul",
+    "element": "Light"
+  },
+  "23715": {
+    "name": "Mookwol",
+    "element": "Dark"
+  },
+  "23801": {
+    "name": "족자(물)",
+    "element": "Water"
+  },
+  "23802": {
+    "name": "족자(불)",
+    "element": "Fire"
+  },
+  "23803": {
+    "name": "족자(바람)",
+    "element": "Wind"
+  },
+  "23804": {
+    "name": "족자(빛)",
+    "element": "Light"
+  },
+  "23805": {
+    "name": "족자(어둠)",
+    "element": "Dark"
+  },
+  "23806": {
+    "name": "족자(무)",
+    "element": "Pure"
+  },
+  "23901": {
+    "name": "String Master",
+    "element": "Water"
+  },
+  "23902": {
+    "name": "String Master",
+    "element": "Fire"
+  },
+  "23903": {
+    "name": "String Master",
+    "element": "Wind"
+  },
+  "23904": {
+    "name": "String Master",
+    "element": "Light"
+  },
+  "23905": {
+    "name": "String Master",
+    "element": "Dark"
+  },
+  "23911": {
+    "name": "Songseol",
+    "element": "Water"
+  },
+  "23912": {
+    "name": "Hongyeon",
+    "element": "Fire"
+  },
+  "23913": {
+    "name": "Yeonhwa",
+    "element": "Wind"
+  },
+  "23914": {
+    "name": "Dongbaek",
+    "element": "Light"
+  },
+  "23915": {
+    "name": "Mirinae",
+    "element": "Dark"
+  },
+  "63102": {
+    "name": "만랩튜토리얼보스(불)",
+    "element": "Fire"
+  },
+  "63202": {
+    "name": "만랩튜토리얼_드래곤(불)",
+    "element": "Fire"
+  },
+  "63301": {
+    "name": "만랩튜토리얼_가고일(물)",
+    "element": "Water"
+  },
+  "63302": {
+    "name": "만랩튜토리얼_가고일(불)",
+    "element": "Fire"
+  },
+  "63303": {
+    "name": "만랩튜토리얼_가고일(바람)",
+    "element": "Wind"
+  },
+  "111006": {
+    "name": "만랩튜토타워_방어 약화",
+    "element": "Pure"
+  },
+  "111016": {
+    "name": "만랩튜토타워_공격 강화",
+    "element": "Pure"
+  },
+  "24001": {
+    "name": "류(물)",
+    "element": "Water"
+  },
+  "24002": {
+    "name": "류(불)",
+    "element": "Fire"
+  },
+  "24003": {
+    "name": "류(바람)",
+    "element": "Wind"
+  },
+  "24004": {
+    "name": "류(빛)",
+    "element": "Light"
+  },
+  "24005": {
+    "name": "류(어둠)",
+    "element": "Dark"
+  },
+  "24011": {
+    "name": "RYU",
+    "element": "Water"
+  },
+  "24012": {
+    "name": "RYU",
+    "element": "Fire"
+  },
+  "24013": {
+    "name": "RYU",
+    "element": "Wind"
+  },
+  "24014": {
+    "name": "RYU",
+    "element": "Light"
+  },
+  "24015": {
+    "name": "RYU",
+    "element": "Dark"
+  },
+  "24102": {
+    "name": "켄(불)",
+    "element": "Fire"
+  },
+  "24112": {
+    "name": "KEN",
+    "element": "Fire"
+  },
+  "24201": {
+    "name": "바이슨(물)",
+    "element": "Water"
+  },
+  "24202": {
+    "name": "바이슨(불)",
+    "element": "Fire"
+  },
+  "24203": {
+    "name": "바이슨(바람)",
+    "element": "Wind"
+  },
+  "24204": {
+    "name": "바이슨(빛)",
+    "element": "Light"
+  },
+  "24205": {
+    "name": "바이슨(어둠)",
+    "element": "Dark"
+  },
+  "24211": {
+    "name": "M. BISON",
+    "element": "Water"
+  },
+  "24212": {
+    "name": "M. BISON",
+    "element": "Fire"
+  },
+  "24213": {
+    "name": "M. BISON",
+    "element": "Wind"
+  },
+  "24214": {
+    "name": "M. BISON",
+    "element": "Light"
+  },
+  "24215": {
+    "name": "M. BISON",
+    "element": "Dark"
+  },
+  "24301": {
+    "name": "달심(물)",
+    "element": "Water"
+  },
+  "24302": {
+    "name": "달심(불)",
+    "element": "Fire"
+  },
+  "24303": {
+    "name": "달심(바람)",
+    "element": "Wind"
+  },
+  "24304": {
+    "name": "달심(빛)",
+    "element": "Light"
+  },
+  "24305": {
+    "name": "달심(어둠)",
+    "element": "Dark"
+  },
+  "24311": {
+    "name": "DHALSIM",
+    "element": "Water"
+  },
+  "24312": {
+    "name": "DHALSIM",
+    "element": "Fire"
+  },
+  "24313": {
+    "name": "DHALSIM",
+    "element": "Wind"
+  },
+  "24314": {
+    "name": "DHALSIM",
+    "element": "Light"
+  },
+  "24315": {
+    "name": "DHALSIM",
+    "element": "Dark"
+  },
+  "24401": {
+    "name": "춘리(물)",
+    "element": "Water"
+  },
+  "24402": {
+    "name": "춘리(불)",
+    "element": "Fire"
+  },
+  "24403": {
+    "name": "춘리(바람)",
+    "element": "Wind"
+  },
+  "24404": {
+    "name": "춘리(빛)",
+    "element": "Light"
+  },
+  "24405": {
+    "name": "춘리(어둠)",
+    "element": "Dark"
+  },
+  "24411": {
+    "name": "CHUN-LI",
+    "element": "Water"
+  },
+  "24412": {
+    "name": "CHUN-LI",
+    "element": "Fire"
+  },
+  "24413": {
+    "name": "CHUN-LI",
+    "element": "Wind"
+  },
+  "24414": {
+    "name": "CHUN-LI",
+    "element": "Light"
+  },
+  "24415": {
+    "name": "CHUN-LI",
+    "element": "Dark"
+  },
+  "24501": {
+    "name": "Striker",
+    "element": "Water"
+  },
+  "24502": {
+    "name": "Striker",
+    "element": "Fire"
+  },
+  "24503": {
+    "name": "Striker",
+    "element": "Wind"
+  },
+  "24504": {
+    "name": "Striker",
+    "element": "Light"
+  },
+  "24505": {
+    "name": "Striker",
+    "element": "Dark"
+  },
+  "24511": {
+    "name": "Moore",
+    "element": "Water"
+  },
+  "24512": {
+    "name": "Douglas",
+    "element": "Fire"
+  },
+  "24513": {
+    "name": "Kashmir",
+    "element": "Wind"
+  },
+  "24514": {
+    "name": "Talisman",
+    "element": "Light"
+  },
+  "24515": {
+    "name": "Vancliffe",
+    "element": "Dark"
+  },
+  "24602": {
+    "name": "Shadow Claw",
+    "element": "Fire"
+  },
+  "24612": {
+    "name": "Bernadotte",
+    "element": "Fire"
+  },
+  "24701": {
+    "name": "Slayer",
+    "element": "Water"
+  },
+  "24702": {
+    "name": "Slayer",
+    "element": "Fire"
+  },
+  "24703": {
+    "name": "Slayer",
+    "element": "Wind"
+  },
+  "24704": {
+    "name": "Slayer",
+    "element": "Light"
+  },
+  "24705": {
+    "name": "Slayer",
+    "element": "Dark"
+  },
+  "24711": {
+    "name": "Borgnine",
+    "element": "Water"
+  },
+  "24712": {
+    "name": "Karnal",
+    "element": "Fire"
+  },
+  "24713": {
+    "name": "Sagar",
+    "element": "Wind"
+  },
+  "24714": {
+    "name": "Craig",
+    "element": "Light"
+  },
+  "24715": {
+    "name": "Gurkha",
+    "element": "Dark"
+  },
+  "24801": {
+    "name": "Poison Master",
+    "element": "Water"
+  },
+  "24802": {
+    "name": "Poison Master",
+    "element": "Fire"
+  },
+  "24803": {
+    "name": "Poison Master",
+    "element": "Wind"
+  },
+  "24804": {
+    "name": "Poison Master",
+    "element": "Light"
+  },
+  "24805": {
+    "name": "Poison Master",
+    "element": "Dark"
+  },
+  "24811": {
+    "name": "Kyle",
+    "element": "Water"
+  },
+  "24812": {
+    "name": "Todd",
+    "element": "Fire"
+  },
+  "24813": {
+    "name": "Jarrett",
+    "element": "Wind"
+  },
+  "24814": {
+    "name": "Hekerson",
+    "element": "Light"
+  },
+  "24815": {
+    "name": "Cayde",
+    "element": "Dark"
+  },
+  "24901": {
+    "name": "Blade Dancer",
+    "element": "Water"
+  },
+  "24902": {
+    "name": "Blade Dancer",
+    "element": "Fire"
+  },
+  "24903": {
+    "name": "Blade Dancer",
+    "element": "Wind"
+  },
+  "24904": {
+    "name": "Blade Dancer",
+    "element": "Light"
+  },
+  "24905": {
+    "name": "Blade Dancer",
+    "element": "Dark"
+  },
+  "24911": {
+    "name": "Lariel",
+    "element": "Water"
+  },
+  "24912": {
+    "name": "Berenice",
+    "element": "Fire"
+  },
+  "24913": {
+    "name": "Cordelia",
+    "element": "Wind"
+  },
+  "24914": {
+    "name": "Leah",
+    "element": "Light"
+  },
+  "24915": {
+    "name": "Vereesa",
+    "element": "Dark"
+  },
+  "62303": {
+    "name": "Ancient Intercessor",
+    "element": "Wind"
+  },
+  "62403": {
+    "name": "Ancient Tormentor",
+    "element": "Wind"
+  },
+  "62504": {
+    "name": "Ancient Intercessor",
+    "element": "Light"
+  },
+  "62604": {
+    "name": "Ancient Punisher",
+    "element": "Light"
+  },
+  "70001": {
+    "name": "Dimension Predator",
+    "element": "Water"
+  },
+  "70002": {
+    "name": "Dimension Predator",
+    "element": "Fire"
+  },
+  "70003": {
+    "name": "Dimension Predator",
+    "element": "Wind"
+  },
+  "70004": {
+    "name": "Dimension Predator",
+    "element": "Light"
+  },
+  "70005": {
+    "name": "Dimension Predator",
+    "element": "Dark"
+  },
+  "70101": {
+    "name": "Dimension Predator",
+    "element": "Water"
+  },
+  "70102": {
+    "name": "Dimension Predator",
+    "element": "Fire"
+  },
+  "70103": {
+    "name": "Dimension Predator",
+    "element": "Wind"
+  },
+  "70104": {
+    "name": "Dimension Predator",
+    "element": "Light"
+  },
+  "70105": {
+    "name": "Dimension Predator",
+    "element": "Dark"
+  },
+  "70201": {
+    "name": "Dimension Predator",
+    "element": "Water"
+  },
+  "70202": {
+    "name": "Dimension Predator",
+    "element": "Fire"
+  },
+  "70203": {
+    "name": "Dimension Predator",
+    "element": "Wind"
+  },
+  "70204": {
+    "name": "Dimension Predator",
+    "element": "Light"
+  },
+  "70205": {
+    "name": "Dimension Predator",
+    "element": "Dark"
+  },
+  "71004": {
+    "name": "Hollow",
+    "element": "Light"
+  },
+  "71005": {
+    "name": "Hollow",
+    "element": "Dark"
+  },
+  "71101": {
+    "name": "Void",
+    "element": "Water"
+  },
+  "71102": {
+    "name": "Void",
+    "element": "Fire"
+  },
+  "71103": {
+    "name": "Void",
+    "element": "Wind"
+  },
+  "112023": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "112033": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "112124": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "112134": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "200103": {
+    "name": "Small Crystal",
+    "element": "Wind"
+  },
+  "200113": {
+    "name": "Medium Crystal",
+    "element": "Wind"
+  },
+  "200204": {
+    "name": "Small Crystal",
+    "element": "Light"
+  },
+  "200214": {
+    "name": "Medium Crystal",
+    "element": "Light"
+  },
+  "400001": {
+    "name": "Predator's Wreckage",
+    "element": "Water"
+  },
+  "400002": {
+    "name": "Predator's Wreckage",
+    "element": "Fire"
+  },
+  "400003": {
+    "name": "Predator's Wreckage",
+    "element": "Wind"
+  },
+  "400004": {
+    "name": "Predator's Wreckage",
+    "element": "Light"
+  },
+  "400005": {
+    "name": "Predator's Wreckage",
+    "element": "Dark"
+  },
+  "400006": {
+    "name": "Predator's Wreckage",
+    "element": "Water"
+  },
+  "400007": {
+    "name": "Predator's Wreckage",
+    "element": "Fire"
+  },
+  "400008": {
+    "name": "Predator's Wreckage",
+    "element": "Wind"
+  },
+  "400009": {
+    "name": "Predator's Wreckage",
+    "element": "Light"
+  },
+  "400010": {
+    "name": "Predator's Wreckage",
+    "element": "Dark"
+  },
+  "13231": {
+    "name": "Lulu and Friends",
+    "element": "Water"
+  },
+  "13232": {
+    "name": "Lala and Friends",
+    "element": "Fire"
+  },
+  "13233": {
+    "name": "Chichi and Friends",
+    "element": "Wind"
+  },
+  "13234": {
+    "name": "Shushu and Friends",
+    "element": "Light"
+  },
+  "13235": {
+    "name": "Chacha and Friends",
+    "element": "Dark"
+  },
+  "16031": {
+    "name": "Hemos",
+    "element": "Water"
+  },
+  "16032": {
+    "name": "Sath",
+    "element": "Fire"
+  },
+  "16033": {
+    "name": "Hiva",
+    "element": "Wind"
+  },
+  "16034": {
+    "name": "Prom",
+    "element": "Light"
+  },
+  "16035": {
+    "name": "Thrain",
+    "element": "Dark"
+  },
+  "47004": {
+    "name": "Ancient Guardian",
+    "element": "Dark"
+  },
+  "47801": {
+    "name": "Lulu and Friends",
+    "element": "Water"
+  },
+  "47802": {
+    "name": "Lala and Friends",
+    "element": "Fire"
+  },
+  "47803": {
+    "name": "Chichi and Friends",
+    "element": "Wind"
+  },
+  "47804": {
+    "name": "Shushu and Friends",
+    "element": "Light"
+  },
+  "47805": {
+    "name": "Chacha and Friends",
+    "element": "Dark"
+  },
+  "47901": {
+    "name": "Hemos",
+    "element": "Water"
+  },
+  "47902": {
+    "name": "Sath",
+    "element": "Fire"
+  },
+  "47903": {
+    "name": "Hiva",
+    "element": "Wind"
+  },
+  "47904": {
+    "name": "Prom",
+    "element": "Light"
+  },
+  "47905": {
+    "name": "Thrain",
+    "element": "Dark"
+  },
+  "120801": {
+    "name": "Tower",
+    "element": "Water"
+  },
+  "120802": {
+    "name": "Tower",
+    "element": "Fire"
+  },
+  "120803": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "120804": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "120805": {
+    "name": "Tower",
+    "element": "Dark"
+  },
+  "120811": {
+    "name": "Tower",
+    "element": "Water"
+  },
+  "120812": {
+    "name": "Tower",
+    "element": "Fire"
+  },
+  "120813": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "120814": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "120815": {
+    "name": "Tower",
+    "element": "Dark"
+  },
+  "120901": {
+    "name": "Tower",
+    "element": "Water"
+  },
+  "120902": {
+    "name": "Tower",
+    "element": "Fire"
+  },
+  "120903": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "120904": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "120905": {
+    "name": "Tower",
+    "element": "Dark"
+  },
+  "120911": {
+    "name": "Tower",
+    "element": "Water"
+  },
+  "120912": {
+    "name": "Tower",
+    "element": "Fire"
+  },
+  "120913": {
+    "name": "Tower",
+    "element": "Wind"
+  },
+  "120914": {
+    "name": "Tower",
+    "element": "Light"
+  },
+  "120915": {
+    "name": "Tower",
+    "element": "Dark"
+  },
+  "25001": {
+    "name": "Onmyouji",
+    "element": "Water"
+  },
+  "25002": {
+    "name": "Onmyouji",
+    "element": "Fire"
+  },
+  "25003": {
+    "name": "Onmyouji",
+    "element": "Wind"
+  },
+  "25004": {
+    "name": "Onmyouji",
+    "element": "Light"
+  },
+  "25005": {
+    "name": "Onmyouji",
+    "element": "Dark"
+  },
+  "25011": {
+    "name": "Shizuka",
+    "element": "Water"
+  },
+  "25012": {
+    "name": "Tomoe",
+    "element": "Fire"
+  },
+  "25013": {
+    "name": "Giou",
+    "element": "Wind"
+  },
+  "25014": {
+    "name": "Seimei",
+    "element": "Light"
+  },
+  "25015": {
+    "name": "Douman",
+    "element": "Dark"
+  },
+  "25101": {
+    "name": "Onimusha",
+    "element": "Water"
+  },
+  "25102": {
+    "name": "Onimusha",
+    "element": "Fire"
+  },
+  "25103": {
+    "name": "Onimusha",
+    "element": "Wind"
+  },
+  "25104": {
+    "name": "Onimusha",
+    "element": "Light"
+  },
+  "25105": {
+    "name": "Onimusha",
+    "element": "Dark"
+  },
+  "25111": {
+    "name": "Suiki",
+    "element": "Water"
+  },
+  "25112": {
+    "name": "Kaki",
+    "element": "Fire"
+  },
+  "25113": {
+    "name": "Fuuki",
+    "element": "Wind"
+  },
+  "25114": {
+    "name": "Kinki",
+    "element": "Light"
+  },
+  "25115": {
+    "name": "Ongyouki",
+    "element": "Dark"
+  },
+  "12031": {
+    "name": "Ellena",
+    "element": "Water"
+  },
+  "12032": {
+    "name": "Kahli",
+    "element": "Fire"
+  },
+  "12033": {
+    "name": "Moria",
+    "element": "Wind"
+  },
+  "12034": {
+    "name": "Shren",
+    "element": "Light"
+  },
+  "12035": {
+    "name": "Jumaline",
+    "element": "Dark"
+  },
+  "48001": {
+    "name": "하이엘리멘탈 2차 각성 보스(물)",
+    "element": "Water"
+  },
+  "48002": {
+    "name": "하이엘리멘탈 2차 각성 보스(불)",
+    "element": "Fire"
+  },
+  "48003": {
+    "name": "하이엘리멘탈 2차 각성 보스(바람)",
+    "element": "Wind"
+  },
+  "48004": {
+    "name": "하이엘리멘탈 2차 각성 보스(빛)",
+    "element": "Light"
+  },
+  "48005": {
+    "name": "하이엘리멘탈 2차 각성 보스(어둠)",
+    "element": "Dark"
+  },
+  "121001": {
+    "name": "2차각성 하이엘리멘탈 수정_왼쪽(물)",
+    "element": "Water"
+  },
+  "121002": {
+    "name": "2차각성 하이엘리멘탈 수정_왼쪽(불)",
+    "element": "Fire"
+  },
+  "121003": {
+    "name": "2차각성 하이엘리멘탈 수정_왼쪽(바람)",
+    "element": "Wind"
+  },
+  "121004": {
+    "name": "2차각성 하이엘리멘탈 수정_왼쪽(빛)",
+    "element": "Light"
+  },
+  "121005": {
+    "name": "2차각성 하이엘리멘탈 수정_왼쪽(어둠)",
+    "element": "Dark"
+  },
+  "121011": {
+    "name": "2차각성 하이엘리멘탈 수정_오른쪽(물)",
+    "element": "Water"
+  },
+  "121012": {
+    "name": "2차각성 하이엘리멘탈 수정_오른쪽(불)",
+    "element": "Fire"
+  },
+  "121013": {
+    "name": "2차각성 하이엘리멘탈 수정_오른쪽(바람)",
+    "element": "Wind"
+  },
+  "121014": {
+    "name": "2차각성 하이엘리멘탈 수정_오른쪽(빛)",
+    "element": "Light"
+  },
+  "121015": {
+    "name": "2차각성 하이엘리멘탈 수정_오른쪽(어둠)",
+    "element": "Dark"
+  },
+  "25201": {
+    "name": "Mage",
+    "element": "Water"
+  },
+  "25202": {
+    "name": "Mage",
+    "element": "Fire"
+  },
+  "25203": {
+    "name": "Mage",
+    "element": "Wind"
+  },
+  "25204": {
+    "name": "Mage",
+    "element": "Light"
+  },
+  "25205": {
+    "name": "Mage",
+    "element": "Dark"
+  },
+  "25211": {
+    "name": "Nana",
+    "element": "Water"
+  },
+  "25212": {
+    "name": "Coco",
+    "element": "Fire"
+  },
+  "25213": {
+    "name": "Momo",
+    "element": "Wind"
+  },
+  "25214": {
+    "name": "Dorothy",
+    "element": "Light"
+  },
+  "25215": {
+    "name": "Kiki",
+    "element": "Dark"
+  },
+  "25301": {
+    "name": "Sky Surfer",
+    "element": "Water"
+  },
+  "25302": {
+    "name": "Sky Surfer",
+    "element": "Fire"
+  },
+  "25303": {
+    "name": "Sky Surfer",
+    "element": "Wind"
+  },
+  "25304": {
+    "name": "Sky Surfer",
+    "element": "Light"
+  },
+  "25305": {
+    "name": "Sky Surfer",
+    "element": "Dark"
+  },
+  "25311": {
+    "name": "Miles",
+    "element": "Water"
+  },
+  "25312": {
+    "name": "John",
+    "element": "Fire"
+  },
+  "25313": {
+    "name": "Oliver",
+    "element": "Wind"
+  },
+  "25314": {
+    "name": "Daniel",
+    "element": "Light"
+  },
+  "25315": {
+    "name": "Jackson",
+    "element": "Dark"
+  },
+  "25401": {
+    "name": "ROBO",
+    "element": "Water"
+  },
+  "25402": {
+    "name": "ROBO",
+    "element": "Fire"
+  },
+  "25403": {
+    "name": "ROBO",
+    "element": "Wind"
+  },
+  "25404": {
+    "name": "ROBO",
+    "element": "Light"
+  },
+  "25405": {
+    "name": "ROBO",
+    "element": "Dark"
+  },
+  "25411": {
+    "name": "ROBO-R40",
+    "element": "Water"
+  },
+  "25412": {
+    "name": "ROBO-P27",
+    "element": "Fire"
+  },
+  "25413": {
+    "name": "ROBO-G92",
+    "element": "Wind"
+  },
+  "25414": {
+    "name": "ROBO-E65",
+    "element": "Light"
+  },
+  "25415": {
+    "name": "ROBO-F29",
+    "element": "Dark"
+  },
+  "25501": {
+    "name": "ROBO(물)_잔해",
+    "element": "Water"
+  },
+  "25511": {
+    "name": "ROBO(물)_잔해",
+    "element": "Water"
+  },
+  "20121": {
+    "name": "Imperfect Neostone Agent",
+    "element": "Water"
+  },
+  "22123": {
+    "name": "Imperfect Dryad",
+    "element": "Wind"
+  },
+  "25601": {
+    "name": "Totemist",
+    "element": "Water"
+  },
+  "25602": {
+    "name": "Totemist",
+    "element": "Fire"
+  },
+  "25603": {
+    "name": "Totemist",
+    "element": "Wind"
+  },
+  "25604": {
+    "name": "Totemist",
+    "element": "Light"
+  },
+  "25605": {
+    "name": "Totemist",
+    "element": "Dark"
+  },
+  "25611": {
+    "name": "Aaliyah",
+    "element": "Water"
+  },
+  "25612": {
+    "name": "Nora",
+    "element": "Fire"
+  },
+  "25613": {
+    "name": "Riley",
+    "element": "Wind"
+  },
+  "25614": {
+    "name": "Ella",
+    "element": "Light"
+  },
+  "25615": {
+    "name": "Maya",
+    "element": "Dark"
+  },
+  "25701": {
+    "name": "Weapon Master",
+    "element": "Water"
+  },
+  "25702": {
+    "name": "Weapon Master",
+    "element": "Fire"
+  },
+  "25703": {
+    "name": "Weapon Master",
+    "element": "Wind"
+  },
+  "25704": {
+    "name": "Weapon Master",
+    "element": "Light"
+  },
+  "25705": {
+    "name": "Weapon Master",
+    "element": "Dark"
+  },
+  "25711": {
+    "name": "Liam",
+    "element": "Water"
+  },
+  "25712": {
+    "name": "Carlos",
+    "element": "Fire"
+  },
+  "25713": {
+    "name": "Dominic",
+    "element": "Wind"
+  },
+  "25714": {
+    "name": "Benedict",
+    "element": "Light"
+  },
+  "25715": {
+    "name": "Maximilian",
+    "element": "Dark"
+  },
+  "25801": {
+    "name": "Rune Blacksmith",
+    "element": "Water"
+  },
+  "25802": {
+    "name": "Rune Blacksmith",
+    "element": "Fire"
+  },
+  "25803": {
+    "name": "Rune Blacksmith",
+    "element": "Wind"
+  },
+  "25804": {
+    "name": "Rune Blacksmith",
+    "element": "Light"
+  },
+  "25805": {
+    "name": "Rune Blacksmith",
+    "element": "Dark"
+  },
+  "25811": {
+    "name": "Susan",
+    "element": "Water"
+  },
+  "25812": {
+    "name": "Miriam",
+    "element": "Fire"
+  },
+  "25813": {
+    "name": "Celine",
+    "element": "Wind"
+  },
+  "25814": {
+    "name": "Madeleine",
+    "element": "Light"
+  },
+  "25815": {
+    "name": "Deborah",
+    "element": "Dark"
+  },
+  "15231": {
+    "name": "Allen",
+    "element": "Water"
+  },
+  "15232": {
+    "name": "Kai'en",
+    "element": "Fire"
+  },
+  "15233": {
+    "name": "Roid",
+    "element": "Wind"
+  },
+  "15234": {
+    "name": "Darion",
+    "element": "Light"
+  },
+  "15235": {
+    "name": "Jubelle",
+    "element": "Dark"
+  },
+  "15931": {
+    "name": "Megan",
+    "element": "Water"
+  },
+  "15932": {
+    "name": "Rebecca",
+    "element": "Fire"
+  },
+  "15933": {
+    "name": "Silia",
+    "element": "Wind"
+  },
+  "15934": {
+    "name": "Linda",
+    "element": "Light"
+  },
+  "15935": {
+    "name": "Gina",
+    "element": "Dark"
+  },
+  "47005": {
+    "name": "Ancient Guardian",
+    "element": "Light"
+  },
+  "49001": {
+    "name": "Allen",
+    "element": "Water"
+  },
+  "49002": {
+    "name": "Kai'en",
+    "element": "Fire"
+  },
+  "49003": {
+    "name": "Roid",
+    "element": "Wind"
+  },
+  "49004": {
+    "name": "Darion",
+    "element": "Light"
+  },
+  "49005": {
+    "name": "Jubelle",
+    "element": "Dark"
+  },
+  "50001": {
+    "name": "Megan",
+    "element": "Water"
+  },
+  "50002": {
+    "name": "Rebecca",
+    "element": "Fire"
+  },
+  "50003": {
+    "name": "Silia",
+    "element": "Wind"
+  },
+  "50004": {
+    "name": "Linda",
+    "element": "Light"
+  },
+  "50005": {
+    "name": "Gina",
+    "element": "Dark"
+  },
+  "121101": {
+    "name": "2차각성 방랑 기사 수정_왼쪽(물)",
+    "element": "Water"
+  },
+  "121102": {
+    "name": "2차각성 방랑 기사 수정_왼쪽(불)",
+    "element": "Fire"
+  },
+  "121103": {
+    "name": "2차각성 방랑 기사 수정_왼쪽(바람)",
+    "element": "Wind"
+  },
+  "121104": {
+    "name": "2차각성 방랑 기사 수정_왼쪽(빛)",
+    "element": "Light"
+  },
+  "121105": {
+    "name": "2차각성 방랑 기사 수정_왼쪽(어둠)",
+    "element": "Dark"
+  },
+  "121111": {
+    "name": "2차각성 방랑 기사 수정_오른쪽(물)",
+    "element": "Water"
+  },
+  "121112": {
+    "name": "2차각성 방랑 기사 수정_오른쪽(불)",
+    "element": "Fire"
+  },
+  "121113": {
+    "name": "2차각성 방랑 기사 수정_오른쪽(바람)",
+    "element": "Wind"
+  },
+  "121114": {
+    "name": "2차각성 방랑 기사 수정_오른쪽(빛)",
+    "element": "Light"
+  },
+  "121115": {
+    "name": "2차각성 방랑 기사 수정_오른쪽(어둠)",
+    "element": "Dark"
+  },
+  "121201": {
+    "name": "2차각성 미스틱 위치 수정_왼쪽(물)",
+    "element": "Water"
+  },
+  "121202": {
+    "name": "2차각성 미스틱 위치 수정_왼쪽(불)",
+    "element": "Fire"
+  },
+  "121203": {
+    "name": "2차각성 미스틱 위치 수정_왼쪽(바람)",
+    "element": "Wind"
+  },
+  "121204": {
+    "name": "2차각성 미스틱 위치 수정_왼쪽(빛)",
+    "element": "Light"
+  },
+  "121205": {
+    "name": "2차각성 미스틱 위치 수정_왼쪽(어둠)",
+    "element": "Dark"
+  },
+  "121211": {
+    "name": "2차각성 미스틱 위치 수정_오른쪽(물)",
+    "element": "Water"
+  },
+  "121212": {
+    "name": "2차각성 미스틱 위치 수정_오른쪽(불)",
+    "element": "Fire"
+  },
+  "121213": {
+    "name": "2차각성 미스틱 위치 수정_오른쪽(바람)",
+    "element": "Wind"
+  },
+  "121214": {
+    "name": "2차각성 미스틱 위치 수정_오른쪽(빛)",
+    "element": "Light"
+  },
+  "121215": {
+    "name": "2차각성 미스틱 위치 수정_오른쪽(어둠)",
+    "element": "Dark"
+  },
+  "25901": {
+    "name": "Shadowcaster",
+    "element": "Water"
+  },
+  "25902": {
+    "name": "Shadowcaster",
+    "element": "Fire"
+  },
+  "25903": {
+    "name": "Shadowcaster",
+    "element": "Wind"
+  },
+  "25904": {
+    "name": "Shadowcaster",
+    "element": "Light"
+  },
+  "25905": {
+    "name": "Shadowcaster",
+    "element": "Dark"
+  },
+  "25911": {
+    "name": "Minato",
+    "element": "Water"
+  },
+  "25912": {
+    "name": "Ren",
+    "element": "Fire"
+  },
+  "25913": {
+    "name": "Zen",
+    "element": "Wind"
+  },
+  "25914": {
+    "name": "Shun",
+    "element": "Light"
+  },
+  "25915": {
+    "name": "Ritsu",
+    "element": "Dark"
+  },
+  "26001": {
+    "name": "Hypnomeow",
+    "element": "Water"
+  },
+  "26002": {
+    "name": "Hypnomeow",
+    "element": "Fire"
+  },
+  "26003": {
+    "name": "Hypnomeow",
+    "element": "Wind"
+  },
+  "26004": {
+    "name": "Hypnomeow",
+    "element": "Light"
+  },
+  "26005": {
+    "name": "Hypnomeow",
+    "element": "Dark"
+  },
+  "26011": {
+    "name": "Birman",
+    "element": "Water"
+  },
+  "26012": {
+    "name": "Manx",
+    "element": "Fire"
+  },
+  "26013": {
+    "name": "Nebelung",
+    "element": "Wind"
+  },
+  "26014": {
+    "name": "Siamese",
+    "element": "Light"
+  },
+  "26015": {
+    "name": "Bombay",
+    "element": "Dark"
+  },
+  "26101": {
+    "name": "Battle Angel",
+    "element": "Water"
+  },
+  "26102": {
+    "name": "Battle Angel",
+    "element": "Fire"
+  },
+  "26103": {
+    "name": "Battle Angel",
+    "element": "Wind"
+  },
+  "26104": {
+    "name": "Battle Angel",
+    "element": "Light"
+  },
+  "26105": {
+    "name": "Battle Angel",
+    "element": "Dark"
+  },
+  "26111": {
+    "name": "Amber",
+    "element": "Water"
+  },
+  "26112": {
+    "name": "Claire",
+    "element": "Fire"
+  },
+  "26113": {
+    "name": "Sonia",
+    "element": "Wind"
+  },
+  "26114": {
+    "name": "Veronica",
+    "element": "Light"
+  },
+  "26115": {
+    "name": "Destiny",
+    "element": "Dark"
+  },
+  "26203": {
+    "name": "용감한 쿠키",
+    "element": "Wind"
+  },
+  "26213": {
+    "name": "GingerBrave",
+    "element": "Wind"
+  },
+  "26301": {
+    "name": "퓨어바닐라 쿠키(물)",
+    "element": "Water"
+  },
+  "26302": {
+    "name": "퓨어바닐라 쿠키(불)",
+    "element": "Fire"
+  },
+  "26303": {
+    "name": "퓨어바닐라 쿠키(바람)",
+    "element": "Wind"
+  },
+  "26304": {
+    "name": "퓨어바닐라 쿠키(빛)",
+    "element": "Light"
+  },
+  "26305": {
+    "name": "퓨어바닐라 쿠키(어둠)",
+    "element": "Dark"
+  },
+  "26311": {
+    "name": "Pure Vanilla Cookie",
+    "element": "Water"
+  },
+  "26312": {
+    "name": "Pure Vanilla Cookie",
+    "element": "Fire"
+  },
+  "26313": {
+    "name": "Pure Vanilla Cookie",
+    "element": "Wind"
+  },
+  "26314": {
+    "name": "Pure Vanilla Cookie",
+    "element": "Light"
+  },
+  "26315": {
+    "name": "Pure Vanilla Cookie",
+    "element": "Dark"
+  },
+  "26401": {
+    "name": "홀리베리 쿠키(물)",
+    "element": "Water"
+  },
+  "26402": {
+    "name": "홀리베리 쿠키(불)",
+    "element": "Fire"
+  },
+  "26403": {
+    "name": "홀리베리 쿠키(바람)",
+    "element": "Wind"
+  },
+  "26404": {
+    "name": "홀리베리 쿠키(빛)",
+    "element": "Light"
+  },
+  "26405": {
+    "name": "홀리베리 쿠키(어둠)",
+    "element": "Dark"
+  },
+  "26411": {
+    "name": "Hollyberry Cookie",
+    "element": "Water"
+  },
+  "26412": {
+    "name": "Hollyberry Cookie",
+    "element": "Fire"
+  },
+  "26413": {
+    "name": "Hollyberry Cookie",
+    "element": "Wind"
+  },
+  "26414": {
+    "name": "Hollyberry Cookie",
+    "element": "Light"
+  },
+  "26415": {
+    "name": "Hollyberry Cookie",
+    "element": "Dark"
+  },
+  "26501": {
+    "name": "에스프레소맛 쿠키(물)",
+    "element": "Water"
+  },
+  "26502": {
+    "name": "에스프레소맛 쿠키(불)",
+    "element": "Fire"
+  },
+  "26503": {
+    "name": "에스프레소맛 쿠키(바람)",
+    "element": "Wind"
+  },
+  "26504": {
+    "name": "에스프레소맛 쿠키(빛)",
+    "element": "Light"
+  },
+  "26505": {
+    "name": "에스프레소맛 쿠키(어둠)",
+    "element": "Dark"
+  },
+  "26511": {
+    "name": "Espresso Cookie",
+    "element": "Water"
+  },
+  "26512": {
+    "name": "Espresso Cookie",
+    "element": "Fire"
+  },
+  "26513": {
+    "name": "Espresso Cookie",
+    "element": "Wind"
+  },
+  "26514": {
+    "name": "Espresso Cookie",
+    "element": "Light"
+  },
+  "26515": {
+    "name": "Espresso Cookie",
+    "element": "Dark"
+  },
+  "26601": {
+    "name": "마들렌맛 쿠키(물)",
+    "element": "Water"
+  },
+  "26602": {
+    "name": "마들렌맛 쿠키(불)",
+    "element": "Fire"
+  },
+  "26603": {
+    "name": "마들렌맛 쿠키(바람)",
+    "element": "Wind"
+  },
+  "26604": {
+    "name": "마들렌맛 쿠키(빛)",
+    "element": "Light"
+  },
+  "26605": {
+    "name": "마들렌맛 쿠키(어둠)",
+    "element": "Dark"
+  },
+  "26611": {
+    "name": "Madeleine Cookie",
+    "element": "Water"
+  },
+  "26612": {
+    "name": "Madeleine Cookie",
+    "element": "Fire"
+  },
+  "26613": {
+    "name": "Madeleine Cookie",
+    "element": "Wind"
+  },
+  "26614": {
+    "name": "Madeleine Cookie",
+    "element": "Light"
+  },
+  "26615": {
+    "name": "Madeleine Cookie",
+    "element": "Dark"
+  },
+  "26703": {
+    "name": "Lollipop Warrior",
+    "element": "Wind"
+  },
+  "26713": {
+    "name": "Thomas",
+    "element": "Wind"
+  },
+  "26801": {
+    "name": "Pudding Princess",
+    "element": "Water"
+  },
+  "26802": {
+    "name": "Pudding Princess",
+    "element": "Fire"
+  },
+  "26803": {
+    "name": "Pudding Princess",
+    "element": "Wind"
+  },
+  "26804": {
+    "name": "Pudding Princess",
+    "element": "Light"
+  },
+  "26805": {
+    "name": "Pudding Princess",
+    "element": "Dark"
+  },
+  "26811": {
+    "name": "Adriana",
+    "element": "Water"
+  },
+  "26812": {
+    "name": "Lucia",
+    "element": "Fire"
+  },
+  "26813": {
+    "name": "Angela",
+    "element": "Wind"
+  },
+  "26814": {
+    "name": "Ariana",
+    "element": "Light"
+  },
+  "26815": {
+    "name": "Elena",
+    "element": "Dark"
+  },
+  "26901": {
+    "name": "Macaron Guard",
+    "element": "Water"
+  },
+  "26902": {
+    "name": "Macaron Guard",
+    "element": "Fire"
+  },
+  "26903": {
+    "name": "Macaron Guard",
+    "element": "Wind"
+  },
+  "26904": {
+    "name": "Macaron Guard",
+    "element": "Light"
+  },
+  "26905": {
+    "name": "Macaron Guard",
+    "element": "Dark"
+  },
+  "26911": {
+    "name": "Manon",
+    "element": "Water"
+  },
+  "26912": {
+    "name": "Alice",
+    "element": "Fire"
+  },
+  "26913": {
+    "name": "Jade",
+    "element": "Wind"
+  },
+  "26914": {
+    "name": "Audrey",
+    "element": "Light"
+  },
+  "26915": {
+    "name": "Giselle",
+    "element": "Dark"
+  },
+  "27001": {
+    "name": "Black Tea Bunny",
+    "element": "Water"
+  },
+  "27002": {
+    "name": "Black Tea Bunny",
+    "element": "Fire"
+  },
+  "27003": {
+    "name": "Black Tea Bunny",
+    "element": "Wind"
+  },
+  "27004": {
+    "name": "Black Tea Bunny",
+    "element": "Light"
+  },
+  "27005": {
+    "name": "Black Tea Bunny",
+    "element": "Dark"
+  },
+  "27011": {
+    "name": "Rosemary",
+    "element": "Water"
+  },
+  "27012": {
+    "name": "Hibiscus",
+    "element": "Fire"
+  },
+  "27013": {
+    "name": "Chamomile",
+    "element": "Wind"
+  },
+  "27014": {
+    "name": "Jasmine",
+    "element": "Light"
+  },
+  "27015": {
+    "name": "Lavender",
+    "element": "Dark"
+  },
+  "27101": {
+    "name": "Choco Knight",
+    "element": "Water"
+  },
+  "27102": {
+    "name": "Choco Knight",
+    "element": "Fire"
+  },
+  "27103": {
+    "name": "Choco Knight",
+    "element": "Wind"
+  },
+  "27104": {
+    "name": "Choco Knight",
+    "element": "Light"
+  },
+  "27105": {
+    "name": "Choco Knight",
+    "element": "Dark"
+  },
+  "27111": {
+    "name": "Ganache",
+    "element": "Water"
+  },
+  "27112": {
+    "name": "Pavé",
+    "element": "Fire"
+  },
+  "27113": {
+    "name": "Praline",
+    "element": "Wind"
+  },
+  "27114": {
+    "name": "Fudge",
+    "element": "Light"
+  },
+  "27115": {
+    "name": "Truffle",
+    "element": "Dark"
+  },
+  "72001": {
+    "name": "King Slime",
+    "element": "Water"
+  },
+  "72002": {
+    "name": "King Slime",
+    "element": "Fire"
+  },
+  "72003": {
+    "name": "King Slime",
+    "element": "Wind"
+  },
+  "72011": {
+    "name": "길드보스(물)",
+    "element": "Water"
+  },
+  "72012": {
+    "name": "길드보스(불)",
+    "element": "Fire"
+  },
+  "72013": {
+    "name": "길드보스(바람)",
+    "element": "Wind"
+  },
+  "72021": {
+    "name": "길드보스(물)",
+    "element": "Water"
+  },
+  "72022": {
+    "name": "길드보스(불)",
+    "element": "Fire"
+  },
+  "72023": {
+    "name": "길드보스(바람)",
+    "element": "Wind"
+  },
+  "72031": {
+    "name": "길드보스(물)",
+    "element": "Water"
+  },
+  "72032": {
+    "name": "길드보스(불)",
+    "element": "Fire"
+  },
+  "72033": {
+    "name": "길드보스(바람)",
+    "element": "Wind"
+  },
+  "72041": {
+    "name": "길드보스(물)",
+    "element": "Water"
+  },
+  "72042": {
+    "name": "길드보스(불)",
+    "element": "Fire"
+  },
+  "72043": {
+    "name": "길드보스(바람)",
+    "element": "Wind"
+  },
+  "72051": {
+    "name": "길드보스(물)",
+    "element": "Water"
+  },
+  "72052": {
+    "name": "길드보스(불)",
+    "element": "Fire"
+  },
+  "72053": {
+    "name": "길드보스(바람)",
+    "element": "Wind"
+  },
+  "72061": {
+    "name": "길드보스(물)",
+    "element": "Water"
+  },
+  "72062": {
+    "name": "길드보스(불)",
+    "element": "Fire"
+  },
+  "72063": {
+    "name": "길드보스(바람)",
+    "element": "Wind"
+  },
+  "320001": {
+    "name": "킹덤 콜라보 케이크 늑대",
+    "element": "Pure"
+  },
+  "320002": {
+    "name": "킹덤 콜라보 케이크 들개",
+    "element": "Pure"
+  },
+  "320101": {
+    "name": "케이크 늑대 대체 유닛",
+    "element": "Pure"
+  },
+  "320102": {
+    "name": "케이크 들개 대체 유닛",
+    "element": "Pure"
+  },
+  "73006": {
+    "name": "Red Velvet Dragon",
+    "element": "Pure"
+  },
+  "73106": {
+    "name": "Dessert Kingdom Dragon",
+    "element": "Pure"
+  },
+  "73205": {
+    "name": "Ancient Mimic",
+    "element": "Dark"
+  },
+  "27201": {
+    "name": "Puppeteer",
+    "element": "Water"
+  },
+  "27202": {
+    "name": "Puppeteer",
+    "element": "Fire"
+  },
+  "27203": {
+    "name": "Puppeteer",
+    "element": "Wind"
+  },
+  "27204": {
+    "name": "Puppeteer",
+    "element": "Light"
+  },
+  "27205": {
+    "name": "Puppeteer",
+    "element": "Dark"
+  },
+  "27211": {
+    "name": "Zibala",
+    "element": "Water"
+  },
+  "27212": {
+    "name": "Zima",
+    "element": "Fire"
+  },
+  "27213": {
+    "name": "Smicer",
+    "element": "Wind"
+  },
+  "27214": {
+    "name": "Kovarci",
+    "element": "Light"
+  },
+  "27215": {
+    "name": "Zenisek",
+    "element": "Dark"
+  },
+  "27304": {
+    "name": "알타이어(빛)",
+    "element": "Light"
+  },
+  "27314": {
+    "name": "Altaïr",
+    "element": "Light"
+  },
+  "27401": {
+    "name": "에지오(물)",
+    "element": "Water"
+  },
+  "27402": {
+    "name": "에지오(불)",
+    "element": "Fire"
+  },
+  "27403": {
+    "name": "에지오(바람)",
+    "element": "Wind"
+  },
+  "27404": {
+    "name": "에지오(빛)",
+    "element": "Light"
+  },
+  "27405": {
+    "name": "에지오(어둠)",
+    "element": "Dark"
+  },
+  "27411": {
+    "name": "Ezio",
+    "element": "Water"
+  },
+  "27412": {
+    "name": "Ezio",
+    "element": "Fire"
+  },
+  "27413": {
+    "name": "Ezio",
+    "element": "Wind"
+  },
+  "27414": {
+    "name": "Ezio",
+    "element": "Light"
+  },
+  "27415": {
+    "name": "Ezio",
+    "element": "Dark"
+  },
+  "27501": {
+    "name": "바예크(물)",
+    "element": "Water"
+  },
+  "27502": {
+    "name": "바예크(불)",
+    "element": "Fire"
+  },
+  "27503": {
+    "name": "바예크(바람)",
+    "element": "Wind"
+  },
+  "27504": {
+    "name": "바예크(빛)",
+    "element": "Light"
+  },
+  "27505": {
+    "name": "바예크(어둠)",
+    "element": "Dark"
+  },
+  "27511": {
+    "name": "Bayek",
+    "element": "Water"
+  },
+  "27512": {
+    "name": "Bayek",
+    "element": "Fire"
+  },
+  "27513": {
+    "name": "Bayek",
+    "element": "Wind"
+  },
+  "27514": {
+    "name": "Bayek",
+    "element": "Light"
+  },
+  "27515": {
+    "name": "Bayek",
+    "element": "Dark"
+  },
+  "27601": {
+    "name": "카산드라(물)",
+    "element": "Water"
+  },
+  "27602": {
+    "name": "카산드라(불)",
+    "element": "Fire"
+  },
+  "27603": {
+    "name": "카산드라(바람)",
+    "element": "Wind"
+  },
+  "27604": {
+    "name": "카산드라(빛)",
+    "element": "Light"
+  },
+  "27605": {
+    "name": "카산드라(어둠)",
+    "element": "Dark"
+  },
+  "27611": {
+    "name": "Kassandra",
+    "element": "Water"
+  },
+  "27612": {
+    "name": "Kassandra",
+    "element": "Fire"
+  },
+  "27613": {
+    "name": "Kassandra",
+    "element": "Wind"
+  },
+  "27614": {
+    "name": "Kassandra",
+    "element": "Light"
+  },
+  "27615": {
+    "name": "Kassandra",
+    "element": "Dark"
+  },
+  "27701": {
+    "name": "에이보르(물)",
+    "element": "Water"
+  },
+  "27702": {
+    "name": "에이보르(불)",
+    "element": "Fire"
+  },
+  "27703": {
+    "name": "에이보르(바람)",
+    "element": "Wind"
+  },
+  "27704": {
+    "name": "에이보르(빛)",
+    "element": "Light"
+  },
+  "27705": {
+    "name": "에이보르(어둠)",
+    "element": "Dark"
+  },
+  "27711": {
+    "name": "Eivor",
+    "element": "Water"
+  },
+  "27712": {
+    "name": "Eivor",
+    "element": "Fire"
+  },
+  "27713": {
+    "name": "Eivor",
+    "element": "Wind"
+  },
+  "27714": {
+    "name": "Eivor",
+    "element": "Light"
+  },
+  "27715": {
+    "name": "Eivor",
+    "element": "Dark"
+  },
+  "73301": {
+    "name": "Legion Commander of Conviction",
+    "element": "Water"
+  },
+  "73302": {
+    "name": "Legion Commander of Retribution",
+    "element": "Fire"
+  },
+  "73303": {
+    "name": "Legion Commander of Judgment",
+    "element": "Wind"
+  },
+  "320201": {
+    "name": "Templar Royal Guard",
+    "element": "Water"
+  },
+  "320202": {
+    "name": "Templar Royal Guard",
+    "element": "Fire"
+  },
+  "320203": {
+    "name": "Templar Royal Guard",
+    "element": "Wind"
+  },
+  "320211": {
+    "name": "Templar Elite Guard",
+    "element": "Water"
+  },
+  "320212": {
+    "name": "Templar Elite Guard",
+    "element": "Fire"
+  },
+  "320213": {
+    "name": "Templar Elite Guard",
+    "element": "Wind"
+  },
+  "73401": {
+    "name": "Legion Commander of Conviction",
+    "element": "Water"
+  },
+  "73402": {
+    "name": "Legion Commander of Retribution",
+    "element": "Fire"
+  },
+  "73403": {
+    "name": "Legion Commander of Judgment",
+    "element": "Wind"
+  },
+  "320221": {
+    "name": "Templar Royal Guard",
+    "element": "Water"
+  },
+  "320222": {
+    "name": "Templar Royal Guard",
+    "element": "Fire"
+  },
+  "320223": {
+    "name": "Templar Royal Guard",
+    "element": "Wind"
+  },
+  "320231": {
+    "name": "Templar Elite Guard",
+    "element": "Water"
+  },
+  "320232": {
+    "name": "Templar Elite Guard",
+    "element": "Fire"
+  },
+  "320233": {
+    "name": "Templar Elite Guard",
+    "element": "Wind"
+  },
+  "900001": {
+    "name": "만우절이벤트 아이린",
+    "element": "Water"
+  },
+  "27804": {
+    "name": "Dual Blade",
+    "element": "Light"
+  },
+  "27814": {
+    "name": "Frederic",
+    "element": "Light"
+  },
+  "27901": {
+    "name": "Steel Commander",
+    "element": "Water"
+  },
+  "27902": {
+    "name": "Steel Commander",
+    "element": "Fire"
+  },
+  "27903": {
+    "name": "Steel Commander",
+    "element": "Wind"
+  },
+  "27904": {
+    "name": "Steel Commander",
+    "element": "Light"
+  },
+  "27905": {
+    "name": "Steel Commander",
+    "element": "Dark"
+  },
+  "27911": {
+    "name": "Lionel",
+    "element": "Water"
+  },
+  "27912": {
+    "name": "Patrick",
+    "element": "Fire"
+  },
+  "27913": {
+    "name": "Hector",
+    "element": "Wind"
+  },
+  "27914": {
+    "name": "Ian",
+    "element": "Light"
+  },
+  "27915": {
+    "name": "Evan",
+    "element": "Dark"
+  },
+  "28001": {
+    "name": "Desert Warrior",
+    "element": "Water"
+  },
+  "28002": {
+    "name": "Desert Warrior",
+    "element": "Fire"
+  },
+  "28003": {
+    "name": "Desert Warrior",
+    "element": "Wind"
+  },
+  "28004": {
+    "name": "Desert Warrior",
+    "element": "Light"
+  },
+  "28005": {
+    "name": "Desert Warrior",
+    "element": "Dark"
+  },
+  "28011": {
+    "name": "Omar",
+    "element": "Water"
+  },
+  "28012": {
+    "name": "Ashour",
+    "element": "Fire"
+  },
+  "28013": {
+    "name": "Shahat",
+    "element": "Wind"
+  },
+  "28014": {
+    "name": "Ahmed",
+    "element": "Light"
+  },
+  "28015": {
+    "name": "Salah",
+    "element": "Dark"
+  },
+  "28101": {
+    "name": "Gladiatrix",
+    "element": "Water"
+  },
+  "28102": {
+    "name": "Gladiatrix",
+    "element": "Fire"
+  },
+  "28103": {
+    "name": "Gladiatrix",
+    "element": "Wind"
+  },
+  "28104": {
+    "name": "Gladiatrix",
+    "element": "Light"
+  },
+  "28105": {
+    "name": "Gladiatrix",
+    "element": "Dark"
+  },
+  "28111": {
+    "name": "Kalantatze",
+    "element": "Water"
+  },
+  "28112": {
+    "name": "Federica",
+    "element": "Fire"
+  },
+  "28113": {
+    "name": "Eleni",
+    "element": "Wind"
+  },
+  "28114": {
+    "name": "Aurelia",
+    "element": "Light"
+  },
+  "28115": {
+    "name": "Kiara",
+    "element": "Dark"
+  },
+  "28201": {
+    "name": "Mercenary Queen",
+    "element": "Water"
+  },
+  "28202": {
+    "name": "Mercenary Queen",
+    "element": "Fire"
+  },
+  "28203": {
+    "name": "Mercenary Queen",
+    "element": "Wind"
+  },
+  "28204": {
+    "name": "Mercenary Queen",
+    "element": "Light"
+  },
+  "28205": {
+    "name": "Mercenary Queen",
+    "element": "Dark"
+  },
+  "28211": {
+    "name": "Brita",
+    "element": "Water"
+  },
+  "28212": {
+    "name": "Solveig",
+    "element": "Fire"
+  },
+  "28213": {
+    "name": "Astrid",
+    "element": "Wind"
+  },
+  "28214": {
+    "name": "Berghild",
+    "element": "Light"
+  },
+  "28215": {
+    "name": "Sigrid",
+    "element": "Dark"
+  },
+  "28301": {
+    "name": "Indra",
+    "element": "Water"
+  },
+  "28302": {
+    "name": "Indra",
+    "element": "Fire"
+  },
+  "28303": {
+    "name": "Indra",
+    "element": "Wind"
+  },
+  "28304": {
+    "name": "Indra",
+    "element": "Light"
+  },
+  "28305": {
+    "name": "Indra",
+    "element": "Dark"
+  },
+  "28311": {
+    "name": "Parjanya",
+    "element": "Water"
+  },
+  "28312": {
+    "name": "Vendhan",
+    "element": "Fire"
+  },
+  "28313": {
+    "name": "Chakra",
+    "element": "Wind"
+  },
+  "28314": {
+    "name": "Dyeus",
+    "element": "Light"
+  },
+  "28315": {
+    "name": "Devaraja",
+    "element": "Dark"
+  },
+  "28411": {
+    "name": "Parjanya",
+    "element": "Water"
+  },
+  "28412": {
+    "name": "Vendhan",
+    "element": "Fire"
+  },
+  "28413": {
+    "name": "Chakra",
+    "element": "Wind"
+  },
+  "28414": {
+    "name": "Dyeus",
+    "element": "Light"
+  },
+  "28415": {
+    "name": "Devaraja",
+    "element": "Dark"
+  },
+  "28501": {
+    "name": "Asura",
+    "element": "Water"
+  },
+  "28502": {
+    "name": "Asura",
+    "element": "Fire"
+  },
+  "28503": {
+    "name": "Asura",
+    "element": "Wind"
+  },
+  "28504": {
+    "name": "Asura",
+    "element": "Light"
+  },
+  "28505": {
+    "name": "Asura",
+    "element": "Dark"
+  },
+  "28511": {
+    "name": "Mayasura",
+    "element": "Water"
+  },
+  "28512": {
+    "name": "Varuna",
+    "element": "Fire"
+  },
+  "28513": {
+    "name": "Usha",
+    "element": "Wind"
+  },
+  "28514": {
+    "name": "Danu",
+    "element": "Light"
+  },
+  "28515": {
+    "name": "Vritra",
+    "element": "Dark"
+  },
+  "60206": {
+    "name": "Abyssal Ancient Giant",
+    "element": "Water"
+  },
+  "60306": {
+    "name": "Abyssal Legendary Dragon",
+    "element": "Fire"
+  },
+  "62703": {
+    "name": "Ancient Spirit",
+    "element": "Wind"
+  },
+  "62713": {
+    "name": "Ancient Spirit",
+    "element": "Wind"
+  },
+  "62723": {
+    "name": "Ancient Spirit",
+    "element": "Wind"
+  },
+  "62733": {
+    "name": "Ancient Spirit",
+    "element": "Wind"
+  },
+  "62743": {
+    "name": "Ancient Spirit",
+    "element": "Wind"
+  },
+  "62753": {
+    "name": "Ancient Spirit",
+    "element": "Wind"
+  },
+  "62763": {
+    "name": "Ancient Spirit",
+    "element": "Wind"
+  },
+  "62773": {
+    "name": "Ancient Spirit",
+    "element": "Wind"
+  },
+  "101816": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101916": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101826": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "101926": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "102066": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "102166": {
+    "name": "Tower",
+    "element": "Pure"
+  },
+  "210216": {
+    "name": "Small Crystal",
+    "element": "Pure"
+  },
+  "210616": {
+    "name": "Medium Crystal",
+    "element": "Pure"
+  },
+  "210716": {
+    "name": "Medium Crystal",
+    "element": "Pure"
+  },
+  "211206": {
+    "name": "Small Crystal",
+    "element": "Pure"
+  },
+  "211306": {
+    "name": "Small Crystal",
+    "element": "Pure"
+  },
+  "62106": {
+    "name": "Abyssal Ancient Lich King",
+    "element": "Dark"
+  },
+  "211016": {
+    "name": "가드_보라(중)_심연층",
+    "element": "Pure"
+  },
+  "16531": {
+    "name": "Nickel",
+    "element": "Water"
+  },
+  "16532": {
+    "name": "Iron",
+    "element": "Fire"
+  },
+  "16533": {
+    "name": "Copper",
+    "element": "Wind"
+  },
+  "16534": {
+    "name": "Silver",
+    "element": "Light"
+  },
+  "16535": {
+    "name": "Zinc",
+    "element": "Dark"
+  },
+  "20831": {
+    "name": "Tractor",
+    "element": "Water"
+  },
+  "20832": {
+    "name": "Bulldozer",
+    "element": "Fire"
+  },
+  "20833": {
+    "name": "Crane",
+    "element": "Wind"
+  },
+  "20834": {
+    "name": "Driller",
+    "element": "Light"
+  },
+  "20835": {
+    "name": "Crawler",
+    "element": "Dark"
+  },
+  "28601": {
+    "name": "Devil Maiden",
+    "element": "Water"
+  },
+  "28602": {
+    "name": "Devil Maiden",
+    "element": "Fire"
+  },
+  "28603": {
+    "name": "Devil Maiden",
+    "element": "Wind"
+  },
+  "28604": {
+    "name": "Devil Maiden",
+    "element": "Light"
+  },
+  "28605": {
+    "name": "Devil Maiden",
+    "element": "Dark"
+  },
+  "28611": {
+    "name": "Irène",
+    "element": "Water"
+  },
+  "28612": {
+    "name": "Bloodya",
+    "element": "Fire"
+  },
+  "28613": {
+    "name": "Layla",
+    "element": "Wind"
+  },
+  "28614": {
+    "name": "Jessica",
+    "element": "Light"
+  },
+  "28615": {
+    "name": "Liliana",
+    "element": "Dark"
+  },
+  "28705": {
+    "name": "Lord of Hell",
+    "element": "Dark"
+  },
+  "28715": {
+    "name": "Lord of Hell",
+    "element": "Dark"
+  },
+  "28801": {
+    "name": "Demon Bag",
+    "element": "Water"
+  },
+  "48101": {
+    "name": "리빙 아머 2차 각성 보스(물)",
+    "element": "Water"
+  },
+  "48102": {
+    "name": "리빙 아머 2차 각성 보스(불)",
+    "element": "Fire"
+  },
+  "48103": {
+    "name": "리빙 아머 2차 각성 보스(바람)",
+    "element": "Wind"
+  },
+  "48104": {
+    "name": "리빙 아머 2차 각성 보스(빛)",
+    "element": "Light"
+  },
+  "48105": {
+    "name": "리빙 아머 2차 각성 보스(어둠)",
+    "element": "Dark"
+  },
+  "48201": {
+    "name": "프랑켄 2차 각성 보스(물)",
+    "element": "Water"
+  },
+  "48202": {
+    "name": "프랑켄 2차 각성 보스(불)",
+    "element": "Fire"
+  },
+  "48203": {
+    "name": "프랑켄 2차 각성 보스(바람)",
+    "element": "Wind"
+  },
+  "48204": {
+    "name": "프랑켄 2차 각성 보스(빛)",
+    "element": "Light"
+  },
+  "48205": {
+    "name": "프랑켄 2차 각성 보스(어둠)",
+    "element": "Dark"
+  },
+  "74006": {
+    "name": "Dimension Predator",
+    "element": "Pure"
+  },
+  "74106": {
+    "name": "Enraged Dimension Predator",
+    "element": "Pure"
+  },
+  "121301": {
+    "name": "2차각성 리빙 아머 수정_왼쪽(물)",
+    "element": "Water"
+  },
+  "121302": {
+    "name": "2차각성 리빙 아머 수정_왼쪽(불)",
+    "element": "Fire"
+  },
+  "121303": {
+    "name": "2차각성 리빙 아머 수정_왼쪽(바람)",
+    "element": "Wind"
+  },
+  "121304": {
+    "name": "2차각성 리빙 아머 수정_왼쪽(빛)",
+    "element": "Light"
+  },
+  "121305": {
+    "name": "2차각성 리빙 아머 수정_왼쪽(어둠)",
+    "element": "Dark"
+  },
+  "121311": {
+    "name": "2차각성 리빙 아머 수정_오른쪽(물)",
+    "element": "Water"
+  },
+  "121312": {
+    "name": "2차각성 리빙 아머 수정_오른쪽(불)",
+    "element": "Fire"
+  },
+  "121313": {
+    "name": "2차각성 리빙 아머 수정_오른쪽(바람)",
+    "element": "Wind"
+  },
+  "121314": {
+    "name": "2차각성 리빙 아머 수정_오른쪽(빛)",
+    "element": "Light"
+  },
+  "121315": {
+    "name": "2차각성 리빙 아머 수정_오른쪽(어둠)",
+    "element": "Dark"
+  },
+  "121401": {
+    "name": "2차각성 프랑켄 수정_왼쪽(물)",
+    "element": "Water"
+  },
+  "121402": {
+    "name": "2차각성 프랑켄 수정_왼쪽(불)",
+    "element": "Fire"
+  },
+  "121403": {
+    "name": "2차각성 프랑켄 수정_왼쪽(바람)",
+    "element": "Wind"
+  },
+  "121404": {
+    "name": "2차각성 프랑켄 수정_왼쪽(빛)",
+    "element": "Light"
+  },
+  "121405": {
+    "name": "2차각성 프랑켄 수정_왼쪽(어둠)",
+    "element": "Dark"
+  },
+  "121411": {
+    "name": "2차각성 프랑켄 수정_오른쪽(물)",
+    "element": "Water"
+  },
+  "121412": {
+    "name": "2차각성 프랑켄 수정_오른쪽(불)",
+    "element": "Fire"
+  },
+  "121413": {
+    "name": "2차각성 프랑켄 수정_오른쪽(바람)",
+    "element": "Wind"
+  },
+  "121414": {
+    "name": "2차각성 프랑켄 수정_오른쪽(빛)",
+    "element": "Light"
+  },
+  "121415": {
+    "name": "2차각성 프랑켄 수정_오른쪽(어둠)",
+    "element": "Dark"
+  },
+  "211406": {
+    "name": "가드_정령(소)_심연층",
+    "element": "Pure"
+  },
+  "211506": {
+    "name": "가드_정령(중)_심연층",
+    "element": "Pure"
+  },
+  "320301": {
+    "name": "Dimensional Minion (Water)",
+    "element": "Water"
+  },
+  "320302": {
+    "name": "Dimensional Minion (Fire)",
+    "element": "Fire"
+  },
+  "320306": {
+    "name": "Hollow",
+    "element": "Pure"
+  },
+  "320403": {
+    "name": "Dimensional Minion (Wind)",
+    "element": "Wind"
+  },
+  "320406": {
+    "name": "Void",
+    "element": "Pure"
+  },
+  "401006": {
+    "name": "차원홀 레이드 1페이즈 왼쪽 수정",
+    "element": "Pure"
+  },
+  "401106": {
+    "name": "차원홀 레이드 1페이즈 오른쪽 수정",
+    "element": "Pure"
+  },
+  "401206": {
+    "name": "차원홀 레이드 3페이즈 왼쪽 수정",
+    "element": "Pure"
+  },
+  "401306": {
+    "name": "차원홀 레이드 3페이즈 오른쪽 수정",
+    "element": "Pure"
+  },
+  "62803": {
+    "name": "Abyssal Ancient Spirit",
+    "element": "Wind"
+  },
+  "102266": {
+    "name": "타워(정령) - 1_심연층",
+    "element": "Pure"
+  },
+  "102366": {
+    "name": "타워(정령) - 2_심연층",
+    "element": "Pure"
+  },
+  "25121": {
+    "name": "Imperfect Onimusha",
+    "element": "Water"
+  },
+  "28901": {
+    "name": "Dokkaebi Lord",
+    "element": "Water"
+  },
+  "28902": {
+    "name": "Dokkaebi Lord",
+    "element": "Fire"
+  },
+  "28903": {
+    "name": "Dokkaebi Lord",
+    "element": "Wind"
+  },
+  "28904": {
+    "name": "Dokkaebi Lord",
+    "element": "Light"
+  },
+  "28905": {
+    "name": "Dokkaebi Lord",
+    "element": "Dark"
+  },
+  "28911": {
+    "name": "Jeongnam",
+    "element": "Water"
+  },
+  "28912": {
+    "name": "Moogwang",
+    "element": "Fire"
+  },
+  "28913": {
+    "name": "Byungchul",
+    "element": "Wind"
+  },
+  "28914": {
+    "name": "Euldong",
+    "element": "Light"
+  },
+  "28915": {
+    "name": "Gapsoo",
+    "element": "Dark"
+  },
+  "29001": {
+    "name": "Dokkaebi Princess and Sapsaree",
+    "element": "Water"
+  },
+  "29002": {
+    "name": "Dokkaebi Princess and Sapsaree",
+    "element": "Fire"
+  },
+  "29003": {
+    "name": "Dokkaebi Princess and Sapsaree",
+    "element": "Wind"
+  },
+  "29004": {
+    "name": "Dokkaebi Princess and Sapsaree",
+    "element": "Light"
+  },
+  "29005": {
+    "name": "Dokkaebi Princess and Sapsaree",
+    "element": "Dark"
+  },
+  "29011": {
+    "name": "Minji and Sapsaree",
+    "element": "Water"
+  },
+  "29012": {
+    "name": "Yeji and Sapsaree",
+    "element": "Fire"
+  },
+  "29013": {
+    "name": "Yuna and Sapsaree",
+    "element": "Wind"
+  },
+  "29014": {
+    "name": "Eunbee and Sapsaree",
+    "element": "Light"
+  },
+  "29015": {
+    "name": "Damee and Sapsaree",
+    "element": "Dark"
+  },
+  "29022": {
+    "name": "Imperfect Dokkaebi Princess and Sapsaree",
+    "element": "Fire"
+  },
+  "62406": {
+    "name": "Abyssal Ancient Tormentor",
+    "element": "Wind"
+  },
+  "112043": {
+    "name": "아티펙트1 - 보스 수정_기절방무_심연층",
+    "element": "Wind"
+  },
+  "112053": {
+    "name": "아티펙트1 - 보스 수정_빗맞음_심연층",
+    "element": "Wind"
+  },
+  "29105": {
+    "name": "Twin Angels",
+    "element": "Dark"
+  },
+  "29111": {
+    "name": "Ramael and Judiah",
+    "element": "Water"
+  },
+  "29112": {
+    "name": "Karuel and Lanoah",
+    "element": "Fire"
+  },
+  "29113": {
+    "name": "Sadiel and Zeryah",
+    "element": "Wind"
+  },
+  "29114": {
+    "name": "Miruel and Graciah",
+    "element": "Light"
+  },
+  "29115": {
+    "name": "Jaduel and Aepiah",
+    "element": "Dark"
+  },
+  "29101": {
+    "name": "Twin Angels",
+    "element": "Water"
+  },
+  "29102": {
+    "name": "Twin Angels",
+    "element": "Fire"
+  },
+  "29103": {
+    "name": "Twin Angels",
+    "element": "Wind"
+  },
+  "29104": {
+    "name": "Twin Angels",
+    "element": "Light"
+  },
+  "29201": {
+    "name": "게롤트(물)",
+    "element": "Water"
+  },
+  "29202": {
+    "name": "게롤트(불)",
+    "element": "Fire"
+  },
+  "29203": {
+    "name": "게롤트(바람)",
+    "element": "Wind"
+  },
+  "29204": {
+    "name": "게롤트(빛)",
+    "element": "Light"
+  },
+  "29205": {
+    "name": "게롤트(어둠)",
+    "element": "Dark"
+  },
+  "29211": {
+    "name": "Geralt",
+    "element": "Water"
+  },
+  "29212": {
+    "name": "Geralt",
+    "element": "Fire"
+  },
+  "29213": {
+    "name": "Geralt",
+    "element": "Wind"
+  },
+  "29214": {
+    "name": "Geralt",
+    "element": "Light"
+  },
+  "29215": {
+    "name": "Geralt",
+    "element": "Dark"
+  },
+  "29301": {
+    "name": "시리(물)",
+    "element": "Water"
+  },
+  "29302": {
+    "name": "시리(불)",
+    "element": "Fire"
+  },
+  "29303": {
+    "name": "시리(바람)",
+    "element": "Wind"
+  },
+  "29304": {
+    "name": "시리(빛)",
+    "element": "Light"
+  },
+  "29305": {
+    "name": "시리(어둠)",
+    "element": "Dark"
+  },
+  "29311": {
+    "name": "Ciri",
+    "element": "Water"
+  },
+  "29312": {
+    "name": "Ciri",
+    "element": "Fire"
+  },
+  "29313": {
+    "name": "Ciri",
+    "element": "Wind"
+  },
+  "29314": {
+    "name": "Ciri",
+    "element": "Light"
+  },
+  "29315": {
+    "name": "Ciri",
+    "element": "Dark"
+  },
+  "29401": {
+    "name": "예니퍼(물)",
+    "element": "Water"
+  },
+  "29402": {
+    "name": "예니퍼(불)",
+    "element": "Fire"
+  },
+  "29403": {
+    "name": "예니퍼(바람)",
+    "element": "Wind"
+  },
+  "29404": {
+    "name": "예니퍼(빛)",
+    "element": "Light"
+  },
+  "29405": {
+    "name": "예니퍼(어둠)",
+    "element": "Dark"
+  },
+  "29411": {
+    "name": "Yennefer",
+    "element": "Water"
+  },
+  "29412": {
+    "name": "Yennefer",
+    "element": "Fire"
+  },
+  "29413": {
+    "name": "Yennefer",
+    "element": "Wind"
+  },
+  "29414": {
+    "name": "Yennefer",
+    "element": "Light"
+  },
+  "29415": {
+    "name": "Yennefer",
+    "element": "Dark"
+  },
+  "29501": {
+    "name": "트리스(물)",
+    "element": "Water"
+  },
+  "29502": {
+    "name": "트리스(불)",
+    "element": "Fire"
+  },
+  "29503": {
+    "name": "트리스(바람)",
+    "element": "Wind"
+  },
+  "29504": {
+    "name": "트리스(빛)",
+    "element": "Light"
+  },
+  "29505": {
+    "name": "트리스(어둠)",
+    "element": "Dark"
+  },
+  "29511": {
+    "name": "Triss",
+    "element": "Water"
+  },
+  "29512": {
+    "name": "Triss",
+    "element": "Fire"
+  },
+  "29513": {
+    "name": "Triss",
+    "element": "Wind"
+  },
+  "29514": {
+    "name": "Triss",
+    "element": "Light"
+  },
+  "29515": {
+    "name": "Triss",
+    "element": "Dark"
+  },
+  "62606": {
+    "name": "Abyssal Ancient Punisher",
+    "element": "Light"
+  },
+  "73505": {
+    "name": "Fiend",
+    "element": "Dark"
+  },
+  "73602": {
+    "name": "Griffin",
+    "element": "Fire"
+  },
+  "73703": {
+    "name": "Leshen",
+    "element": "Wind"
+  },
+  "30001": {
+    "name": "Hacker",
+    "element": "Water"
+  },
+  "30002": {
+    "name": "Hacker",
+    "element": "Fire"
+  },
+  "30003": {
+    "name": "Hacker",
+    "element": "Wind"
+  },
+  "30004": {
+    "name": "Hacker",
+    "element": "Light"
+  },
+  "30005": {
+    "name": "Hacker",
+    "element": "Dark"
+  },
+  "30011": {
+    "name": "K1D",
+    "element": "Water"
+  },
+  "30012": {
+    "name": "7R1X",
+    "element": "Fire"
+  },
+  "30013": {
+    "name": "570RM",
+    "element": "Wind"
+  },
+  "30014": {
+    "name": "51LV3R",
+    "element": "Light"
+  },
+  "30015": {
+    "name": "N1X",
+    "element": "Dark"
+  },
+  "30101": {
+    "name": "Cyborg",
+    "element": "Water"
+  },
+  "30102": {
+    "name": "Cyborg",
+    "element": "Fire"
+  },
+  "30103": {
+    "name": "Cyborg",
+    "element": "Wind"
+  },
+  "30104": {
+    "name": "Cyborg",
+    "element": "Light"
+  },
+  "30105": {
+    "name": "Cyborg",
+    "element": "Dark"
+  },
+  "30111": {
+    "name": "Lorenza",
+    "element": "Water"
+  },
+  "30112": {
+    "name": "Carmella",
+    "element": "Fire"
+  },
+  "30113": {
+    "name": "Eliza",
+    "element": "Wind"
+  },
+  "30114": {
+    "name": "Alesia",
+    "element": "Light"
+  },
+  "30115": {
+    "name": "Roberta",
+    "element": "Dark"
+  },
+  "29601": {
+    "name": "Magic Order Guardian",
+    "element": "Water"
+  },
+  "29602": {
+    "name": "Magic Order Guardian",
+    "element": "Fire"
+  },
+  "29603": {
+    "name": "Magic Order Guardian",
+    "element": "Wind"
+  },
+  "29604": {
+    "name": "Magic Order Guardian",
+    "element": "Light"
+  },
+  "29605": {
+    "name": "Magic Order Guardian",
+    "element": "Dark"
+  },
+  "29611": {
+    "name": "Anders",
+    "element": "Water"
+  },
+  "29612": {
+    "name": "Magnus",
+    "element": "Fire"
+  },
+  "29613": {
+    "name": "Henrik",
+    "element": "Wind"
+  },
+  "29614": {
+    "name": "Lars",
+    "element": "Light"
+  },
+  "29615": {
+    "name": "Valdemar",
+    "element": "Dark"
+  },
+  "29701": {
+    "name": "Magic Order Swordsinger",
+    "element": "Water"
+  },
+  "29702": {
+    "name": "Magic Order Swordsinger",
+    "element": "Fire"
+  },
+  "29703": {
+    "name": "Magic Order Swordsinger",
+    "element": "Wind"
+  },
+  "29704": {
+    "name": "Magic Order Swordsinger",
+    "element": "Light"
+  },
+  "29705": {
+    "name": "Magic Order Swordsinger",
+    "element": "Dark"
+  },
+  "29711": {
+    "name": "Rigna",
+    "element": "Water"
+  },
+  "29712": {
+    "name": "Reyka",
+    "element": "Fire"
+  },
+  "29713": {
+    "name": "Tirsa",
+    "element": "Wind"
+  },
+  "29714": {
+    "name": "Birgitta",
+    "element": "Light"
+  },
+  "29715": {
+    "name": "Fiona",
+    "element": "Dark"
+  },
+  "29801": {
+    "name": "Magic Order Enchantress",
+    "element": "Water"
+  },
+  "29802": {
+    "name": "Magic Order Enchantress",
+    "element": "Fire"
+  },
+  "29803": {
+    "name": "Magic Order Enchantress",
+    "element": "Wind"
+  },
+  "29804": {
+    "name": "Magic Order Enchantress",
+    "element": "Light"
+  },
+  "29805": {
+    "name": "Magic Order Enchantress",
+    "element": "Dark"
+  },
+  "29811": {
+    "name": "Johanna",
+    "element": "Water"
+  },
+  "29812": {
+    "name": "Tarnisha",
+    "element": "Fire"
+  },
+  "29813": {
+    "name": "Hexarina",
+    "element": "Wind"
+  },
+  "29814": {
+    "name": "Arcana",
+    "element": "Light"
+  },
+  "29815": {
+    "name": "Hilda",
+    "element": "Dark"
+  },
+  "29901": {
+    "name": "Magic Order Elementalist",
+    "element": "Water"
+  },
+  "29902": {
+    "name": "Magic Order Elementalist",
+    "element": "Fire"
+  },
+  "29903": {
+    "name": "Magic Order Elementalist",
+    "element": "Wind"
+  },
+  "29904": {
+    "name": "Magic Order Elementalist",
+    "element": "Light"
+  },
+  "29905": {
+    "name": "Magic Order Elementalist",
+    "element": "Dark"
+  },
+  "29911": {
+    "name": "Lumina",
+    "element": "Water"
+  },
+  "29912": {
+    "name": "Enshia",
+    "element": "Fire"
+  },
+  "29913": {
+    "name": "Nobella",
+    "element": "Wind"
+  },
+  "29914": {
+    "name": "Groa",
+    "element": "Light"
+  },
+  "29915": {
+    "name": "Celestara",
+    "element": "Dark"
+  },
+  "42501": {
+    "name": "Asmodeus",
+    "element": "Water"
+  },
+  "42502": {
+    "name": "Asmodeus",
+    "element": "Fire"
+  },
+  "42503": {
+    "name": "Asmodeus",
+    "element": "Wind"
+  },
+  "42504": {
+    "name": "Asmodeus",
+    "element": "Light"
+  },
+  "42505": {
+    "name": "Asmodeus",
+    "element": "Dark"
+  },
+  "111106": {
+    "name": "Disturb Recovery Crystal",
+    "element": "Pure"
+  },
+  "111116": {
+    "name": "Weakening Crystal",
+    "element": "Pure"
+  },
+  "111126": {
+    "name": "Glancing Hit Crystal",
+    "element": "Pure"
+  },
+  "111136": {
+    "name": "Weakening Crystal",
+    "element": "Pure"
+  },
+  "111206": {
+    "name": "Attack Bar Recharge Crystal",
+    "element": "Pure"
+  },
+  "111216": {
+    "name": "Strengthen Defense Crystal",
+    "element": "Pure"
+  },
+  "111226": {
+    "name": "Invincible Crystal",
+    "element": "Pure"
+  },
+  "111236": {
+    "name": "Strengthen Attack Crystal",
+    "element": "Pure"
+  },
+  "111306": {
+    "name": "Incarnation of Greed",
+    "element": "Pure"
+  },
+  "111326": {
+    "name": "Incarnation of Greed",
+    "element": "Pure"
+  },
+  "111406": {
+    "name": "Incarnation of Vendetta",
+    "element": "Pure"
+  },
+  "111426": {
+    "name": "Incarnation of Vendetta",
+    "element": "Pure"
+  },
+  "111506": {
+    "name": "Incarnation of Protection",
+    "element": "Pure"
+  },
+  "111526": {
+    "name": "Incarnation of Protection",
+    "element": "Pure"
+  },
+  "111606": {
+    "name": "Spires of Ascension Crystal",
+    "element": "Pure"
+  },
+  "2001101": {
+    "name": "Ath’Taros",
+    "element": "Water"
+  },
+  "2001102": {
+    "name": "Ath’Taros",
+    "element": "Fire"
+  },
+  "2001103": {
+    "name": "Ath’Taros",
+    "element": "Wind"
+  },
+  "2001104": {
+    "name": "Ath’Taros",
+    "element": "Light"
+  },
+  "2001105": {
+    "name": "Ath’Taros",
+    "element": "Dark"
+  },
+  "2001106": {
+    "name": "Ath’Taros",
+    "element": "Pure"
+  },
+  "2002101": {
+    "name": "Lyrith",
+    "element": "Water"
+  },
+  "2002102": {
+    "name": "Lyrith",
+    "element": "Fire"
+  },
+  "2002103": {
+    "name": "Lyrith",
+    "element": "Wind"
+  },
+  "2002104": {
+    "name": "Lyrith",
+    "element": "Light"
+  },
+  "2002105": {
+    "name": "Lyrith",
+    "element": "Dark"
+  },
+  "2002106": {
+    "name": "Lyrith",
+    "element": "Pure"
+  },
+  "2002201": {
+    "name": "Lyrith",
+    "element": "Water"
+  },
+  "2002202": {
+    "name": "Lyrith",
+    "element": "Fire"
+  },
+  "2002203": {
+    "name": "Lyrith",
+    "element": "Wind"
+  },
+  "2002204": {
+    "name": "Lyrith",
+    "element": "Light"
+  },
+  "2002205": {
+    "name": "Lyrith",
+    "element": "Dark"
+  },
+  "30205": {
+    "name": "스쿠나(어둠)",
+    "element": "Dark"
+  },
+  "30215": {
+    "name": "Ryomen Sukuna",
+    "element": "Dark"
+  },
+  "30301": {
+    "name": "고죠 사토루(물)",
+    "element": "Water"
+  },
+  "30302": {
+    "name": "고죠 사토루(불)",
+    "element": "Fire"
+  },
+  "30303": {
+    "name": "고죠 사토루(바람)",
+    "element": "Wind"
+  },
+  "30304": {
+    "name": "고죠 사토루(빛)",
+    "element": "Light"
+  },
+  "30305": {
+    "name": "고죠 사토루(어둠)",
+    "element": "Dark"
+  },
+  "30311": {
+    "name": "Satoru Gojo",
+    "element": "Water"
+  },
+  "30312": {
+    "name": "Satoru Gojo",
+    "element": "Fire"
+  },
+  "30313": {
+    "name": "Satoru Gojo",
+    "element": "Wind"
+  },
+  "30314": {
+    "name": "Satoru Gojo",
+    "element": "Light"
+  },
+  "30315": {
+    "name": "Satoru Gojo",
+    "element": "Dark"
+  },
+  "30401": {
+    "name": "이타도리 유지(물)",
+    "element": "Water"
+  },
+  "30402": {
+    "name": "이타도리 유지(불)",
+    "element": "Fire"
+  },
+  "30403": {
+    "name": "이타도리 유지(바람)",
+    "element": "Wind"
+  },
+  "30404": {
+    "name": "이타도리 유지(빛)",
+    "element": "Light"
+  },
+  "30405": {
+    "name": "이타도리 유지(어둠)",
+    "element": "Dark"
+  },
+  "30411": {
+    "name": "Yuji Itadori",
+    "element": "Water"
+  },
+  "30412": {
+    "name": "Yuji Itadori",
+    "element": "Fire"
+  },
+  "30413": {
+    "name": "Yuji Itadori",
+    "element": "Wind"
+  },
+  "30414": {
+    "name": "Yuji Itadori",
+    "element": "Light"
+  },
+  "30415": {
+    "name": "Yuji Itadori",
+    "element": "Dark"
+  },
+  "30501": {
+    "name": "후시구로 메구미(물)",
+    "element": "Water"
+  },
+  "30502": {
+    "name": "후시구로 메구미(불)",
+    "element": "Fire"
+  },
+  "30503": {
+    "name": "후시구로 메구미(바람)",
+    "element": "Wind"
+  },
+  "30504": {
+    "name": "후시구로 메구미(빛)",
+    "element": "Light"
+  },
+  "30505": {
+    "name": "후시구로 메구미(어둠)",
+    "element": "Dark"
+  },
+  "30511": {
+    "name": "Megumi Fushiguro",
+    "element": "Water"
+  },
+  "30512": {
+    "name": "Megumi Fushiguro",
+    "element": "Fire"
+  },
+  "30513": {
+    "name": "Megumi Fushiguro",
+    "element": "Wind"
+  },
+  "30514": {
+    "name": "Megumi Fushiguro",
+    "element": "Light"
+  },
+  "30515": {
+    "name": "Megumi Fushiguro",
+    "element": "Dark"
+  },
+  "30601": {
+    "name": "쿠기사키 노바라(물)",
+    "element": "Water"
+  },
+  "30602": {
+    "name": "쿠기사키 노바라(불)",
+    "element": "Fire"
+  },
+  "30603": {
+    "name": "쿠기사키 노바라(바람)",
+    "element": "Wind"
+  },
+  "30604": {
+    "name": "쿠기사키 노바라(빛)",
+    "element": "Light"
+  },
+  "30605": {
+    "name": "쿠기사키 노바라(어둠)",
+    "element": "Dark"
+  },
+  "30611": {
+    "name": "Nobara Kugisaki",
+    "element": "Water"
+  },
+  "30612": {
+    "name": "Nobara Kugisaki",
+    "element": "Fire"
+  },
+  "30613": {
+    "name": "Nobara Kugisaki",
+    "element": "Wind"
+  },
+  "30614": {
+    "name": "Nobara Kugisaki",
+    "element": "Light"
+  },
+  "30615": {
+    "name": "Nobara Kugisaki",
+    "element": "Dark"
+  },
+  "74203": {
+    "name": "Hanami",
+    "element": "Wind"
+  },
+  "74301": {
+    "name": "Dagon",
+    "element": "Water"
+  },
+  "74402": {
+    "name": "Jogo",
+    "element": "Fire"
+  },
+  "111331": {
+    "name": "Incarnation of Greed",
+    "element": "Pure"
+  },
+  "111332": {
+    "name": "Incarnation of Greed",
+    "element": "Pure"
+  },
+  "111333": {
+    "name": "Incarnation of Greed",
+    "element": "Pure"
+  },
+  "111335": {
+    "name": "Incarnation of Greed",
+    "element": "Pure"
+  },
+  "12131": {
+    "name": "Sisroo",
+    "element": "Water"
+  },
+  "12132": {
+    "name": "Colleen",
+    "element": "Fire"
+  },
+  "12133": {
+    "name": "Seal",
+    "element": "Wind"
+  },
+  "12134": {
+    "name": "Sia",
+    "element": "Light"
+  },
+  "12135": {
+    "name": "Seren",
+    "element": "Dark"
+  },
+  "30701": {
+    "name": "Drakan Warrior",
+    "element": "Water"
+  },
+  "30702": {
+    "name": "Drakan Warrior",
+    "element": "Fire"
+  },
+  "30703": {
+    "name": "Drakan Warrior",
+    "element": "Wind"
+  },
+  "30704": {
+    "name": "Drakan Warrior",
+    "element": "Light"
+  },
+  "30705": {
+    "name": "Drakan Warrior",
+    "element": "Dark"
+  },
+  "30711": {
+    "name": "Solvark",
+    "element": "Water"
+  },
+  "30712": {
+    "name": "Deragron",
+    "element": "Fire"
+  },
+  "30713": {
+    "name": "Ereshion",
+    "element": "Wind"
+  },
+  "30714": {
+    "name": "Fridrion",
+    "element": "Light"
+  },
+  "30715": {
+    "name": "Drakar",
+    "element": "Dark"
+  },
+  "48301": {
+    "name": "Sisroo",
+    "element": "Water"
+  },
+  "48302": {
+    "name": "Colleen",
+    "element": "Fire"
+  },
+  "48303": {
+    "name": "Seal",
+    "element": "Wind"
+  },
+  "48304": {
+    "name": "Sia",
+    "element": "Light"
+  },
+  "48305": {
+    "name": "Seren",
+    "element": "Dark"
+  },
+  "121501": {
+    "name": "2차각성 하르퓨 수정_왼쪽(물)",
+    "element": "Water"
+  },
+  "121502": {
+    "name": "2차각성 하르퓨 수정_왼쪽(불)",
+    "element": "Fire"
+  },
+  "121503": {
+    "name": "2차각성 하르퓨 수정_왼쪽(바람)",
+    "element": "Wind"
+  },
+  "121504": {
+    "name": "2차각성 하르퓨 수정_왼쪽(빛)",
+    "element": "Light"
+  },
+  "121505": {
+    "name": "2차각성 하르퓨 수정_왼쪽(어둠)",
+    "element": "Dark"
+  },
+  "121511": {
+    "name": "2차각성 하르퓨 수정_오른쪽(물)",
+    "element": "Water"
+  },
+  "121512": {
+    "name": "2차각성 하르퓨 수정_오른쪽(불)",
+    "element": "Fire"
+  },
+  "121513": {
+    "name": "2차각성 하르퓨 수정_오른쪽(바람)",
+    "element": "Wind"
+  },
+  "121514": {
+    "name": "2차각성 하르퓨 수정_오른쪽(빛)",
+    "element": "Light"
+  },
+  "121515": {
+    "name": "2차각성 하르퓨 수정_오른쪽(어둠)",
+    "element": "Dark"
+  },
+  "30805": {
+    "name": "Exorcist Association Arbiter",
+    "element": "Dark"
+  },
+  "30815": {
+    "name": "Exorcist Association Arbiter",
+    "element": "Dark"
+  },
+  "30901": {
+    "name": "Exorcist Association Resolver",
+    "element": "Water"
+  },
+  "30902": {
+    "name": "Exorcist Association Resolver",
+    "element": "Fire"
+  },
+  "30903": {
+    "name": "Exorcist Association Resolver",
+    "element": "Wind"
+  },
+  "30904": {
+    "name": "Exorcist Association Resolver",
+    "element": "Light"
+  },
+  "30905": {
+    "name": "Exorcist Association Resolver",
+    "element": "Dark"
+  },
+  "30911": {
+    "name": "Exorcist Association Resolver",
+    "element": "Water"
+  },
+  "30912": {
+    "name": "Exorcist Association Resolver",
+    "element": "Fire"
+  },
+  "30913": {
+    "name": "Exorcist Association Resolver",
+    "element": "Wind"
+  },
+  "30914": {
+    "name": "Exorcist Association Resolver",
+    "element": "Light"
+  },
+  "30915": {
+    "name": "Exorcist Association Resolver",
+    "element": "Dark"
+  },
+  "31001": {
+    "name": "Exorcist Association Fighter",
+    "element": "Water"
+  },
+  "31002": {
+    "name": "Exorcist Association Fighter",
+    "element": "Fire"
+  },
+  "31003": {
+    "name": "Exorcist Association Fighter",
+    "element": "Wind"
+  },
+  "31004": {
+    "name": "Exorcist Association Fighter",
+    "element": "Light"
+  },
+  "31005": {
+    "name": "Exorcist Association Fighter",
+    "element": "Dark"
+  },
+  "31011": {
+    "name": "Exorcist Association Fighter",
+    "element": "Water"
+  },
+  "31012": {
+    "name": "Exorcist Association Fighter",
+    "element": "Fire"
+  },
+  "31013": {
+    "name": "Exorcist Association Fighter",
+    "element": "Wind"
+  },
+  "31014": {
+    "name": "Exorcist Association Fighter",
+    "element": "Light"
+  },
+  "31015": {
+    "name": "Exorcist Association Fighter",
+    "element": "Dark"
+  },
+  "31101": {
+    "name": "Exorcist Association Conjurer",
+    "element": "Water"
+  },
+  "31102": {
+    "name": "Exorcist Association Conjurer",
+    "element": "Fire"
+  },
+  "31103": {
+    "name": "Exorcist Association Conjurer",
+    "element": "Wind"
+  },
+  "31104": {
+    "name": "Exorcist Association Conjurer",
+    "element": "Light"
+  },
+  "31105": {
+    "name": "Exorcist Association Conjurer",
+    "element": "Dark"
+  },
+  "31111": {
+    "name": "Exorcist Association Conjurer",
+    "element": "Water"
+  },
+  "31112": {
+    "name": "Exorcist Association Conjurer",
+    "element": "Fire"
+  },
+  "31113": {
+    "name": "Exorcist Association Conjurer",
+    "element": "Wind"
+  },
+  "31114": {
+    "name": "Exorcist Association Conjurer",
+    "element": "Light"
+  },
+  "31115": {
+    "name": "Exorcist Association Conjurer",
+    "element": "Dark"
+  },
+  "31201": {
+    "name": "Exorcist Association Hunter",
+    "element": "Water"
+  },
+  "31202": {
+    "name": "Exorcist Association Hunter",
+    "element": "Fire"
+  },
+  "31203": {
+    "name": "Exorcist Association Hunter",
+    "element": "Wind"
+  },
+  "31204": {
+    "name": "Exorcist Association Hunter",
+    "element": "Light"
+  },
+  "31205": {
+    "name": "Exorcist Association Hunter",
+    "element": "Dark"
+  },
+  "31211": {
+    "name": "Exorcist Association Hunter",
+    "element": "Water"
+  },
+  "31212": {
+    "name": "Exorcist Association Hunter",
+    "element": "Fire"
+  },
+  "31213": {
+    "name": "Exorcist Association Hunter",
+    "element": "Wind"
+  },
+  "31214": {
+    "name": "Exorcist Association Hunter",
+    "element": "Light"
+  },
+  "31215": {
+    "name": "Exorcist Association Hunter",
+    "element": "Dark"
+  },
+  "31301": {
+    "name": "Specter Princess",
+    "element": "Water"
+  },
+  "31302": {
+    "name": "Specter Princess",
+    "element": "Fire"
+  },
+  "31303": {
+    "name": "Specter Princess",
+    "element": "Wind"
+  },
+  "31304": {
+    "name": "Specter Princess",
+    "element": "Light"
+  },
+  "31305": {
+    "name": "Specter Princess",
+    "element": "Dark"
+  },
+  "31311": {
+    "name": "Lamiella",
+    "element": "Water"
+  },
+  "31312": {
+    "name": "Theodora",
+    "element": "Fire"
+  },
+  "31313": {
+    "name": "Orphina",
+    "element": "Wind"
+  },
+  "31314": {
+    "name": "Mortera",
+    "element": "Light"
+  },
+  "31315": {
+    "name": "Velaska",
+    "element": "Dark"
+  },
+  "31401": {
+    "name": "Tomb Warden",
+    "element": "Water"
+  },
+  "31402": {
+    "name": "Tomb Warden",
+    "element": "Fire"
+  },
+  "31403": {
+    "name": "Tomb Warden",
+    "element": "Wind"
+  },
+  "31404": {
+    "name": "Tomb Warden",
+    "element": "Light"
+  },
+  "31405": {
+    "name": "Tomb Warden",
+    "element": "Dark"
+  },
+  "31411": {
+    "name": "Mork",
+    "element": "Water"
+  },
+  "31412": {
+    "name": "Rex",
+    "element": "Fire"
+  },
+  "31413": {
+    "name": "Gronn",
+    "element": "Wind"
+  },
+  "31414": {
+    "name": "Ramon",
+    "element": "Light"
+  },
+  "31415": {
+    "name": "Volg",
+    "element": "Dark"
+  },
+  "31504": {
+    "name": "묘비(빛)",
+    "element": "Light"
+  },
+  "31605": {
+    "name": "묘비(어둠)",
+    "element": "Dark"
+  },
+  "31703": {
+    "name": "히메지마 교메이(바람)",
+    "element": "Wind"
+  },
+  "31713": {
+    "name": "Gyomei Himejima",
+    "element": "Wind"
+  },
+  "31801": {
+    "name": "카마도 탄지로(물)",
+    "element": "Water"
+  },
+  "31802": {
+    "name": "카마도 탄지로(불)",
+    "element": "Fire"
+  },
+  "31803": {
+    "name": "카마도 탄지로(바람)",
+    "element": "Wind"
+  },
+  "31804": {
+    "name": "카마도 탄지로(빛)",
+    "element": "Light"
+  },
+  "31805": {
+    "name": "카마도 탄지로(어둠)",
+    "element": "Dark"
+  },
+  "31811": {
+    "name": "Tanjiro Kamado",
+    "element": "Water"
+  },
+  "31812": {
+    "name": "Tanjiro Kamado",
+    "element": "Fire"
+  },
+  "31813": {
+    "name": "Tanjiro Kamado",
+    "element": "Wind"
+  },
+  "31814": {
+    "name": "Tanjiro Kamado",
+    "element": "Light"
+  },
+  "31815": {
+    "name": "Tanjiro Kamado",
+    "element": "Dark"
+  },
+  "31901": {
+    "name": "카마도 네즈코(물)",
+    "element": "Water"
+  },
+  "31902": {
+    "name": "카마도 네즈코(불)",
+    "element": "Fire"
+  },
+  "31903": {
+    "name": "카마도 네즈코(바람)",
+    "element": "Wind"
+  },
+  "31904": {
+    "name": "카마도 네즈코(빛)",
+    "element": "Light"
+  },
+  "31905": {
+    "name": "카마도 네즈코(어둠)",
+    "element": "Dark"
+  },
+  "31911": {
+    "name": "Nezuko Kamado",
+    "element": "Water"
+  },
+  "31912": {
+    "name": "Nezuko Kamado",
+    "element": "Fire"
+  },
+  "31913": {
+    "name": "Nezuko Kamado",
+    "element": "Wind"
+  },
+  "31914": {
+    "name": "Nezuko Kamado",
+    "element": "Light"
+  },
+  "31915": {
+    "name": "Nezuko Kamado",
+    "element": "Dark"
+  },
+  "32011": {
+    "name": "Nezuko Kamado",
+    "element": "Water"
+  },
+  "32012": {
+    "name": "Nezuko Kamado",
+    "element": "Fire"
+  },
+  "32013": {
+    "name": "Nezuko Kamado",
+    "element": "Wind"
+  },
+  "32014": {
+    "name": "Nezuko Kamado",
+    "element": "Light"
+  },
+  "32015": {
+    "name": "Nezuko Kamado",
+    "element": "Dark"
+  },
+  "32101": {
+    "name": "Inosuke Hashibira",
+    "element": "Water"
+  },
+  "32102": {
+    "name": "Inosuke Hashibira",
+    "element": "Fire"
+  },
+  "32103": {
+    "name": "Inosuke Hashibira",
+    "element": "Wind"
+  },
+  "32104": {
+    "name": "Inosuke Hashibira",
+    "element": "Light"
+  },
+  "32105": {
+    "name": "Inosuke Hashibira",
+    "element": "Dark"
+  },
+  "32111": {
+    "name": "Inosuke Hashibira",
+    "element": "Water"
+  },
+  "32112": {
+    "name": "Inosuke Hashibira",
+    "element": "Fire"
+  },
+  "32113": {
+    "name": "Inosuke Hashibira",
+    "element": "Wind"
+  },
+  "32114": {
+    "name": "Inosuke Hashibira",
+    "element": "Light"
+  },
+  "32115": {
+    "name": "Inosuke Hashibira",
+    "element": "Dark"
+  },
+  "32201": {
+    "name": "아가츠마 젠이츠(물)",
+    "element": "Water"
+  },
+  "32202": {
+    "name": "아가츠마 젠이츠(불)",
+    "element": "Fire"
+  },
+  "32203": {
+    "name": "아가츠마 젠이츠(바람)",
+    "element": "Wind"
+  },
+  "32204": {
+    "name": "아가츠마 젠이츠(빛)",
+    "element": "Light"
+  },
+  "32205": {
+    "name": "아가츠마 젠이츠(어둠)",
+    "element": "Dark"
+  },
+  "32211": {
+    "name": "Zenitsu Agatsuma",
+    "element": "Water"
+  },
+  "32212": {
+    "name": "Zenitsu Agatsuma",
+    "element": "Fire"
+  },
+  "32213": {
+    "name": "Zenitsu Agatsuma",
+    "element": "Wind"
+  },
+  "32214": {
+    "name": "Zenitsu Agatsuma",
+    "element": "Light"
+  },
+  "32215": {
+    "name": "Zenitsu Agatsuma",
+    "element": "Dark"
+  },
+  "32403": {
+    "name": "Black Tortoise Champion",
+    "element": "Wind"
+  },
+  "32413": {
+    "name": "Black Tortoise Champion",
+    "element": "Wind"
+  },
+  "32501": {
+    "name": "Azure Dragon Swordsman",
+    "element": "Water"
+  },
+  "32502": {
+    "name": "Azure Dragon Swordsman",
+    "element": "Fire"
+  },
+  "32503": {
+    "name": "Azure Dragon Swordsman",
+    "element": "Wind"
+  },
+  "32504": {
+    "name": "Azure Dragon Swordsman",
+    "element": "Light"
+  },
+  "32505": {
+    "name": "Azure Dragon Swordsman",
+    "element": "Dark"
+  },
+  "32511": {
+    "name": "Azure Dragon Swordsman",
+    "element": "Water"
+  },
+  "32512": {
+    "name": "Azure Dragon Swordsman",
+    "element": "Fire"
+  },
+  "32513": {
+    "name": "Azure Dragon Swordsman",
+    "element": "Wind"
+  },
+  "32514": {
+    "name": "Azure Dragon Swordsman",
+    "element": "Light"
+  },
+  "32515": {
+    "name": "Azure Dragon Swordsman",
+    "element": "Dark"
+  },
+  "32601": {
+    "name": "Vermilion Bird Dancer",
+    "element": "Water"
+  },
+  "32602": {
+    "name": "Vermilion Bird Dancer",
+    "element": "Fire"
+  },
+  "32603": {
+    "name": "Vermilion Bird Dancer",
+    "element": "Wind"
+  },
+  "32604": {
+    "name": "Vermilion Bird Dancer",
+    "element": "Light"
+  },
+  "32605": {
+    "name": "Vermilion Bird Dancer",
+    "element": "Dark"
+  },
+  "32611": {
+    "name": "Vermilion Bird Dancer",
+    "element": "Water"
+  },
+  "32612": {
+    "name": "Vermilion Bird Dancer",
+    "element": "Fire"
+  },
+  "32613": {
+    "name": "Vermilion Bird Dancer",
+    "element": "Wind"
+  },
+  "32614": {
+    "name": "Vermilion Bird Dancer",
+    "element": "Light"
+  },
+  "32615": {
+    "name": "Vermilion Bird Dancer",
+    "element": "Dark"
+  },
+  "32801": {
+    "name": "White Tiger Blade Master",
+    "element": "Water"
+  },
+  "32802": {
+    "name": "White Tiger Blade Master",
+    "element": "Fire"
+  },
+  "32803": {
+    "name": "White Tiger Blade Master",
+    "element": "Wind"
+  },
+  "32804": {
+    "name": "White Tiger Blade Master",
+    "element": "Light"
+  },
+  "32805": {
+    "name": "White Tiger Blade Master",
+    "element": "Dark"
+  },
+  "32811": {
+    "name": "White Tiger Blade Master",
+    "element": "Water"
+  },
+  "32812": {
+    "name": "White Tiger Blade Master",
+    "element": "Fire"
+  },
+  "32813": {
+    "name": "White Tiger Blade Master",
+    "element": "Wind"
+  },
+  "32814": {
+    "name": "White Tiger Blade Master",
+    "element": "Light"
+  },
+  "32815": {
+    "name": "White Tiger Blade Master",
+    "element": "Dark"
+  },
+  "32901": {
+    "name": "Qilin Slasher",
+    "element": "Water"
+  },
+  "32902": {
+    "name": "Qilin Slasher",
+    "element": "Fire"
+  },
+  "32903": {
+    "name": "Qilin Slasher",
+    "element": "Wind"
+  },
+  "32904": {
+    "name": "Qilin Slasher",
+    "element": "Light"
+  },
+  "32905": {
+    "name": "Qilin Slasher",
+    "element": "Dark"
+  },
+  "32911": {
+    "name": "Qilin Slasher",
+    "element": "Water"
+  },
+  "32912": {
+    "name": "Qilin Slasher",
+    "element": "Fire"
+  },
+  "32913": {
+    "name": "Qilin Slasher",
+    "element": "Wind"
+  },
+  "32914": {
+    "name": "Qilin Slasher",
+    "element": "Light"
+  },
+  "32915": {
+    "name": "Qilin Slasher",
+    "element": "Dark"
+  },
+  "32301": {
+    "name": "Beetle Guardian",
+    "element": "Water"
+  },
+  "32302": {
+    "name": "Beetle Guardian",
+    "element": "Fire"
+  },
+  "32303": {
+    "name": "Beetle Guardian",
+    "element": "Wind"
+  },
+  "32304": {
+    "name": "Beetle Guardian",
+    "element": "Light"
+  },
+  "32305": {
+    "name": "Beetle Guardian",
+    "element": "Dark"
+  },
+  "32311": {
+    "name": "Gideon",
+    "element": "Water"
+  },
+  "32312": {
+    "name": "Tityus",
+    "element": "Fire"
+  },
+  "32313": {
+    "name": "Elephas",
+    "element": "Wind"
+  },
+  "32314": {
+    "name": "Hyllus",
+    "element": "Light"
+  },
+  "32315": {
+    "name": "Actaeon",
+    "element": "Dark"
+  },
+  "33002": {
+    "name": "미시마 헤이하치(불)",
+    "element": "Fire"
+  },
+  "33012": {
+    "name": "Heihachi Mishima",
+    "element": "Fire"
+  },
+  "33101": {
+    "name": "카자마 진(물)",
+    "element": "Water"
+  },
+  "33102": {
+    "name": "카자마 진(불)",
+    "element": "Fire"
+  },
+  "33103": {
+    "name": "카자마 진(바람)",
+    "element": "Wind"
+  },
+  "33104": {
+    "name": "카자마 진(빛)",
+    "element": "Light"
+  },
+  "33105": {
+    "name": "카자마 진(어둠)",
+    "element": "Dark"
+  },
+  "33111": {
+    "name": "Jin Kazama",
+    "element": "Water"
+  },
+  "33112": {
+    "name": "Jin Kazama",
+    "element": "Fire"
+  },
+  "33113": {
+    "name": "Jin Kazama",
+    "element": "Wind"
+  },
+  "33114": {
+    "name": "Jin Kazama",
+    "element": "Light"
+  },
+  "33115": {
+    "name": "Jin Kazama",
+    "element": "Dark"
+  },
+  "33201": {
+    "name": "화랑(물)",
+    "element": "Water"
+  },
+  "33202": {
+    "name": "화랑(불)",
+    "element": "Fire"
+  },
+  "33203": {
+    "name": "화랑(바람)",
+    "element": "Wind"
+  },
+  "33204": {
+    "name": "화랑(빛)",
+    "element": "Light"
+  },
+  "33205": {
+    "name": "화랑(어둠)",
+    "element": "Dark"
+  },
+  "33211": {
+    "name": "Hwoarang",
+    "element": "Water"
+  },
+  "33212": {
+    "name": "Hwoarang",
+    "element": "Fire"
+  },
+  "33213": {
+    "name": "Hwoarang",
+    "element": "Wind"
+  },
+  "33214": {
+    "name": "Hwoarang",
+    "element": "Light"
+  },
+  "33215": {
+    "name": "Hwoarang",
+    "element": "Dark"
+  },
+  "33301": {
+    "name": "폴 피닉스(물)",
+    "element": "Water"
+  },
+  "33302": {
+    "name": "폴 피닉스(불)",
+    "element": "Fire"
+  },
+  "33303": {
+    "name": "폴 피닉스(바람)",
+    "element": "Wind"
+  },
+  "33304": {
+    "name": "폴 피닉스(빛)",
+    "element": "Light"
+  },
+  "33305": {
+    "name": "폴 피닉스(어둠)",
+    "element": "Dark"
+  },
+  "33311": {
+    "name": "Paul Phoenix",
+    "element": "Water"
+  },
+  "33312": {
+    "name": "Paul Phoenix",
+    "element": "Fire"
+  },
+  "33313": {
+    "name": "Paul Phoenix",
+    "element": "Wind"
+  },
+  "33314": {
+    "name": "Paul Phoenix",
+    "element": "Light"
+  },
+  "33315": {
+    "name": "Paul Phoenix",
+    "element": "Dark"
+  },
+  "33401": {
+    "name": "니나 윌리엄스(물)",
+    "element": "Water"
+  },
+  "33402": {
+    "name": "니나 윌리엄스(불)",
+    "element": "Fire"
+  },
+  "33403": {
+    "name": "니나 윌리엄스(바람)",
+    "element": "Wind"
+  },
+  "33404": {
+    "name": "니나 윌리엄스(빛)",
+    "element": "Light"
+  },
+  "33405": {
+    "name": "니나 윌리엄스(어둠)",
+    "element": "Dark"
+  },
+  "33411": {
+    "name": "Nina Williams",
+    "element": "Water"
+  },
+  "33412": {
+    "name": "Nina Williams",
+    "element": "Fire"
+  },
+  "33413": {
+    "name": "Nina Williams",
+    "element": "Wind"
+  },
+  "33414": {
+    "name": "Nina Williams",
+    "element": "Light"
+  },
+  "33415": {
+    "name": "Nina Williams",
+    "element": "Dark"
+  },
+  "44107": {
+    "name": "Frostjade Beast Khi'zar Kha'jul",
+    "element": "Water"
+  },
+  "44108": {
+    "name": "Frostjade Beast Khi'zar Kha'jul",
+    "element": "Water"
+  },
+  "44109": {
+    "name": "Frostjade Beast Khi'zar Kha'jul",
+    "element": "Water"
+  },
+  "44207": {
+    "name": "Blazing Beast Khi'zar Kha'jul",
+    "element": "Fire"
+  },
+  "44208": {
+    "name": "Blazing Beast Khi'zar Kha'jul",
+    "element": "Fire"
+  },
+  "44209": {
+    "name": "Blazing Beast Khi'zar Kha'jul",
+    "element": "Fire"
+  },
+  "44307": {
+    "name": "Tempest Beast Khi'zar Kha'jul",
+    "element": "Wind"
+  },
+  "44308": {
+    "name": "Tempest Beast Khi'zar Kha'jul",
+    "element": "Wind"
+  },
+  "44309": {
+    "name": "Tempest Beast Khi'zar Kha'jul",
+    "element": "Wind"
+  },
+  "2003503": {
+    "name": "Azazel",
+    "element": "Wind"
+  },
+  "2003601": {
+    "name": "Kazuya Mishima",
+    "element": "Water"
+  },
+  "2003705": {
+    "name": "True Devil Kazuya",
+    "element": "Dark"
+  }
+}
